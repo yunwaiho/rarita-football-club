@@ -20,7 +20,7 @@ const removeAccents = require('remove-accents');
 // ie: year: '2020' means 20/21
 const league = {
     url: '/uefa-champions-league/teilnehmer/pokalwettbewerb/CL/', 
-    year: '2020'
+    year: '2019'
 }
 
 // fbref data of players that we wish to find market value of
