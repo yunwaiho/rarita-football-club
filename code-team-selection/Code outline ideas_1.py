@@ -102,6 +102,3 @@ print(sum(df["Player lent out for TMW 1"]))
 print(sum(df["Player borrowed for TMW 5"]))
 print(df.head(10))
 
-
-
-
