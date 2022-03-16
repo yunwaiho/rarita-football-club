@@ -1,0 +1,7 @@
+The initial idea was to predict market value using attributes, hopefully seeing a relationship between salary and market value, which could also help finding a better assumption between market value and salary.
+
+Took a look at histograms and heatmaps of correlations < histogram.png, defense.png, gk.png, p.png, s.png >, and picked predictors that had the highest correlation (kendall).
+
+Using the selected predictors, we tried to fit a Gamma glm with the log link. From < residual plot.png > (fitted on x vs residual on y), it didn't look great (though we understand we are supposed to use deviance residual plots, which was not available in the module used).
+
+< mvsalary.png > shows a scatterplot of mv predicted by this model vs annual salary, and honestly it looks like a mess and totally random. So instead we are now trying to predict salary based on age, age^2 and previous salary and completely ignoring the step of market value (since we only need salary in the model Eszter and William are working on) and focusing on projecting salary.
