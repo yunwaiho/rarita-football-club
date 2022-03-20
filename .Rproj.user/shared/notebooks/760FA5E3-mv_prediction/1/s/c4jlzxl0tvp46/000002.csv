@@ -1,0 +1,4 @@
+"0","write.csv(as.data.frame(as.matrix(shooting.glm)), ""market_value model/shooting-glm.csv"")"
+"0","write.csv(as.data.frame(as.matrix(defense.glm)), ""market_value model/defense-glm.csv"")"
+"0","write.csv(as.data.frame(as.matrix(goalkeeping.glm)), ""market_value model/goalkeeping-glm.csv"")"
+"0","write.csv(as.data.frame(as.matrix(passing.glm)), ""market_value model/passing-glm.csv"")"
