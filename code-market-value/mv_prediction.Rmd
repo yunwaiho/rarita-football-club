@@ -136,7 +136,7 @@ dataset = defense
 x.mv <- model.matrix(mv ~ . + I(Age^2), data = dataset)[, -1]
 y.mv <- as.matrix(dataset$mv)
 grid = 10^seq(10,-2, length =100)
-glm.model2 <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
+glm.model <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
 
 cv.glm.model <- cv.glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"))
 best.lambda <- cv.glm.model$lambda.min
@@ -159,7 +159,7 @@ glm.model1 <- glm(mv ~ . + I(Age^2), data = dataset, Gamma(link="log")); summary
 x.mv <- model.matrix(mv ~ . + I(Age^2), data = dataset)[, -1]
 y.mv <- as.matrix(dataset$mv)
 grid = 10^seq(10,-2, length =100)
-glm.model2 <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
+glm.model <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
 
 cv.glm.model <- cv.glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"))
 best.lambda <- cv.glm.model$lambda.min
@@ -182,7 +182,7 @@ glm.model1 <- glm(mv ~ . + I(Age^2), data = dataset, Gamma(link="log")); summary
 x.mv <- model.matrix(mv ~ . + I(Age^2), data = dataset)[, -1]
 y.mv <- as.matrix(dataset$mv)
 grid = 10^seq(10,-2, length =100)
-glm.model2 <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
+glm.model <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
 
 cv.glm.model <- cv.glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"))
 best.lambda <- cv.glm.model$lambda.min
@@ -195,10 +195,6 @@ passing.formula <- as.formula(paste("mv ~", paste(names(passing.coef[-1]), colla
 
 glm.model.disp <- glm(passing.formula, data = dataset, Gamma(link="log"))
 passing.disp <- summary(glm.model.disp)$dispersion
-```
-
-```{r}
-cv.glm.model2
 ```
 
 
@@ -253,10 +249,10 @@ mean((goalkeeping$mv - as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = goa
 ```
 
 ```{r}
-write.csv(as.data.frame(as.matrix(shooting.glm)), "market_value model/shooting-glm.csv")
-write.csv(as.data.frame(as.matrix(defense.glm)), "market_value model/defense-glm.csv")
-write.csv(as.data.frame(as.matrix(goalkeeping.glm)), "market_value model/goalkeeping-glm.csv")
-write.csv(as.data.frame(as.matrix(passing.glm)), "market_value model/passing-glm.csv")
+write.csv(as.data.frame(as.matrix(shooting.glm)), "market_value model/glm-shooting.csv")
+write.csv(as.data.frame(as.matrix(defense.glm)), "market_value model/glm-defense.csv")
+write.csv(as.data.frame(as.matrix(goalkeeping.glm)), "market_value model/glm-goalkeeping.csv")
+write.csv(as.data.frame(as.matrix(passing.glm)), "market_value model/glm-passing.csv")
 ```
 
 # Predictions
@@ -453,10 +449,10 @@ for (i in 1:9) {
     r.goalkeeping[, colname] = as.numeric(exp(temp.r.goalkeeping.covariates %*% goalkeeping.glm))
 }
 
-write.csv(r.shooting, "player-selection-shooting.csv")
-write.csv(r.passing, "player-selection-passing.csv")
-write.csv(r.defense, "player-selection-defense.csv")
-write.csv(r.goalkeeping, "player-selection-goalkeeping.csv")
+write.csv(r.shooting, "market_value model/player-selection-shooting.csv")
+write.csv(r.passing, "market_value model/player-selection-passing.csv")
+write.csv(r.defense, "market_value model/player-selection-defense.csv")
+write.csv(r.goalkeeping, "market_value model/player-selection-goalkeeping.csv")
 ```
 
 ```{r}
@@ -522,8 +518,8 @@ for (i in 2:nsims) {
 ```
 
 ```{r}
-write.csv(r.shooting.sim, "mv-simulation-shooting.csv")
-write.csv(r.passing.sim, "mv-simulation-passing.csv")
-write.csv(r.defense.sim, "mv-simulation-defense.csv")
-write.csv(r.goalkeeping.sim, "mv-simulation-goalkeeping.csv")
+write.csv(r.shooting.sim, "market_value model/mv-simulation-shooting.csv")
+write.csv(r.passing.sim, "market_value model/mv-simulation-passing.csv")
+write.csv(r.defense.sim, "market_value model/mv-simulation-defense.csv")
+write.csv(r.goalkeeping.sim, "market_value model/mv-simulation-goalkeeping.csv")
 ```
