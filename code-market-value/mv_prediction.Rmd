@@ -13,30 +13,34 @@ library(glmnet)
 ```{r}
 
 shooting = read.csv("../data/uefa-data/model/uefa-shooting.csv") %>% 
-    select(-c(X, Player, DF, FW, GK, MF)) %>% 
-    filter(mv < 1.0e+08)
+    select(-c(X, Player, DF, FW, GK, MF))
 shooting$Stan.G.SoT <- ifelse(is.na(shooting$Stan.G.SoT), 0, shooting$Stan.G.SoT)
 
+shooting$mv[shooting$mv > 1e+8] <- max(shooting$mv[shooting$mv < 1e+8])
 
 defense = read.csv("../data/uefa-data/model/uefa-defense.csv") %>% 
-    select(-c(X, Player, DF, FW, GK, MF)) %>% 
-    filter(mv < 1.0e+08)
+    select(-c(X, Player, DF, FW, GK, MF))
 defense$Vs.D.Tkl. <- ifelse(is.na(defense$Vs.D.Tkl.), 0, defense$Vs.D.Tkl.)
 defense$Pres.. <- ifelse(is.na(defense$Pres..), 0, defense$Pres..)
+
+defense$mv[defense$mv > 1e+8] <- max(defense$mv[defense$mv < 1e+8])
 
 
 goalkeeping = read.csv("../data/uefa-data/model/uefa-goalkeeping.csv") %>% 
     select(-c(X, Player, DF, FW, GK, MF, Play.MP, Play.Starts)) %>% 
-    filter(mv < 4.0e+07)
+    filter(mv < 4e+7)
 goalkeeping$Pena.Save. <- ifelse(is.na(goalkeeping$Pena.Save.), 0, goalkeeping$Pena.Save.)
 
 passing = read.csv("../data/uefa-data/model/uefa-passing.csv") %>% 
-    select(-c(X, Player, DF, FW, GK, MF)) %>% 
-    filter(mv < 1.0e+08)
+    select(-c(X, Player, DF, FW, GK, MF))
 passing$Tota.Cmp. <- ifelse(is.na(passing$Tota.Cmp.), 0, passing$Tota.Cmp.)
 passing$Shor.Cmp. <- ifelse(is.na(passing$Shor.Cmp.), 0, passing$Shor.Cmp.)
 passing$Medi.Cmp. <- ifelse(is.na(passing$Medi.Cmp.), 0, passing$Medi.Cmp.)
 passing$Long.Cmp. <- ifelse(is.na(passing$Long.Cmp.), 0, passing$Long.Cmp.)
+
+passing$mv[passing$mv > 1e+8] <- max(passing$mv[passing$mv < 1e+8])
+
+
 ```
 
 ```{r}
@@ -308,9 +312,11 @@ r.goalkeeping$Performance.CS. <- ifelse(r.goalkeeping$Performance.CS. > 1, 1, r.
 r.goalkeeping$Penalty.Kicks.Save. <- ifelse(r.goalkeeping$Penalty.Kicks.Save. > 1, 1, r.goalkeeping$Penalty.Kicks.Save.)
 ```
 ```{r}
-r.passing = read.csv("../data/processed-data/l_passing_clean.csv") %>% 
+r.passing = read.csv("../data/processed-data/l_passing_clean_90.csv") %>% 
     select(-c(X, DF, FW, GK, MF)) %>% 
-    filter(Year == 2021, `X90s` >0)
+    filter(Year == 2021, `X90s` >0) %>% 
+    filter(Player != "a.schumacher")
+
 r.passing$Total.Cmp. <- ifelse(is.na(r.passing$Total.Cmp.), 0, r.passing$Total.Cmp.)
 r.passing$Short.Cmp. <- ifelse(is.na(r.passing$Short.Cmp.), 0, r.passing$Short.Cmp.)
 r.passing$Medium.Cmp. <- ifelse(is.na(r.passing$Medium.Cmp.), 0, r.passing$Medium.Cmp.)
@@ -322,6 +328,8 @@ r.passing$Total.Cmp. <- ifelse(r.passing$Total.Cmp. > 1, 1, r.passing$Total.Cmp.
 r.passing$Short.Cmp. <- ifelse(r.passing$Short.Cmp. > 1, 1, r.passing$Short.Cmp.)
 r.passing$Medium.Cmp. <- ifelse(r.passing$Medium.Cmp. > 1, 1, r.passing$Medium.Cmp.)
 r.passing$Long.Cmp. <- ifelse(r.passing$Long.Cmp. > 1, 1, r.passing$Long.Cmp.)
+
+r.passing$Total.TotDist[r.passing$Total.TotDist > 3000] <- max(r.passing$Total.TotDist[r.passing$Total.TotDist < 3000])
 ```
 
 ```{r}
@@ -368,6 +376,11 @@ summary(goalkeeping)
 
 summary(r.passing)
 summary(passing)
+```
+
+```{r}
+boxplot(r.passing %>% select(-c(Player, Nation, Squad, League)))
+boxplot(passing %>% select(-c(mv)))
 ```
 
 ```{r}
@@ -463,7 +476,7 @@ r.passing.sim <- r.passing %>% select(Player, Nation, Squad, mv0, mv1, mv2, mv3,
 r.defense.sim <- r.defense %>% select(Player, Nation, Squad, mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9)
 r.goalkeeping.sim <- r.goalkeeping %>% select(Player, Nation, Squad, mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9)
 
-nsims <- 100
+nsims <- 50
 
 for (i in 2:nsims) {
     temp.shooting <- r.shooting %>% select(Player, Nation, Squad)
