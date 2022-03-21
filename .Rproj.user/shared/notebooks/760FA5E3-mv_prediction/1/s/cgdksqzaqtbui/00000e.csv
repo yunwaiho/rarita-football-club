@@ -1,0 +1,2 @@
+"0","plot(log(defense$mv) - as.numeric(model.matrix(mv ~ . + I(Age^2), data = defense) %*% defense.glm), "
+"0","     as.numeric(model.matrix(mv ~ . + I(Age^2), data = defense) %*% defense.glm))"

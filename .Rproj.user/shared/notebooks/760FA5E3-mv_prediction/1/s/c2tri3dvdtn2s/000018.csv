@@ -1,0 +1,2 @@
+"0","cv.glm.model2 <- cv.glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = ""log""))"
+"0","plot(cv.glm.model2)"

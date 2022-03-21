@@ -1,0 +1,2823 @@
+,Player Name,League,Squad,Country,Position,Annualized Salary
+0,I. Winter,A,Fanatical Outlaws,Danan Seekeeling,DF,26230000
+1,P. Nakubulwa,A,Fanatical Outlaws,Dosqaly,DF,10180000
+2,Z. Iqbal,A,Fanatical Outlaws,Galamily,DF,27000000
+3,F. Kizito,A,Fanatical Outlaws,People's Land of Maneau,DF,19740000
+4,L. Rezaei,A,Fanatical Outlaws,People's Land of Maneau,DF,27030000
+5,S. Anyait,A,Fanatical Outlaws,People's Land of Maneau,DF,18960000
+6,J. Teko,A,Fanatical Outlaws,Sobianitedrucy,DF,8020000
+7,I. Huber,A,Fanatical Outlaws,Lenia Gerdanho,DFFW,27600000
+8,J. Bala,A,Fanatical Outlaws,People's Land of Maneau,DFFW,23030000
+9,D. Oren,A,Fanatical Outlaws,Central Diasongo,FW,30120000
+10,I. Namirimu,A,Fanatical Outlaws,Thaijagypt,FW,25950000
+11,M. Namukwaya,A,Fanatical Outlaws,Ngoque Blicri,FWDF,27750000
+12,J. Akello,A,Fanatical Outlaws,Bernepamar,FWMF,29220000
+13,I. Kamukama,A,Fanatical Outlaws,Lefghau,FWMF,34090000
+14,W. Lew,A,Fanatical Outlaws,Nganion,FWMF,23090000
+15,B. De Rosa,A,Fanatical Outlaws,People's Land of Maneau,FWMF,27370000
+16,D. John,A,Fanatical Outlaws,Pierrema,FWMF,32840000
+17,S. Kiconco,A,Fanatical Outlaws,Nkasland Cronestan,GK,17580000
+18,R. Chee,A,Fanatical Outlaws,Southslands,GK,5250000
+19,F. Pop,A,Fanatical Outlaws,Galamily,MF,32160000
+20,D. Alshehri,A,Fanatical Outlaws,People's Land of Maneau,MF,21620000
+21,I. Iddrisu,A,Fanatical Outlaws,People's Land of Maneau,MF,17300000
+22,E. Taylor,A,Fanatical Outlaws,People's Land of Maneau,MFFW,32720000
+23,H. Tourgeman,A,Fanatical Outlaws,Rarita,MFFW,30700000
+24,Q. Hor,A,Fighting Cougars,Byasier Pujan,DF,15100000
+25,D. Ikeda,A,Fighting Cougars,People's Land of Maneau,DF,17210000
+26,G. Köhler,A,Fighting Cougars,People's Land of Maneau,DF,23440000
+27,I. Ludwig,A,Fighting Cougars,People's Land of Maneau,DF,27450000
+28,K. Tóth,A,Fighting Cougars,People's Land of Maneau,DF,26350000
+29,U. Ortíz,A,Fighting Cougars,People's Land of Maneau,DF,15200000
+30,Y. Rabinovitch,A,Fighting Cougars,Western Niasland,DF,15950000
+31,R. Petrenko,A,Fighting Cougars,Lefghau,DFMF,18590000
+32,D. Kikuchi,A,Fighting Cougars,Nkasland Cronestan,DFMF,19140000
+33,Z. ?no,A,Fighting Cougars,People's Land of Maneau,DFMF,14730000
+34,W. Nabatanzi,A,Fighting Cougars,Esia,FW,10230000
+35,V. Taheri,A,Fighting Cougars,People's Land of Maneau,FW,28630000
+36,R. binti Hassan,A,Fighting Cougars,Southslands,FW,18910000
+37,K. Gonçalves,A,Fighting Cougars,Quewenia,FWDF,30370000
+38,G. Bellini,A,Fighting Cougars,Buhegeor,FWMF,24400000
+39,L. Wafula,A,Fighting Cougars,Dosqaly,FWMF,24770000
+40,M. Hsieh,A,Fighting Cougars,Lonnia Haba,FWMF,17540000
+41,F. Cho,A,Fighting Cougars,Southern Ristan,FWMF,32370000
+42,Z. Marini,A,Fighting Cougars,Central Republic of Boekrainego,GK,22740000
+43,P. Robinson,A,Fighting Cougars,Nganion,GK,22460000
+44,I. Azulay,A,Fighting Cougars,Byasier Pujan,MF,21300000
+45,H. Narvaez,A,Fighting Cougars,Reugha,MF,18780000
+46,R. Matovu,A,Fighting Cougars,Southslands,MF,2620000
+47,P. Chew,A,Fighting Cougars,Esia,MFDF,28480000
+48,O. Kia,A,Fighting Cougars,Western Niasland,MFDF,23910000
+49,Q. Nabimanya,A,Fighting Cougars,Imaar Vircoand,MFFW,10780000
+50,I. Ocen,A,Fighting Cougars,People's Land of Maneau,MFFW,28360000
+51,D. Daniel,A,Great Galactic Gorgons,People's Land of Maneau,DF,13630000
+52,F. Kembabazi,A,Great Galactic Gorgons,People's Land of Maneau,DF,18790000
+53,F. Lieu,A,Great Galactic Gorgons,People's Land of Maneau,DF,3260000
+54,H. Akugizibwe,A,Great Galactic Gorgons,People's Land of Maneau,DF,18580000
+55,I. Akpan,A,Great Galactic Gorgons,People's Land of Maneau,DF,20540000
+56,T. Awuah,A,Great Galactic Gorgons,People's Land of Maneau,DF,17100000
+57,T. Barigye,A,Great Galactic Gorgons,People's Land of Maneau,DF,15110000
+58,U. Ban,A,Great Galactic Gorgons,People's Land of Maneau,DF,31340000
+59,I. Najjemba,A,Great Galactic Gorgons,Southslands,DF,24550000
+60,X. Nalukenge,A,Great Galactic Gorgons,Southslands,DF,25340000
+61,I. binti Omar,A,Great Galactic Gorgons,Djipines,DFMF,20450000
+62,M. Ludwig,A,Great Galactic Gorgons,Rarita,DFMF,11910000
+63,R. Lambert,A,Great Galactic Gorgons,Ngoque Blicri,FW,26200000
+64,Y. Susanti,A,Great Galactic Gorgons,Ngoque Blicri,FW,27640000
+65,A. Schmitt,A,Great Galactic Gorgons,People's Land of Maneau,FW,26370000
+66,U. Rodriguês,A,Great Galactic Gorgons,People's Land of Maneau,FW,34980000
+67,W. Swee,A,Great Galactic Gorgons,People's Land of Maneau,FW,19550000
+68,M. Nkhata,A,Great Galactic Gorgons,People's Land of Maneau,FWDF,24470000
+69,G. Elbaz,A,Great Galactic Gorgons,Dosqaly,FWMF,30260000
+70,H. Gomani,A,Great Galactic Gorgons,Southslands,FWMF,29870000
+71,A. Soong,A,Great Galactic Gorgons,People's Land of Maneau,GK,25510000
+72,A. Tayebwa,A,Great Galactic Gorgons,Dosqaly,MF,10690000
+73,D. Kojima,A,Great Galactic Gorgons,Highhlaands,MF,31520000
+74,A. Aryemo,A,Great Galactic Gorgons,Ngoque Blicri,MF,32610000
+75,G. Gustafsson,A,Great Galactic Gorgons,People's Land of Maneau,MF,30720000
+76,H. Susanto,A,Great Galactic Gorgons,Redohrainbri,MF,18810000
+77,F. Nakazibwe,A,Great Galactic Gorgons,People's Land of Maneau,MFDF,20660000
+78,Z. Okon,A,Green Fleet,Byasier Pujan,DF,23880000
+79,G. Nimusiima,A,Green Fleet,Central Diasongo,DF,3220000
+80,D. Chen,A,Green Fleet,Lefghau,DF,24280000
+81,C. Muyama,A,Green Fleet,People's Land of Maneau,DF,19050000
+82,G. Hernández,A,Green Fleet,People's Land of Maneau,DF,14680000
+83,L. Mugumya,A,Green Fleet,People's Land of Maneau,DF,12990000
+84,U. Kaahwa,A,Green Fleet,People's Land of Maneau,DF,7230000
+85,U. Wright,A,Green Fleet,People's Land of Maneau,DF,22000000
+86,Z. Agyei,A,Green Fleet,People's Land of Maneau,DF,14770000
+87,Q. Sarfo,A,Green Fleet,Xikong,DF,3260000
+88,C. Gheorghe,A,Green Fleet,Central Diasongo,FW,17030000
+89,I. Koomson,A,Green Fleet,Djipines,FW,21140000
+90,L. Obote,A,Green Fleet,Dosqaly,FW,32590000
+91,I. Abeja,A,Green Fleet,Janmico,FW,38440000
+92,J. Namatovu,A,Green Fleet,People's Land of Maneau,FW,6920000
+93,T. Ichikawa,A,Green Fleet,People's Land of Maneau,FW,31170000
+94,Z. Nabaweesi,A,Green Fleet,People's Land of Maneau,FW,28400000
+95,N. Gheorghe,A,Green Fleet,Republic of Denand Landsa,FW,27490000
+96,L. Amadu,A,Green Fleet,Xikong,FW,32270000
+97,S. Avraham,A,Green Fleet,Nganion,FWMF,27800000
+98,G. Mwebaze,A,Green Fleet,Nganion,GK,18080000
+99,P. Kabugo,A,Green Fleet,People's Land of Maneau,GK,19620000
+100,C. Ji,A,Green Fleet,Greri Landmoslands,MF,31790000
+101,Q. Nabutono,A,Green Fleet,Lefghau,MF,19920000
+102,P. Bauri,A,Green Fleet,Ngoque Blicri,MF,35260000
+103,A. Miura,A,Green Fleet,Rosvi,MF,16090000
+104,U. Guerin,A,Green Fleet,Tabhu Striary,MF,4470000
+105,G. Hartmann,A,Green Fleet,Byasier Pujan,MFFW,27650000
+106,J. Rukundo,A,Green Fleet,Dosqaly,MFFW,31430000
+107,A. Haruna,A,Horrible Grizzlies,Dosqaly,DF,23430000
+108,D. Svensson,A,Horrible Grizzlies,Esia,DF,8810000
+109,O. Khainza,A,Horrible Grizzlies,Lefghau,DF,11720000
+110,Y. Eyotaru,A,Horrible Grizzlies,Mico,DF,15490000
+111,D. Martini,A,Horrible Grizzlies,Nganion,DF,31860000
+112,S. Namugere,A,Horrible Grizzlies,Nganion,DF,22230000
+113,F. Kalule,A,Horrible Grizzlies,People's Land of Maneau,DF,27830000
+114,T. Nouri,A,Horrible Grizzlies,People's Land of Maneau,DF,19540000
+115,V. Thompson,A,Horrible Grizzlies,People's Land of Maneau,DF,31250000
+116,V. bin Ali,A,Horrible Grizzlies,Sobianitedrucy,DF,24980000
+117,S. Mlakar,A,Horrible Grizzlies,Dosqaly,FW,30800000
+118,Q. Günther,A,Horrible Grizzlies,Esia,FW,29980000
+119,J. Wan,A,Horrible Grizzlies,People's Land of Maneau,FW,20530000
+120,Z. Makore,A,Horrible Grizzlies,People's Land of Maneau,FW,24900000
+121,N. Nantege,A,Horrible Grizzlies,People's Land of Maneau,FWDF,33180000
+122,A. Olobo,A,Horrible Grizzlies,Biarizea,FWMF,30470000
+123,D. Kayira,A,Horrible Grizzlies,Slandsganiamayotteque,FWMF,26810000
+124,E. Wibowo,A,Horrible Grizzlies,Coastpa Barleslands,GK,15120000
+125,R. Wanyama,A,Horrible Grizzlies,Imaar Vircoand,GK,11490000
+126,J. Nkrumah,A,Horrible Grizzlies,Nganion,GK,9830000
+127,M. Matsumoto,A,Horrible Grizzlies,Dosqaly,MF,30800000
+128,C. Nyesiga,A,Horrible Grizzlies,Manlisgamncent,MF,22560000
+129,Y. Diallo,A,Horrible Grizzlies,Ngoque Blicri,MF,12230000
+130,G. Baey,A,Horrible Grizzlies,People's Land of Maneau,MF,26330000
+131,I. Makavan,A,Horrible Grizzlies,Sobianitedrucy,MF,27700000
+132,H. Alobo,A,Horrible Grizzlies,Esia,MFFW,27350000
+133,O. Nampeera,A,Horrible Grizzlies,People's Land of Maneau,MFFW,30150000
+134,B. Longoli,A,Horrible Storm,Djipines,DF,9600000
+135,A. Tay,A,Horrible Storm,Frenchdo Stanser,DF,28970000
+136,D. Yusof,A,Horrible Storm,Nkasland Cronestan,DF,21510000
+137,B. Stewart,A,Horrible Storm,People's Land of Maneau,DF,19400000
+138,H. Steiner,A,Horrible Storm,People's Land of Maneau,DF,14950000
+139,K. Mirkovi?,A,Horrible Storm,People's Land of Maneau,DF,17400000
+140,Y. Aidoo,A,Horrible Storm,People's Land of Maneau,DF,23230000
+141,H. Nsamba,A,Horrible Storm,Byasier Pujan,FW,24050000
+142,E. Estrada,A,Horrible Storm,Frenchdo Stanser,FW,23230000
+143,A. Popescu,A,Horrible Storm,People's Land of Maneau,FW,32520000
+144,X. Yau,A,Horrible Storm,People's Land of Maneau,FW,15100000
+145,K. Aliyu,A,Horrible Storm,Saintswacroa,FW,22290000
+146,K. Muhumuza,A,Horrible Storm,People's Land of Maneau,FWMF,22310000
+147,K. Namuwaya,A,Horrible Storm,People's Land of Maneau,FWMF,25750000
+148,N. Bondarenko,A,Horrible Storm,People's Land of Maneau,FWMF,30860000
+149,S. Tamale,A,Horrible Storm,Imaar Vircoand,GK,26390000
+150,K. Makaza,A,Horrible Storm,Dosqaly,MF,11530000
+151,R. Akech,A,Horrible Storm,Eastern Covaki,MF,17110000
+152,L. Egger,A,Horrible Storm,Lefghau,MF,13950000
+153,Z. Cher,A,Horrible Storm,Ngoque Blicri,MF,29810000
+154,G. Baey,A,Horrible Storm,People's Land of Maneau,MF,30190000
+155,T. Nkhoma,A,Horrible Storm,Southslands,MF,26430000
+156,Q. Mbambu,A,Horrible Storm,Lefghau,MFFW,27710000
+157,Y. Nabulo,A,Horrible Storm,People's Land of Maneau,MFFW,10500000
+158,Z. Chipeta,A,Mighty Jays,Esia,DF,14950000
+159,D. Asaba,A,Mighty Jays,Greri Landmoslands,DF,8490000
+160,S. Chided,A,Mighty Jays,Lefghau,DF,14780000
+161,S. Kaggwa,A,Mighty Jays,Lefghau,DF,17980000
+162,E. ?ta,A,Mighty Jays,Nganion,DF,8670000
+163,Z. Semakula,A,Mighty Jays,Nganion,DF,25460000
+164,Q. Aini,A,Mighty Jays,Ngoque Blicri,DF,16720000
+165,E. Ramezani,A,Mighty Jays,People's Land of Maneau,DF,13270000
+166,V. Ram,A,Mighty Jays,People's Land of Maneau,DF,14380000
+167,Z. Nakagawa,A,Mighty Jays,People's Land of Maneau,DF,19000000
+168,A. Akoth,A,Mighty Jays,Unicorporated Tiagascar,DF,20000000
+169,G. Siddiqui,A,Mighty Jays,Central Diasongo,FW,28170000
+170,U. Nalumansi,A,Mighty Jays,Czechnor,FW,26610000
+171,F. Heng,A,Mighty Jays,Dosqaly,FW,25220000
+172,I. Kakuru,A,Mighty Jays,Lefghau,FW,35710000
+173,C. Ssentamu,A,Mighty Jays,People's Land of Maneau,FW,26670000
+174,I. Nugraha,A,Mighty Jays,People's Land of Maneau,FW,22990000
+175,G. Dijkstra,A,Mighty Jays,People's Land of Maneau,FWDF,26510000
+176,U. Chio,A,Mighty Jays,Lefghau,FWMF,24940000
+177,Z. Marini,A,Mighty Jays,Central Republic of Boekrainego,GK,24650000
+178,X. Adikini,A,Mighty Jays,Cuandbo,GK,18110000
+179,V. Kumwenda,A,Mighty Jays,Esia,GK,36670000
+180,J. Rolland,A,Mighty Jays,Frenchdo Stanser,MF,7580000
+181,M. Kusiima,A,Mighty Jays,Nancipenuaroe,MF,34240000
+182,A. Vang,A,Mighty Jays,Nganion,MF,15070000
+183,Y. Ferrara,A,Mighty Jays,People's Land of Maneau,MF,28900000
+184,H. David,A,Mighty Jays,Redohrainbri,MF,33160000
+185,K. Abalo,A,Mighty Jays,Quewenia,MFDF,15940000
+186,E. Nakanjako,A,Mighty Jays,Rarita,MFFW,10750000
+187,V. Garcia,A,Old Mustangs,Byasier Pujan,DF,16030000
+188,A. Sihombing,A,Old Mustangs,Central Namemo Laand,DF,23440000
+189,F. Nassolo,A,Old Mustangs,Djipines,DF,26640000
+190,M. Tumuramye,A,Old Mustangs,Ngoque Blicri,DF,28620000
+191,E. Ruzvidzo,A,Old Mustangs,People's Land of Maneau,DF,19420000
+192,I. Kabagenyi,A,Old Mustangs,People's Land of Maneau,DF,18110000
+193,T. Chebet,A,Old Mustangs,People's Land of Maneau,DF,9420000
+194,Z. Rojas,A,Old Mustangs,People's Land of Maneau,DF,28960000
+195,I. Ssentongo,A,Old Mustangs,Varijitri Isles,DF,10370000
+196,X. Nazari,A,Old Mustangs,Ingre,DFFW,4160000
+197,M. Carpentier,A,Old Mustangs,Lefghau,DFMF,25960000
+198,Y. Niemi,A,Old Mustangs,Coastpa Barleslands,FW,33480000
+199,Y. Wood,A,Old Mustangs,Frenchdo Stanser,FW,29870000
+200,E. Alowo,A,Old Mustangs,Greri Landmoslands,FW,31060000
+201,F. Njoku,A,Old Mustangs,Lefghau,FW,28160000
+202,W. Kayange,A,Old Mustangs,Southern Ristan,FW,23150000
+203,L. Edwards,A,Old Mustangs,People's Land of Maneau,FWMF,23610000
+204,U. Nakazibwe,A,Old Mustangs,Lefghau,GK,29470000
+205,F. Walker,A,Old Mustangs,Nganion,GK,10160000
+206,P. Tetteh,A,Old Mustangs,Southslands,GK,22300000
+207,V. Waswa,A,Old Mustangs,Byasier Pujan,MF,18870000
+208,V. Mattila,A,Old Mustangs,Iverde,MF,27620000
+209,I. Aidoo,A,Old Mustangs,Nganion,MF,18570000
+210,Q. Johnsen,A,Old Mustangs,People's Land of Maneau,MF,34130000
+211,H. Twongirwe,A,Old Mustangs,People's Land of Maneau,MFDF,16190000
+212,P. Saputra,A,Old Mustangs,People's Land of Maneau,MFDF,23070000
+213,A. Logose,A,Old Mustangs,Lylimi,MFFW,24420000
+214,Q. Nakityo,A,Old Mustangs,Quewenia,MFFW,26040000
+215,N. Kamusiime,A,Punctual Rustlers,Dosqaly,DF,25780000
+216,A. Tumuhaise,A,Punctual Rustlers,People's Land of Maneau,DF,14430000
+217,H. Farina,A,Punctual Rustlers,People's Land of Maneau,DF,27230000
+218,S. Debnath,A,Punctual Rustlers,People's Land of Maneau,DF,12330000
+219,I. Namugosa,A,Punctual Rustlers,Western Niasland,DF,12280000
+220,G. Tukwasibwe,A,Punctual Rustlers,Dosqaly,DFFW,17550000
+221,A. Berisha,A,Punctual Rustlers,People's Land of Maneau,DFFW,16380000
+222,T. Kafuko,A,Punctual Rustlers,Southslands,DFMF,21060000
+223,L. Lechner,A,Punctual Rustlers,Lefghau,FW,32310000
+224,C. Namutebi,A,Punctual Rustlers,People's Land of Maneau,FW,39230000
+225,N. Ono,A,Punctual Rustlers,People's Land of Maneau,FW,27840000
+226,J. Lysenko,A,Punctual Rustlers,Sobianitedrucy,FW,24740000
+227,R. Arai,A,Punctual Rustlers,Varijitri Isles,FW,25630000
+228,H. Turyatunga,A,Punctual Rustlers,Republic of Denand Landsa,FWDF,30270000
+229,T. Zoabi,A,Punctual Rustlers,People's Land of Maneau,FWMF,17930000
+230,N. Namwanje,A,Punctual Rustlers,Western Niasland,FWMF,31880000
+231,H. Ochan,A,Punctual Rustlers,Greri Landmoslands,GK,27720000
+232,X. Neri,A,Punctual Rustlers,People's Land of Maneau,GK,13340000
+233,M. Ngamita,A,Punctual Rustlers,Xikong,GK,13320000
+234,M. Nankwanga,A,Punctual Rustlers,Central Diasongo,MF,21800000
+235,B. Kor,A,Punctual Rustlers,Cuandbo,MF,27560000
+236,S. Peretz,A,Punctual Rustlers,Djipines,MF,13610000
+237,K. Van den Berg *,A,Punctual Rustlers,Dosqaly,MF,20930000
+238,X. Muhwezi,A,Punctual Rustlers,Greri Landmoslands,MF,19300000
+239,R. Gentile,A,Punctual Rustlers,Lefghau,MF,12550000
+240,G. Chong,A,Punctual Rustlers,People's Land of Maneau,MF,24370000
+241,D. Pellegrino,A,Punctual Rustlers,People's Land of Maneau,MFDF,16000000
+242,M. Vásquez,A,Punctual Rustlers,Lefghau,MFFW,21540000
+243,I. Mlambo,A,Punctual Rustlers,Redohrainbri,MFFW,30080000
+244,D. Iskandar,A,Silver Heels,Byasier Pujan,DF,24870000
+245,F. Hove,A,Silver Heels,Coastpa Barleslands,DF,20680000
+246,C. Boyko,A,Silver Heels,Dosqaly,DF,9590000
+247,B. Masika,A,Silver Heels,People's Land of Maneau,DF,8880000
+248,B. Weiß,A,Silver Heels,People's Land of Maneau,DF,11480000
+249,B. Wright,A,Silver Heels,People's Land of Maneau,DF,16180000
+250,K. Machava,A,Silver Heels,People's Land of Maneau,DF,15200000
+251,Q. Majawa,A,Silver Heels,People's Land of Maneau,DF,21290000
+252,Z. Kayendeke,A,Silver Heels,People's Land of Maneau,DF,13180000
+253,Z. Mutandwa,A,Silver Heels,People's Land of Maneau,DF,23280000
+254,M. Purnomo,A,Silver Heels,Central Diasongo,FW,26300000
+255,D. Morales,A,Silver Heels,Dosqaly,FW,13150000
+256,F. Diaz,A,Silver Heels,Southern Ristan,FW,22880000
+257,X. Nakanwagi,A,Silver Heels,Southern Ristan,FW,18630000
+258,W. Markovi?,A,Silver Heels,Nancipenuaroe,FWMF,26070000
+259,Q. Musimenta,A,Silver Heels,Nganion,GK,11470000
+260,C. Leroy,A,Silver Heels,People's Land of Maneau,GK,3970000
+261,J. Agaba,A,Silver Heels,Byasier Pujan,MF,23400000
+262,E. Mutebi,A,Silver Heels,Nancipenuaroe,MF,27490000
+263,V. Mahagna,A,Silver Heels,Ngoque Blicri,MF,21360000
+264,J. Mukalazi,A,Silver Heels,People's Land of Maneau,MF,26870000
+265,A. Nyasulu,A,Silver Heels,Rosvi,MF,23500000
+266,I. Joseph,A,Silver Heels,Southslands,MF,9510000
+267,A. Bruno,A,Silver Heels,People's Land of Maneau,MFFW,30890000
+268,A. Nakiranda,A,Solemn Cougars,Dosqaly,DF,10370000
+269,Q. Sam,A,Solemn Cougars,Giumle Lizeibon,DF,14380000
+270,S. Kasamba,A,Solemn Cougars,Greri Landmoslands,DF,27320000
+271,R. Navarro,A,Solemn Cougars,Highhlaands,DF,19610000
+272,T. Nagujja,A,Solemn Cougars,Nancipenuaroe,DF,21540000
+273,F. Omara,A,Solemn Cougars,People's Land of Maneau,DF,21500000
+274,Y. Deng,A,Solemn Cougars,People's Land of Maneau,DF,25330000
+275,A. Acheng,A,Solemn Cougars,Southern Ristan,DF,25870000
+276,D. Tawiah,A,Solemn Cougars,Thaijagypt,DF,11620000
+277,M. Happy,A,Solemn Cougars,Varijitri Isles,DF,21220000
+278,C. Mwesige,A,Solemn Cougars,People's Land of Maneau,DFFW,29350000
+279,L. Musoki,A,Solemn Cougars,People's Land of Maneau,FW,27430000
+280,V. Mudondo,A,Solemn Cougars,People's Land of Maneau,FW,32680000
+281,H. Mubaiwa,A,Solemn Cougars,Rarita,FW,1580000
+282,I. Nyamande,A,Solemn Cougars,Republic of Denand Landsa,FW,37280000
+283,X. Joly,A,Solemn Cougars,People's Land of Maneau,FWMF,38050000
+284,S. Zandamela,A,Solemn Cougars,Mico,GK,17000000
+285,R. Schubert,A,Solemn Cougars,Buhegeor,MF,21980000
+286,O. Nabirye,A,Solemn Cougars,Coastpa Barleslands,MF,10920000
+287,Q. Annan,A,Solemn Cougars,Greri Landmoslands,MF,17530000
+288,T. bin Mohamed,A,Solemn Cougars,People's Land of Maneau,MF,15990000
+289,H. Leong,A,Solemn Cougars,Southern Ristan,MF,29510000
+290,C. Kawooya,A,Solemn Cougars,Republic of Denand Landsa,MFDF,32300000
+291,F. Mtambo,A,Solemn Cougars,Nganion,MFFW,36830000
+292,W. Török,A,Solemn Cougars,People's Land of Maneau,MFFW,31290000
+293,X. Boateng,A,Solemn Cougars,Southern Ristan,MFFW,26170000
+294,Q. Higenyi,A,Solemn Cougars,Varijitri Isles,MFFW,20980000
+295,O. binti Mohamad,A,Somber Bombers,Djipines,DF,13730000
+296,P. Ferri,A,Somber Bombers,Highhlaands,DF,22930000
+297,Y. Phe,A,Somber Bombers,Imaar Vircoand,DF,18870000
+298,V. Abiria,A,Somber Bombers,Nganion,DF,22160000
+299,X. Heikkilä,A,Somber Bombers,People's Land of Maneau,DF,16010000
+300,M. Nabukwasi,A,Somber Bombers,Quewenia,DF,15440000
+301,I. Amoah,A,Somber Bombers,Slandsganiamayotteque,DF,10970000
+302,F. Kollár,A,Somber Bombers,Southslands,DF,32440000
+303,V. Lao,A,Somber Bombers,Xikong,DF,6550000
+304,K. Najjuma,A,Somber Bombers,Ngoque Blicri,DFMF,24690000
+305,S. Mbewe,A,Somber Bombers,People's Land of Maneau,DFMF,14050000
+306,B. Maturu,A,Somber Bombers,People's Land of Maneau,FW,22370000
+307,D. Athieno,A,Somber Bombers,People's Land of Maneau,FW,23810000
+308,H. Mafabi,A,Somber Bombers,Dosqaly,FWMF,20050000
+309,R. De Wit,A,Somber Bombers,Lefghau,FWMF,26680000
+310,D. Masereka,A,Somber Bombers,Ngoque Blicri,FWMF,13010000
+311,R. Wambi,A,Somber Bombers,People's Land of Maneau,FWMF,29920000
+312,M. Janssens,A,Somber Bombers,Ledian,GK,21840000
+313,P. Johansson,A,Somber Bombers,People's Land of Maneau,GK,23110000
+314,N. Koz?owski,A,Somber Bombers,Ngoque Blicri,MF,7960000
+315,A. Nassanga,A,Somber Bombers,People's Land of Maneau,MF,22780000
+316,M. Ferrara,A,Somber Bombers,People's Land of Maneau,MF,16770000
+317,Y. Ferrara,A,Somber Bombers,People's Land of Maneau,MF,34120000
+318,Z. Yosef,A,Somber Bombers,People's Land of Maneau,MF,12040000
+319,T. Achan,A,Somber Bombers,Southslands,MF,23300000
+320,C. K?avi?š,A,Somber Bombers,People's Land of Maneau,MFDF,27790000
+321,J. P?tersons,A,Somber Bombers,Danan Seekeeling,MFFW,24490000
+322,O. Mägi,A,Stacked Rocks,Central Diasongo,DF,26170000
+323,C. Magombo,A,Stacked Rocks,Djipines,DF,6920000
+324,M. Tang,A,Stacked Rocks,Djipines,DF,21800000
+325,K. Mpofu,A,Stacked Rocks,Nganion,DF,30790000
+326,A. Janssen,A,Stacked Rocks,People's Land of Maneau,DF,19030000
+327,D. Nishimura,A,Stacked Rocks,People's Land of Maneau,DF,20550000
+328,E. Koç,A,Stacked Rocks,Rarita,DF,14050000
+329,W. Karlsson,A,Stacked Rocks,Southern Ristan,DF,8610000
+330,C. Bai,A,Stacked Rocks,Western Niasland,DF,14830000
+331,Q. Ariko,A,Stacked Rocks,Djipines,FW,34440000
+332,C. Kadosh,A,Stacked Rocks,Landli Blicporlip,FW,33020000
+333,P. Musiime,A,Stacked Rocks,Lefghau,FW,26930000
+334,J. Hakim,A,Stacked Rocks,People's Land of Maneau,FW,9770000
+335,Z. binti Zakaria,A,Stacked Rocks,People's Land of Maneau,FW,31400000
+336,L. Kyalisiima,A,Stacked Rocks,Byasier Pujan,FWMF,19220000
+337,D. Namugerwa,A,Stacked Rocks,Imaar Vircoand,FWMF,29860000
+338,C. Guerrero,A,Stacked Rocks,Lefghau,FWMF,33230000
+339,W. Nasiru,A,Stacked Rocks,Rarita,GK,22410000
+340,G. Magnusson,A,Stacked Rocks,Dosqaly,MF,23890000
+341,H. Cardoso,A,Stacked Rocks,Dosqaly,MF,16120000
+342,H. Ruiz,A,Stacked Rocks,Imaar Vircoand,MF,25380000
+343,A. Kiss,A,Stacked Rocks,Mico,MF,12340000
+344,I. Nayak,A,Stacked Rocks,People's Land of Maneau,MF,12860000
+345,V. Álvarez,A,Stacked Rocks,Rarita,MF,27580000
+346,J. Tse,A,Swift Musketeers,Dosqaly,DF,14990000
+347,W. Twinamatsiko,A,Swift Musketeers,Mico,DF,11320000
+348,K. Ferrari,A,Swift Musketeers,Nancipenuaroe,DF,15610000
+349,D. Shahar,A,Swift Musketeers,Nkasland Cronestan,DF,12060000
+350,F. Fujihara,A,Swift Musketeers,People's Land of Maneau,DF,20700000
+351,J. Ssempijja,A,Swift Musketeers,People's Land of Maneau,DF,15840000
+352,P. Byamukama,A,Swift Musketeers,People's Land of Maneau,DF,18330000
+353,Q. Tiko,A,Swift Musketeers,People's Land of Maneau,DF,12270000
+354,W. Alves,A,Swift Musketeers,People's Land of Maneau,DF,12900000
+355,E. Kühn,A,Swift Musketeers,Dosqaly,DFMF,24300000
+356,D. Obeng,A,Swift Musketeers,Ngoque Blicri,FW,26810000
+357,C. Joly,A,Swift Musketeers,People's Land of Maneau,FW,18000000
+358,T. Acom,A,Swift Musketeers,People's Land of Maneau,FW,33590000
+359,F. Siddiqui,A,Swift Musketeers,Southslands,FW,26220000
+360,S. Sarpong,A,Swift Musketeers,Southslands,FW,26170000
+361,D. Tukamuhebwa,A,Swift Musketeers,People's Land of Maneau,FWMF,22990000
+362,F. Ribeiro,A,Swift Musketeers,People's Land of Maneau,GK,25830000
+363,S. Aslan,A,Swift Musketeers,People's Land of Maneau,GK,21840000
+364,F. Kabanda,A,Swift Musketeers,Dosqaly,MF,19880000
+365,V. Nakayima,A,Swift Musketeers,Nganion,MF,17210000
+366,A. Lombardi,A,Swift Musketeers,Ngoque Blicri,MF,38940000
+367,A. Avako,A,Swift Musketeers,People's Land of Maneau,MF,32070000
+368,B. Supriatna,A,Swift Musketeers,Quewenia,MF,10470000
+369,G. Abbas,A,Swift Musketeers,Reugha,MF,36720000
+370,N. Nyesiga,A,Swift Musketeers,Southslands,MF,13350000
+371,Z. Alupo,A,Swift Musketeers,Central Republic of Boekrainego,MFFW,22590000
+372,A. Logose,A,Swift Musketeers,Lylimi,MFFW,21650000
+373,C. Namutebi,A,Swift Musketeers,People's Land of Maneau,MFFW,28860000
+374,R. Jacobs,A,Swift Musketeers,People's Land of Maneau,MFFW,25210000
+375,C. Danquah,A,Weak Tornadoes,Byasier Pujan,DF,15800000
+376,J. Tsan,A,Weak Tornadoes,Byasier Pujan,DF,11750000
+377,Z. Kituyi,A,Weak Tornadoes,Central Republic of Boekrainego,DF,12790000
+378,D. Mo,A,Weak Tornadoes,Dosqaly,DF,3330000
+379,E. Nakayiza,A,Weak Tornadoes,Mico,DF,14690000
+380,S. Wafula,A,Weak Tornadoes,People's Land of Maneau,DF,8410000
+381,H. Byamugisha,A,Weak Tornadoes,Republic of Denand Landsa,DF,15270000
+382,H. Makoni,A,Weak Tornadoes,Slandsganiamayotteque,DF,11650000
+383,T. Teo,A,Weak Tornadoes,Slandsganiamayotteque,DF,11170000
+384,G. Cossa,A,Weak Tornadoes,Southern Ristan,DF,10910000
+385,S. Rahmani,A,Weak Tornadoes,Thaijagypt,DF,15810000
+386,X. Emmanuel,A,Weak Tornadoes,People's Land of Maneau,DFFW,18070000
+387,E. Saka,A,Weak Tornadoes,Rosvi,FW,28110000
+388,F. Namajja,A,Weak Tornadoes,Central Badad,FWDF,25300000
+389,X. V?tols,A,Weak Tornadoes,Greri Landmoslands,FWMF,34230000
+390,M. Iqbal,A,Weak Tornadoes,Lenia Gerdanho,FWMF,22670000
+391,L. Barman,A,Weak Tornadoes,People's Land of Maneau,FWMF,24850000
+392,U. Atugonza,A,Weak Tornadoes,Republic of Denand Landsa,FWMF,30250000
+393,N. Kyohirwe,A,Weak Tornadoes,Dosqaly,GK,23590000
+394,E. binti Ismail,A,Weak Tornadoes,Ledian,GK,10840000
+395,G. Namugere,A,Weak Tornadoes,Central Namemo Laand,MF,21910000
+396,M. Amsalem,A,Weak Tornadoes,Czechnor,MF,17020000
+397,A. Karlsson,A,Weak Tornadoes,Ngoque Blicri,MF,20670000
+398,L. Kawuma,A,Weak Tornadoes,People's Land of Maneau,MF,21250000
+399,V. Al-Harbi,A,Weak Tornadoes,People's Land of Maneau,MF,15420000
+400,F. Hughes,A,Weak Tornadoes,Thaijagypt,MFDF,30210000
+401,J. Wan,A,Weak Tornadoes,People's Land of Maneau,MFFW,22490000
+402,U. Alshehri,A,Weak Tornadoes,People's Land of Maneau,MFFW,33630000
+403,A. Andama,B,Flawless Cows,Byasier Pujan,DF,17220000
+404,Y. Nassuuna,B,Flawless Cows,Coastpa Barleslands,DF,18880000
+405,J. Kyarisiima,B,Flawless Cows,Dosqaly,DF,15310000
+406,O. Takeda,B,Flawless Cows,Dosqaly,DF,27650000
+407,Q. Coppola,B,Flawless Cows,Dosqaly,DF,24730000
+408,V. Mhlanga,B,Flawless Cows,Dosqaly,DF,21630000
+409,J. Kawano,B,Flawless Cows,Esia,DF,17530000
+410,D. Mabhena,B,Flawless Cows,Nganion,DF,21260000
+411,F. Yunusa,B,Flawless Cows,Rarita,DF,18150000
+412,T. Neves,B,Flawless Cows,Sobianitedrucy,DF,30990000
+413,H. Robert,B,Flawless Cows,Dosqaly,FW,33510000
+414,T. Jabarin,B,Flawless Cows,Dosqaly,FW,12080000
+415,Z. Basile,B,Flawless Cows,Dosqaly,FW,33730000
+416,B. Zheng,B,Flawless Cows,Imaar Vircoand,FW,37660000
+417,Y. Mutema,B,Flawless Cows,Nganion,FW,1200000
+418,J. Lysenko,B,Flawless Cows,Sobianitedrucy,FW,34620000
+419,Y. Manuel,B,Flawless Cows,Biarizea,FWMF,10890000
+420,C. Asiku,B,Flawless Cows,Dosqaly,FWMF,22900000
+421,B. Obonyo,B,Flawless Cows,Imaar Vircoand,FWMF,32320000
+422,R. Ssembatya,B,Flawless Cows,Nganion,FWMF,24780000
+423,Y. Kyosiimire,B,Flawless Cows,Nganion,GK,14410000
+424,X. Driscoll,B,Flawless Cows,Nkasland Cronestan,GK,22110000
+425,P. Addae,B,Flawless Cows,South Sati Fatina,GK,13170000
+426,A. Fekete,B,Flawless Cows,Byasier Pujan,MF,7380000
+427,D. Muhammad,B,Flawless Cows,Coastpa Barleslands,MF,34050000
+428,I. Ndoro,B,Flawless Cows,Dosqaly,MF,5700000
+429,E. Sommer,B,Flawless Cows,Imaar Vircoand,MF,15780000
+430,P. Susanto,B,Flawless Cows,Lefghau,MF,23300000
+431,O. Musonza,B,Flawless Cows,Nganion,MF,13270000
+432,I. Marie,B,Flawless Cows,Sobianitedrucy,MF,24550000
+433,Z. Musenero,B,Flawless Cows,Greri Landmoslands,MFDF,20000000
+434,K. Opio,B,Flawless Cows,Esia,MFFW,30710000
+435,Z. Ahmetovi?,B,Flawless Cows,Lefghau,MFFW,31600000
+436,O. Naderi,B,Glistening Paladins,Badad,DF,11950000
+437,A. Nabuuma,B,Glistening Paladins,Dosqaly,DF,25080000
+438,B. Ban,B,Glistening Paladins,Dosqaly,DF,12180000
+439,B. Polák,B,Glistening Paladins,Dosqaly,DF,17970000
+440,L. Mulyani,B,Glistening Paladins,Dosqaly,DF,17410000
+441,O. Wagner,B,Glistening Paladins,Dosqaly,DF,7730000
+442,S. Bukirwa,B,Glistening Paladins,Dosqaly,DF,17140000
+443,A. Palmieri,B,Glistening Paladins,Landsfupua,DFMF,34010000
+444,I. Berg,B,Glistening Paladins,Tito Mia,FW,33740000
+445,G. Lombardo,B,Glistening Paladins,Dosqaly,FWMF,29200000
+446,L. Alanyo,B,Glistening Paladins,Dosqaly,FWMF,25230000
+447,F. Kimera,B,Glistening Paladins,Dosqaly,GK,20670000
+448,T. Okello,B,Glistening Paladins,Dosqaly,GK,22390000
+449,C. Asiku,B,Glistening Paladins,Dosqaly,MF,5990000
+450,F. Kabanda,B,Glistening Paladins,Dosqaly,MF,19870000
+451,H. Lwanga,B,Glistening Paladins,Dosqaly,MF,15270000
+452,J. Takali,B,Glistening Paladins,Dosqaly,MF,37380000
+453,S. Vidal,B,Glistening Paladins,Dosqaly,MF,23300000
+454,B. Akullu,B,Glistening Paladins,Lefghau,MF,23390000
+455,Z. Mlilo,B,Glistening Paladins,Pierrema,MF,24530000
+456,G. Munsaka,B,Glistening Paladins,Dosqaly,MFFW,37880000
+457,M. Maimon,B,Glistening Paladins,Dosqaly,MFFW,20980000
+458,U. Madondo,B,Glistening Paladins,Dosqaly,MFFW,31000000
+459,W. Kuhn,B,Glistening Paladins,Dosqaly,MFFW,30150000
+460,J. Leng,B,Glistening Paladins,Greri Landmoslands,MFFW,29980000
+461,M. Hassan,B,Glistening Paladins,Sobianitedrucy,MFFW,32520000
+462,W. Santoro,B,Golden Rustlers,Coastpa Barleslands,DF,13020000
+463,E. Gamal,B,Golden Rustlers,Dosqaly,DF,10890000
+464,I. Chandra,B,Golden Rustlers,Dosqaly,DF,16390000
+465,P. Igwe,B,Golden Rustlers,Dosqaly,DF,18860000
+466,S. bin Ramli,B,Golden Rustlers,Dosqaly,DF,7180000
+467,J. Mushabe,B,Golden Rustlers,Lefghau,DF,18610000
+468,K. Oloya,B,Golden Rustlers,Quewenia,DF,27880000
+469,B. Lai,B,Golden Rustlers,Rarita,DF,15490000
+470,K. Kyosiimire,B,Golden Rustlers,Southern Viout Aman,DF,12860000
+471,A. Musonza,B,Golden Rustlers,Dosqaly,FW,28950000
+472,M. Reilly,B,Golden Rustlers,Dosqaly,FW,26770000
+473,U. Atugonza,B,Golden Rustlers,Republic of Denand Landsa,FW,33660000
+474,E. Cortez,B,Golden Rustlers,Dosqaly,FWMF,30830000
+475,J. Testa,B,Golden Rustlers,Dosqaly,FWMF,29340000
+476,T. Karmakar,B,Golden Rustlers,Dosqaly,FWMF,32620000
+477,Y. Horváth,B,Golden Rustlers,Landli Blicporlip,FWMF,23410000
+478,F. Salonen,B,Golden Rustlers,Republic of Denand Landsa,FWMF,35680000
+479,V. Bwambale,B,Golden Rustlers,Dosqaly,GK,18830000
+480,D. Taniguchi,B,Golden Rustlers,Central Diasongo,MF,18620000
+481,C. Shaheen,B,Golden Rustlers,Dosqaly,MF,29480000
+482,Z. Hasna,B,Golden Rustlers,Dosqaly,MF,21300000
+483,W. Noguchi,B,Golden Rustlers,Lefghau,MF,27110000
+484,M. Muwanga,B,Golden Rustlers,Manlisgamncent,MF,36170000
+485,V. Amini,B,Golden Rustlers,Reugha,MF,21170000
+486,P. Atukwatse,B,Golden Rustlers,Dosqaly,MFFW,30240000
+487,U. Oyella,B,Golden Rustlers,Dosqaly,MFFW,27780000
+488,M. Anderson,B,Golden Rustlers,Nganion,MFFW,13970000
+489,E. Apiyo,B,Golden Rustlers,Pierrema,MFFW,28650000
+490,S. Namanya,B,Grotesque Rocks,Central Diasongo,DF,8280000
+491,E. Fujii,B,Grotesque Rocks,Dosqaly,DF,18920000
+492,F. Shkreli,B,Grotesque Rocks,Dosqaly,DF,28450000
+493,G. Namanya,B,Grotesque Rocks,Dosqaly,DF,18410000
+494,H. Kaweesi,B,Grotesque Rocks,Dosqaly,DF,24430000
+495,U. Müller,B,Grotesque Rocks,Dosqaly,DF,24960000
+496,X. binti Awang,B,Grotesque Rocks,Rosvi,DF,16170000
+497,O. Tshuma,B,Grotesque Rocks,Rarita,DFMF,28050000
+498,D. Tshuma,B,Grotesque Rocks,Coastpa Barleslands,FW,24970000
+499,B. Ghorbani,B,Grotesque Rocks,Ngogalar,FW,32930000
+500,B. Okyere,B,Grotesque Rocks,Dosqaly,FWDF,12320000
+501,J. Lorenz,B,Grotesque Rocks,Biarizea,FWMF,38630000
+502,K. Van der Meer,B,Grotesque Rocks,Central Diasongo,FWMF,24060000
+503,C. Kwakye,B,Grotesque Rocks,Nancipenuaroe,FWMF,35500000
+504,K. Imai,B,Grotesque Rocks,Pierrema,FWMF,37100000
+505,U. Dewi,B,Grotesque Rocks,Reugha,FWMF,31940000
+506,U. Yamasaki,B,Grotesque Rocks,Coastpa Barleslands,GK,19570000
+507,S. binti Othman,B,Grotesque Rocks,Lylimi,GK,14740000
+508,T. Bukar,B,Grotesque Rocks,Southern Ristan,GK,11540000
+509,B. Guillot,B,Grotesque Rocks,Central Diasongo,MF,20290000
+510,B. Nalwanga,B,Grotesque Rocks,Dosqaly,MF,29480000
+511,K. Kaudha,B,Grotesque Rocks,Dosqaly,MF,21850000
+512,T. Orishaba,B,Grotesque Rocks,Dosqaly,MF,33130000
+513,X. Odongo,B,Grotesque Rocks,Unicorporated Tiagascar,MF,10030000
+514,O. Soleimani,B,Grotesque Rocks,Dosqaly,MFFW,32590000
+515,U. Sun,B,Grotesque Rocks,Reugha,MFFW,3780000
+516,O. Barone,B,Jumping Beans,Biarizea,DF,22340000
+517,G. Sande,B,Jumping Beans,Central Diasongo,DF,16390000
+518,O. Kembabazi,B,Jumping Beans,Giumle Lizeibon,DF,1690000
+519,T. Muhumuza,B,Jumping Beans,Reugha,DF,29660000
+520,C. Mashiri,B,Jumping Beans,Southern Ristan,DF,17560000
+521,K. Ahimbisibwe,B,Jumping Beans,Southern Ristan,DF,16160000
+522,L. Wenene,B,Jumping Beans,Southern Ristan,DF,17550000
+523,Q. Mutabazi,B,Jumping Beans,Byasier Pujan,FW,10510000
+524,O. Chelimo,B,Jumping Beans,Ngoque Blicri,FW,23700000
+525,O. Ghanbari,B,Jumping Beans,Coastpa Barleslands,FWMF,22670000
+526,Q. Nampijja,B,Jumping Beans,Reugha,FWMF,20170000
+527,A. Lamunu,B,Jumping Beans,Dosqaly,GK,25300000
+528,K. Adero,B,Jumping Beans,Rosvi,GK,12060000
+529,T. Makaza,B,Jumping Beans,Central Namemo Laand,MF,21920000
+530,W. Nantale,B,Jumping Beans,Central Namemo Laand,MF,8410000
+531,H. Taniguchi,B,Jumping Beans,Coastpa Barleslands,MF,23980000
+532,J. Bah,B,Jumping Beans,Dosqaly,MF,18540000
+533,K. Akullu,B,Jumping Beans,Dosqaly,MF,24260000
+534,T. Mugoya,B,Jumping Beans,Dosqaly,MF,20330000
+535,N. Grgi?,B,Jumping Beans,Ingre,MF,25240000
+536,C. Ková?,B,Jumping Beans,Loco Phirema,MF,25200000
+537,R. Rusere,B,Jumping Beans,Tercapetralgrorus,MF,25090000
+538,H. Rees,B,Jumping Beans,Eastern Covaki,MFDF,23010000
+539,C. Nafuna,B,Jumping Beans,Dosqaly,MFFW,26240000
+540,H. Kovács,B,Jumping Beans,Dosqaly,MFFW,22040000
+541,X. Opira,B,Jumping Beans,Dosqaly,MFFW,11190000
+542,E. Ayerango,B,Jumping Beans,Loco Phirema,MFFW,6670000
+543,V. Nabbosa,B,Jumping Beans,Quewenia,MFFW,10700000
+544,E. Muwanguzi,B,Jumping Beans,Reugha,MFFW,28530000
+545,A. Namataka,B,Mean Colts,Dosqaly,DF,4990000
+546,D. Kugonza,B,Mean Colts,Dosqaly,DF,18090000
+547,K. Kao,B,Mean Colts,Dosqaly,DF,18550000
+548,M. Guma,B,Mean Colts,Dosqaly,DF,22060000
+549,U. Francisco,B,Mean Colts,Dosqaly,DF,19670000
+550,V. Chauke,B,Mean Colts,Dosqaly,DF,23920000
+551,K. Nanyonjo,B,Mean Colts,Imaar Vircoand,DF,10010000
+552,H. Pärn,B,Mean Colts,Iverde,DF,16810000
+553,C. Nurjanah,B,Mean Colts,New Somoe,DF,15050000
+554,C. Oloya,B,Mean Colts,Reugha,DF,14890000
+555,M. Heinonen,B,Mean Colts,Reugha,DF,24310000
+556,Q. Turinawe,B,Mean Colts,Rosvi,DF,9130000
+557,Y. bin Abu Bakar,B,Mean Colts,Central Namemo Laand,FW,30190000
+558,E. Tahirovi?,B,Mean Colts,Dosqaly,FW,28320000
+559,S. Lombardo,B,Mean Colts,Dosqaly,FW,26820000
+560,Z. Basile,B,Mean Colts,Dosqaly,FW,31410000
+561,M. Wójcik,B,Mean Colts,Dosqaly,FWMF,19610000
+562,J. Ogawa,B,Mean Colts,Dosqaly,GK,8370000
+563,A. Chipeta,B,Mean Colts,Zamlie Niabangthe,GK,22410000
+564,H. Dehghan,B,Mean Colts,Central Diasongo,MF,18500000
+565,A. ?engi?,B,Mean Colts,Dosqaly,MF,28800000
+566,B. Grabowski,B,Mean Colts,Dosqaly,MF,16950000
+567,Q. Messina,B,Mean Colts,Dosqaly,MF,19270000
+568,V. Foong,B,Mean Colts,Dosqaly,MF,4050000
+569,Z. Robin,B,Mean Colts,Reugha,MF,17370000
+570,V. Apio,B,Mean Colts,Greri Landmoslands,MFFW,31290000
+571,E. Kunihira,B,Mean Colts,Lenia Gerdanho,MFFW,40710000
+572,F. Sepp,B,Mean Poets,Dosqaly,DF,11430000
+573,G. Bernardi,B,Mean Poets,Dosqaly,DF,28420000
+574,J. Driwaru,B,Mean Poets,Dosqaly,DF,9610000
+575,L. Masson,B,Mean Poets,Dosqaly,DF,18480000
+576,L. Namugaya,B,Mean Poets,Dosqaly,DF,19120000
+577,Q. Nakintu,B,Mean Poets,Dosqaly,DF,17250000
+578,R. Okoye,B,Mean Poets,Dosqaly,DF,15700000
+579,K. Koskinen,B,Mean Poets,New Rapore,DF,17390000
+580,C. Namanda,B,Mean Poets,Puway,DF,10460000
+581,D. Günther,B,Mean Poets,Puway,DF,13690000
+582,H. Suleiman,B,Mean Poets,People's Land of Maneau,DFMF,24870000
+583,R. Lor,B,Mean Poets,Dosqaly,FW,35610000
+584,E. Kaweesi,B,Mean Poets,Giumle Lizeibon,FW,26440000
+585,X. Ngwenya,B,Mean Poets,Republic of Denand Landsa,FW,37460000
+586,A. Tusingwire,B,Mean Poets,Dosqaly,FWMF,24400000
+587,M. Musenero,B,Mean Poets,Dosqaly,FWMF,22640000
+588,N. Soto,B,Mean Poets,Lenia Gerdanho,FWMF,31860000
+589,U. Tan,B,Mean Poets,Varijitri Isles,FWMF,11110000
+590,A. Suboti?,B,Mean Poets,Dosqaly,GK,12380000
+591,T. Bonabana,B,Mean Poets,Dosqaly,GK,9890000
+592,O. Majhi,B,Mean Poets,Dosqaly,MF,27340000
+593,P. Giramia,B,Mean Poets,Dosqaly,MF,22520000
+594,W. Muwanga,B,Mean Poets,Dosqaly,MF,21640000
+595,G. Shah,B,Mean Poets,Central Namemo Laand,MFFW,13510000
+596,B. Rubio,B,Mean Poets,Dosqaly,MFFW,22760000
+597,H. Hovhannisyan,B,Mean Poets,Dosqaly,MFFW,29210000
+598,X. Chevalier,B,Mean Poets,Dosqaly,MFFW,25970000
+599,W. Muchenje,B,Overconfident Kangaroos,Biarizea,DF,10490000
+600,C. Prakash,B,Overconfident Kangaroos,Dosqaly,DF,8840000
+601,F. bin Ishak,B,Overconfident Kangaroos,Dosqaly,DF,14680000
+602,K. Amer,B,Overconfident Kangaroos,Dosqaly,DF,24570000
+603,K. Ber,B,Overconfident Kangaroos,Dosqaly,DF,17830000
+604,S. Aisyah,B,Overconfident Kangaroos,Dosqaly,DF,10830000
+605,B. Savolainen,B,Overconfident Kangaroos,Lefghau,DF,22460000
+606,Y. Koay,B,Overconfident Kangaroos,Reugha,DF,13180000
+607,H. Kabugho,B,Overconfident Kangaroos,Sobianitedrucy,DF,11690000
+608,V. Thakor,B,Overconfident Kangaroos,Dosqaly,DFMF,27750000
+609,Q. Mangwiro,B,Overconfident Kangaroos,Coastpa Barleslands,FW,20440000
+610,E. Akwii,B,Overconfident Kangaroos,Dosqaly,FW,12920000
+611,F. Chiumia,B,Overconfident Kangaroos,Dosqaly,FW,28800000
+612,K. Katongole,B,Overconfident Kangaroos,Dosqaly,FW,9190000
+613,E. De Santis,B,Overconfident Kangaroos,Dosqaly,FWMF,22400000
+614,G. Leclercq,B,Overconfident Kangaroos,Dosqaly,FWMF,14560000
+615,H. Sugiyama,B,Overconfident Kangaroos,Dosqaly,FWMF,28570000
+616,Q. Ajiko,B,Overconfident Kangaroos,Lefghau,FWMF,38960000
+617,E. Wibowo,B,Overconfident Kangaroos,Coastpa Barleslands,GK,16090000
+618,V. Arnold,B,Overconfident Kangaroos,Coastpa Barleslands,GK,15590000
+619,B. Ochieng,B,Overconfident Kangaroos,Dosqaly,GK,24940000
+620,G. Nakisuyi,B,Overconfident Kangaroos,Central Namemo Laand,MF,20200000
+621,I. Salminen,B,Overconfident Kangaroos,Dosqaly,MF,10790000
+622,M. Jha,B,Overconfident Kangaroos,Dosqaly,MF,25320000
+623,P. Hakim,B,Overconfident Kangaroos,Dosqaly,MF,26620000
+624,Y. Ademovi?,B,Overconfident Kangaroos,Dosqaly,MF,22560000
+625,Y. Zia,B,Overconfident Kangaroos,Dosqaly,MF,15920000
+626,D. Kakande,B,Overconfident Kangaroos,Dosqaly,MFFW,22650000
+627,F. Bello,B,Overconfident Kangaroos,Dosqaly,MFFW,24890000
+628,Q. Awekonimungu,B,Overconfident Kangaroos,Dosqaly,MFFW,28840000
+629,U. Mustapha,B,Overconfident Kangaroos,Dosqaly,MFFW,24470000
+630,B. Amin,B,Overconfident Kangaroos,Southern Ristan,MFFW,24760000
+631,X. Ssemakula,B,Serious Thunderbirds,Central Namemo Laand,DF,15690000
+632,V. Ezra,B,Serious Thunderbirds,Coastpa Barleslands,DF,15160000
+633,Z. Patel,B,Serious Thunderbirds,Coastpa Barleslands,DF,19120000
+634,A. Nakiranda,B,Serious Thunderbirds,Dosqaly,DF,23190000
+635,B. Simango,B,Serious Thunderbirds,Dosqaly,DF,4720000
+636,E. Fernando,B,Serious Thunderbirds,Dosqaly,DF,21360000
+637,E. Schmitz,B,Serious Thunderbirds,Dosqaly,DF,17850000
+638,Q. Ueda,B,Serious Thunderbirds,Dosqaly,DF,23280000
+639,T. Y?ld?z,B,Serious Thunderbirds,Dosqaly,DF,15590000
+640,U. Chen,B,Serious Thunderbirds,Dosqaly,DF,27720000
+641,L. Rostami,B,Serious Thunderbirds,Former Maneau,DF,19040000
+642,Z. Donkor,B,Serious Thunderbirds,Ingre,DF,9650000
+643,D. Kyambadde,B,Serious Thunderbirds,Iverde,DF,11710000
+644,S. Agustina,B,Serious Thunderbirds,Lefghau,DF,6580000
+645,B. Miyasaki,B,Serious Thunderbirds,Dosqaly,DFMF,9710000
+646,C. Nankya,B,Serious Thunderbirds,Dosqaly,FW,35850000
+647,I. Okada,B,Serious Thunderbirds,Dosqaly,FW,29310000
+648,K. Wo?niak,B,Serious Thunderbirds,Dosqaly,FW,30830000
+649,M. Galli,B,Serious Thunderbirds,Dosqaly,FW,8840000
+650,U. Rees,B,Serious Thunderbirds,Dosqaly,FW,26660000
+651,V. Gallo,B,Serious Thunderbirds,Tabhu Striary,FW,28500000
+652,K. Guerra,B,Serious Thunderbirds,Dosqaly,FWMF,25510000
+653,H. Kamal,B,Serious Thunderbirds,Dosqaly,GK,31230000
+654,I. Sano,B,Serious Thunderbirds,Dosqaly,GK,5240000
+655,J. Lunkuse,B,Serious Thunderbirds,People's Land of Maneau,GK,27040000
+656,T. Khaukha,B,Serious Thunderbirds,Central Namemo Laand,MF,22280000
+657,E. Pang,B,Serious Thunderbirds,Dosqaly,MF,11150000
+658,H. Nsungwa,B,Serious Thunderbirds,Dosqaly,MF,24890000
+659,N. Oyama,B,Serious Thunderbirds,Dosqaly,MF,11790000
+660,O. Amanyire,B,Serious Thunderbirds,Dosqaly,MF,18380000
+661,R. Mujuni,B,Serious Thunderbirds,Dosqaly,MF,13520000
+662,G. Avraham,B,Serious Thunderbirds,Dosqaly,MFDF,17810000
+663,D. Dumitru,B,Serious Thunderbirds,Czechnor,MFFW,28060000
+664,G. Debnath,B,Serious Thunderbirds,Dosqaly,MFFW,28990000
+665,H. Chirwa,B,Serious Thunderbirds,Dosqaly,MFFW,22110000
+666,N. Masango,B,Serious Thunderbirds,Dosqaly,MFFW,5680000
+667,N. Opolot,B,Serious Thunderbirds,Dosqaly,MFFW,1630000
+668,T. Amutuhaire,B,Serious Thunderbirds,Dosqaly,MFFW,10890000
+669,Z. Katusiime,B,Serious Thunderbirds,Dosqaly,MFFW,17530000
+670,H. Munetsi,B,Serious Thunderbirds,Pierrema,MFFW,27800000
+671,E. Ilukol,B,Simple Jayhawks,Dosqaly,DF,21600000
+672,F. Olinga,B,Simple Jayhawks,Dosqaly,DF,17170000
+673,M. Ruggiero,B,Simple Jayhawks,Dosqaly,DF,19470000
+674,L. Masaba,B,Simple Jayhawks,Nancipenuaroe,DF,14600000
+675,J. Schuster,B,Simple Jayhawks,Reugha,DF,15160000
+676,R. Dumont,B,Simple Jayhawks,Tabhu Striary,DF,7420000
+677,D. Tshuma,B,Simple Jayhawks,Coastpa Barleslands,FW,30920000
+678,X. Kwesiga,B,Simple Jayhawks,Coastpa Barleslands,FW,20670000
+679,A. Salazar,B,Simple Jayhawks,Rarita,FW,22880000
+680,U. Musekiwa,B,Simple Jayhawks,Southern Ristan,FW,21360000
+681,E. Okonkwo,B,Simple Jayhawks,Coastpa Barleslands,FWMF,14060000
+682,S. Moss,B,Simple Jayhawks,Coastpa Barleslands,FWMF,36280000
+683,Y. Khatun,B,Simple Jayhawks,Coastpa Barleslands,FWMF,26150000
+684,A. Tushabomwe,B,Simple Jayhawks,New Somoe,FWMF,37230000
+685,J. Chukwu,B,Simple Jayhawks,Dosqaly,GK,8810000
+686,R. Rizzi,B,Simple Jayhawks,Pierrema,GK,20690000
+687,F. Evans,B,Simple Jayhawks,Central Diasongo,MF,15110000
+688,Q. Kaseke,B,Simple Jayhawks,Central Diasongo,MF,25010000
+689,J. Sembiring,B,Simple Jayhawks,Coastpa Barleslands,MF,4220000
+690,O. Muwonge,B,Simple Jayhawks,Coastpa Barleslands,MF,15890000
+691,A. Nwachukwu,B,Simple Jayhawks,Dosqaly,MF,17850000
+692,P. Oravec,B,Simple Jayhawks,Dosqaly,MF,24660000
+693,P. Otoo,B,Simple Jayhawks,Reugha,MF,28260000
+694,E. Ooi,B,Simple Jayhawks,Reugha,MFDF,16860000
+695,E. Maulana,B,Simple Jayhawks,Dosqaly,MFFW,26020000
+696,G. Nugroho,B,Simple Jayhawks,New Rapore,MFFW,19400000
+697,H. Amponsah,B,Simple Jayhawks,Pierrema,MFFW,34760000
+698,S. Nalugwa,B,Simple Privateers,Biarizea,DF,17430000
+699,M. Ma,B,Simple Privateers,Central Namemo Laand,DF,9760000
+700,J. Kinoshita,B,Simple Privateers,Czechnor,DF,8790000
+701,K. Ber,B,Simple Privateers,Dosqaly,DF,10420000
+702,H. Naluyima,B,Simple Privateers,Lenia Gerdanho,DF,18000000
+703,B. Bos,B,Simple Privateers,Nathuacamana,DF,17750000
+704,N. Gumbo,B,Simple Privateers,People's Land of Maneau,DF,19030000
+705,H. Lefebvre,B,Simple Privateers,Reugha,DF,29870000
+706,P. Xu,B,Simple Privateers,Dosqaly,DFMF,18820000
+707,D. Ochan,B,Simple Privateers,Coastpa Barleslands,FW,21260000
+708,U. Utomo,B,Simple Privateers,Dosqaly,FW,15800000
+709,X. Akol,B,Simple Privateers,Dosqaly,FW,35150000
+710,Y. Fong,B,Simple Privateers,Dosqaly,FW,17850000
+711,O. Martini,B,Simple Privateers,Tercapetralgrorus,FW,32990000
+712,P. Otto,B,Simple Privateers,Dosqaly,FWDF,20210000
+713,C. Shumba,B,Simple Privateers,Cabral Retrea,FWMF,11110000
+714,F. Namajja,B,Simple Privateers,Central Badad,FWMF,20530000
+715,H. Jiu,B,Simple Privateers,Central Diasongo,FWMF,24920000
+716,F. Bizjak,B,Simple Privateers,Dosqaly,FWMF,28770000
+717,J. Kirabo,B,Simple Privateers,Dosqaly,FWMF,26560000
+718,V. Nagawa,B,Simple Privateers,Dosqaly,FWMF,33720000
+719,V. Arnold,B,Simple Privateers,Coastpa Barleslands,GK,11630000
+720,Z. Lefevre,B,Simple Privateers,Quewenia,GK,21100000
+721,Y. Goh,B,Simple Privateers,Tito Mia,GK,18900000
+722,R. Ferretti,B,Simple Privateers,Coastpa Barleslands,MF,10900000
+723,B. bin Awang,B,Simple Privateers,Czechnor,MF,27310000
+724,H. Karjalainen,B,Simple Privateers,Dosqaly,MF,14270000
+725,J. Ssemanda,B,Simple Privateers,Dosqaly,MF,12660000
+726,W. Mugisha,B,Simple Privateers,Dosqaly,MF,20160000
+727,E. Becker,B,Simple Privateers,Central Namemo Laand,MFDF,15790000
+728,B. Nakabugo,B,Simple Privateers,Sina Daofra,MFDF,21130000
+729,O. Ali,B,Simple Privateers,Loco Phirema,MFFW,26800000
+730,T. Owiny,B,Simple Privateers,Pierrema,MFFW,22680000
+731,F. Baguma,B,Solemn Leopards,Coastpa Barleslands,DF,27960000
+732,F. Hubert,B,Solemn Leopards,Dosqaly,DF,27540000
+733,S. Chelangat,B,Solemn Leopards,Dosqaly,DF,11610000
+734,G. Jumbe,B,Solemn Leopards,Imaar Vircoand,DF,18370000
+735,K. Golan,B,Solemn Leopards,Lylimi,DF,13050000
+736,M. Tseu,B,Solemn Leopards,Manlisgamncent,DF,18350000
+737,A. Peña,B,Solemn Leopards,Nganion,DF,19020000
+738,S. Candiru,B,Solemn Leopards,Nganion,DF,19920000
+739,P. Chi,B,Solemn Leopards,Rarita,DF,12610000
+740,R. Mutumba,B,Solemn Leopards,Dosqaly,DFFW,30020000
+741,W. Salamah,B,Solemn Leopards,Lefghau,DFFW,16480000
+742,C. Omar,B,Solemn Leopards,Dosqaly,FW,28270000
+743,T. Marques,B,Solemn Leopards,Dosqaly,FW,29270000
+744,P. Jackson,B,Solemn Leopards,Imaar Vircoand,FW,26230000
+745,F. Nyakaisiki,B,Solemn Leopards,Nkasland Cronestan,FW,26960000
+746,F. Schäfer,B,Solemn Leopards,Rosvi,FW,22680000
+747,R. binti Mohamed,B,Solemn Leopards,Coastpa Barleslands,FWDF,28750000
+748,Q. Okiror,B,Solemn Leopards,Dosqaly,FWMF,34100000
+749,S. Abdullahi,B,Solemn Leopards,Dosqaly,FWMF,27380000
+750,Z. Heinonen,B,Solemn Leopards,Dosqaly,FWMF,27090000
+751,K. Baumann,B,Solemn Leopards,Tabhu Striary,FWMF,24230000
+752,A. Mbusa,B,Solemn Leopards,Dosqaly,GK,22320000
+753,N. Tumwesigye,B,Solemn Leopards,Dosqaly,GK,16350000
+754,A. Odaga,B,Solemn Leopards,Byasier Pujan,MF,19460000
+755,D. Cauhan,B,Solemn Leopards,Dosqaly,MF,26690000
+756,F. Kobugabe,B,Solemn Leopards,Dosqaly,MF,23400000
+757,K. Makaza,B,Solemn Leopards,Dosqaly,MF,30230000
+758,Q. Muhammed,B,Solemn Leopards,Dosqaly,MF,11250000
+759,Q. Ruzvidzo,B,Solemn Leopards,Dosqaly,MF,22830000
+760,T. Tóth,B,Solemn Leopards,Dosqaly,MF,19890000
+761,W. D'amico,B,Solemn Leopards,Dosqaly,MF,24330000
+762,J. Odeke,B,Somber Stallions,Byasier Pujan,DF,6730000
+763,M. Chavula,B,Somber Stallions,Dosqaly,DF,18200000
+764,W. Aciro,B,Somber Stallions,Dosqaly,DF,20240000
+765,I. Nabatanzi,B,Somber Stallions,Greri Landmoslands,DF,16110000
+766,P. Nahabwe,B,Somber Stallions,Greri Landmoslands,DF,6510000
+767,S. Lamptey,B,Somber Stallions,Manlisgamncent,DF,24140000
+768,M. Nagudi,B,Somber Stallions,Pitpu Biaal,DF,20320000
+769,L. James,B,Somber Stallions,Varijitri Isles,DF,18100000
+770,L. Sichali,B,Somber Stallions,Central Democracy of Boekrainego,FW,25480000
+771,N. Rebane,B,Somber Stallions,Varijitri Isles,FW,31730000
+772,E. Teixeira,B,Somber Stallions,Slandsganiamayotteque,FWMF,19540000
+773,K. Koppel,B,Somber Stallions,Varijitri Isles,FWMF,28720000
+774,I. Kumari,B,Somber Stallions,Dosqaly,GK,14620000
+775,E. Longwe,B,Somber Stallions,Dosqaly,MF,16210000
+776,E. Tumukunde,B,Somber Stallions,Dosqaly,MF,23790000
+777,G. Jesus,B,Somber Stallions,Dosqaly,MF,14090000
+778,K. Gao,B,Somber Stallions,Greri Landmoslands,MF,27140000
+779,X. Durand,B,Somber Stallions,Greri Landmoslands,MF,34480000
+780,L. Aguilar,B,Somber Stallions,Lefghau,MF,20940000
+781,J. Ginting,B,Somber Stallions,Dosqaly,MFDF,40290000
+782,K. Guillaume,B,Somber Stallions,Dosqaly,MFFW,28400000
+783,O. Kuloba,B,Supreme Janes,Central Namemo Laand,DF,14250000
+784,G. Asiedu,B,Supreme Janes,Dosqaly,DF,17950000
+785,L. Hasegawa,B,Supreme Janes,Dosqaly,DF,12520000
+786,O. Alon,B,Supreme Janes,Dosqaly,DF,20180000
+787,C. Amoding,B,Supreme Janes,Iverde,DF,15490000
+788,I. Nantale,B,Supreme Janes,Lefghau,DF,15230000
+789,J. Ferri,B,Supreme Janes,Reugha,DF,11090000
+790,G. Suad,B,Supreme Janes,Lefghau,DFMF,14680000
+791,B. Asamoah,B,Supreme Janes,Dosqaly,FW,32860000
+792,E. Nankunda,B,Supreme Janes,Dosqaly,FW,17250000
+793,K. Balogun,B,Supreme Janes,Lenia Gerdanho,FW,13740000
+794,H. Sentongo,B,Supreme Janes,Reugha,FW,23370000
+795,B. Roche,B,Supreme Janes,Dosqaly,FWMF,32890000
+796,E. Lund,B,Supreme Janes,Republic of Denand Landsa,FWMF,34320000
+797,R. Mkandla,B,Supreme Janes,Southern Ristan,FWMF,23710000
+798,O. Burgos,B,Supreme Janes,Dosqaly,GK,20640000
+799,L. Mirzaei,B,Supreme Janes,Biarizea,MF,27350000
+800,C. Sagal,B,Supreme Janes,Dosqaly,MF,10210000
+801,P. Lo,B,Supreme Janes,Dosqaly,MF,24590000
+802,M. Okumu,B,Supreme Janes,Nganion,MF,10420000
+803,B. Apio,B,Supreme Janes,Pierrema,MF,33340000
+804,G. Albrecht,B,Supreme Janes,Dosqaly,MFFW,17110000
+805,H. Pang,B,Supreme Janes,Dosqaly,MFFW,15340000
+806,K. Macuacua,B,Supreme Janes,Dosqaly,MFFW,18460000
+807,Y. Makavan,B,Supreme Janes,Dosqaly,MFFW,37100000
+808,H. Romero,B,Swift Rustlers,Coastpa Barleslands,DF,22690000
+809,D. Tweheyo,B,Swift Rustlers,Dosqaly,DF,17560000
+810,H. Mphande,B,Swift Rustlers,Dosqaly,DF,10830000
+811,M. Kamya,B,Swift Rustlers,Dosqaly,DF,20370000
+812,C. Kazibwe,B,Swift Rustlers,Lefghau,DF,13410000
+813,O. Bošnjak,B,Swift Rustlers,Northern Namemo Laand,DF,25600000
+814,J. Dahiru,B,Swift Rustlers,Rarita,DF,19090000
+815,N. Ferhatovi?,B,Swift Rustlers,Rosvi,DF,7210000
+816,A. Schmidt,B,Swift Rustlers,Dosqaly,DFFW,34970000
+817,A. Núñez,B,Swift Rustlers,Rarita,DFMF,22730000
+818,L. Castro,B,Swift Rustlers,Dosqaly,FW,28080000
+819,Z. Pinto,B,Swift Rustlers,Republic of Denand Landsa,FW,22360000
+820,Y. Salminen,B,Swift Rustlers,Dosqaly,FWMF,27410000
+821,U. Musa,B,Swift Rustlers,Esia,FWMF,33290000
+822,F. Monday,B,Swift Rustlers,Pahon,FWMF,23440000
+823,M. Sardar,B,Swift Rustlers,Sobianitedrucy,FWMF,29670000
+824,Q. Permana,B,Swift Rustlers,Dosqaly,GK,8550000
+825,G. ?ahin,B,Swift Rustlers,Nkasland Cronestan,GK,8530000
+826,R. Odur,B,Swift Rustlers,Sobianitedrucy,GK,14990000
+827,B. Guillot,B,Swift Rustlers,Central Diasongo,MF,24890000
+828,C. Langa,B,Swift Rustlers,Dosqaly,MF,20670000
+829,F. Perrin,B,Swift Rustlers,Dosqaly,MF,16290000
+830,G. Nabasa,B,Swift Rustlers,Dosqaly,MF,27930000
+831,P. Byarugaba,B,Swift Rustlers,Greri Landmoslands,MF,26640000
+832,Y. Molnár,B,Swift Rustlers,Nganion,MF,17110000
+833,K. Pavi?,B,Swift Rustlers,Southern Ristan,MF,29270000
+834,R. Majoni,B,Swift Rustlers,Coastpa Barleslands,MFDF,10300000
+835,E. Eliyahu,B,Swift Rustlers,Dosqaly,MFFW,20560000
+836,L. Prasad,B,Swift Rustlers,Eastern Sleboube,MFFW,27020000
+837,O. Ninsiima,B,Swift Rustlers,Greri Landmoslands,MFFW,30680000
+838,C. Danquah,B,Unaccountable Foxes,Byasier Pujan,DF,29950000
+839,F. Kavalio?,B,Unaccountable Foxes,Central Diasongo,DF,22730000
+840,B. Nandudu,B,Unaccountable Foxes,Dosqaly,DF,10250000
+841,J. Delemovi?,B,Unaccountable Foxes,Dosqaly,DF,18760000
+842,D. Byogero,B,Unaccountable Foxes,Lefghau,DF,20620000
+843,U. Arthur,B,Unaccountable Foxes,Lefghau,DF,15250000
+844,E. Nakayiza,B,Unaccountable Foxes,Mico,DF,17040000
+845,D. Vuji?,B,Unaccountable Foxes,Pierrema,DF,13740000
+846,S. Nayiga,B,Unaccountable Foxes,Sobianitedrucy,DF,13800000
+847,H. Nyombi,B,Unaccountable Foxes,Southern Ristan,DF,14450000
+848,J. Rinaldi,B,Unaccountable Foxes,Central Diasongo,DFFW,28380000
+849,I. Nanangwe,B,Unaccountable Foxes,Dosqaly,DFMF,13990000
+850,Y. Manjate,B,Unaccountable Foxes,Byasier Pujan,FW,29160000
+851,F. Got?,B,Unaccountable Foxes,Central Namemo Laand,FW,34500000
+852,D. Atyang,B,Unaccountable Foxes,Dosqaly,FW,6340000
+853,R. Nor,B,Unaccountable Foxes,Dosqaly,FW,3850000
+854,T. Kuok,B,Unaccountable Foxes,Dosqaly,FW,28260000
+855,U. Iskandar,B,Unaccountable Foxes,Dosqaly,FW,26800000
+856,Z. Ndawula,B,Unaccountable Foxes,Eastern Covaki,FW,30310000
+857,H. Mubaiwa,B,Unaccountable Foxes,Rarita,FW,32680000
+858,E. König,B,Unaccountable Foxes,Dosqaly,FWMF,22350000
+859,F. Carbone,B,Unaccountable Foxes,Greri Landmoslands,GK,14750000
+860,M. Mugeni,B,Unaccountable Foxes,Dosqaly,MF,31860000
+861,B. Akullu,B,Unaccountable Foxes,Lefghau,MF,35470000
+862,I. Oryema,B,Unaccountable Foxes,Lefghau,MF,21620000
+863,S. Nabasa,B,Unaccountable Foxes,Lefghau,MF,32830000
+864,X. Méndez,B,Unaccountable Foxes,Lefghau,MF,26530000
+865,O. Nakisige,B,Unaccountable Foxes,Reugha,MF,26490000
+866,M. Azulay,B,Unaccountable Foxes,Dosqaly,MFFW,27760000
+867,Y. Peter,B,Unethical Comets,Central Namemo Laand,DF,8630000
+868,B. Nassozi,B,Unethical Comets,Dosqaly,DF,12940000
+869,B. Pandit,B,Unethical Comets,Dosqaly,DF,2580000
+870,K. Cohen,B,Unethical Comets,Dosqaly,DF,13280000
+871,R. Dube,B,Unethical Comets,Dosqaly,DF,15590000
+872,D. Nangiro,B,Unethical Comets,Greri Landmoslands,DF,26150000
+873,L. Kalni?š,B,Unethical Comets,Lefghau,DF,20970000
+874,M. Mizrahi,B,Unethical Comets,Rosvi,DF,16950000
+875,H. Afriyie,B,Unethical Comets,Dosqaly,DFMF,28760000
+876,R. Okwera,B,Unethical Comets,Dosqaly,FW,29250000
+877,C. Abaho,B,Unethical Comets,Pierrema,FW,38250000
+878,D. Masuku,B,Unethical Comets,Dosqaly,FWMF,28620000
+879,A. Uy,B,Unethical Comets,People's Land of Maneau,FWMF,21490000
+880,G. Parisi,B,Unethical Comets,Rosvi,FWMF,22570000
+881,L. Dahl,B,Unethical Comets,Dosqaly,GK,12440000
+882,Y. binti Omar,B,Unethical Comets,Quewenia,GK,29220000
+883,G. Ampofo,B,Unethical Comets,Buhegeor,MF,14480000
+884,G. Heydari,B,Unethical Comets,Dosqaly,MF,20250000
+885,I. Namutosi,B,Unethical Comets,Dosqaly,MF,13170000
+886,J. Opolot,B,Unethical Comets,Dosqaly,MF,17900000
+887,K. Nakazzi,B,Unethical Comets,Dosqaly,MF,13070000
+888,X. Kamble,B,Unethical Comets,Dosqaly,MF,30570000
+889,J. Mutyaba,B,Unethical Comets,Dosqaly,MFDF,12350000
+890,O. Isaac,B,Unethical Comets,Dosqaly,MFDF,11050000
+891,E. Rashidi,B,Unethical Comets,Landli Blicporlip,MFFW,36630000
+892,H. Isa,B,Villainous Eagles,Central Diasongo,DF,11130000
+893,K. Weiß,B,Villainous Eagles,Central Diasongo,DF,11910000
+894,Y. Bano,B,Villainous Eagles,Central Diasongo,DF,18970000
+895,G. Baig,B,Villainous Eagles,Dosqaly,DF,16750000
+896,M. Okori,B,Villainous Eagles,Dosqaly,DF,9650000
+897,S. Parisi,B,Villainous Eagles,Dosqaly,DF,15050000
+898,U. Heilig,B,Villainous Eagles,Dosqaly,DF,12230000
+899,U. bin Salleh,B,Villainous Eagles,Unicorporated Tiagascar,DF,24250000
+900,E. Kinoshita,B,Villainous Eagles,Biarizea,FW,32340000
+901,E. Ajwang,B,Villainous Eagles,Central Namemo Laand,FW,33790000
+902,J. Natukunda,B,Villainous Eagles,Dosqaly,FW,27530000
+903,L. Zamani,B,Villainous Eagles,Dosqaly,FW,7010000
+904,P. Kamya,B,Villainous Eagles,Dosqaly,FW,20570000
+905,O. Musiimenta,B,Villainous Eagles,Ucame Ofne,FW,38280000
+906,X. Nabaggala,B,Villainous Eagles,Biarizea,FWMF,25100000
+907,Z. Ogawa,B,Villainous Eagles,Coastpa Barleslands,FWMF,9880000
+908,C. B?rzi?š,B,Villainous Eagles,Dosqaly,FWMF,26410000
+909,C. Hu,B,Villainous Eagles,Dosqaly,FWMF,10580000
+910,F. Adiru,B,Villainous Eagles,Dosqaly,FWMF,25850000
+911,D. Businge,B,Villainous Eagles,Greri Landmoslands,FWMF,36530000
+912,Q. Yamazaki,B,Villainous Eagles,Pierrema,FWMF,33190000
+913,J. Mercier,B,Villainous Eagles,Dosqaly,GK,18790000
+914,G. Song,B,Villainous Eagles,Dosqaly,MF,15690000
+915,M. Ojo,B,Villainous Eagles,Dosqaly,MF,23210000
+916,N. Kigongo,B,Villainous Eagles,Dosqaly,MF,29350000
+917,P. Nieminen,B,Villainous Eagles,Dosqaly,MF,23450000
+918,P. Romero,B,Villainous Eagles,Dosqaly,MF,22450000
+919,T. Pärn,B,Villainous Eagles,Dosqaly,MF,10300000
+920,Y. Kat?,B,Villainous Eagles,Dosqaly,MFDF,15120000
+921,J. Nakamya,B,Villainous Eagles,Dosqaly,MFFW,23650000
+922,T. Lwanga,B,Villainous Eagles,Reugha,MFFW,31190000
+923,B. Waon,B,Weak Blimps,Badad,DF,24550000
+924,N. Nakacwa,B,Weak Blimps,Central Diasongo,DF,20510000
+925,V. Koller,B,Weak Blimps,Coastpa Barleslands,DF,29470000
+926,D. Hí,B,Weak Blimps,Dosqaly,DF,7930000
+927,K. Okwir,B,Weak Blimps,Dosqaly,DF,22190000
+928,M. Begu,B,Weak Blimps,Dosqaly,DF,13420000
+929,M. Lunkuse,B,Weak Blimps,Dosqaly,DF,13390000
+930,Q. bin Abd Rahman,B,Weak Blimps,Dosqaly,DF,15420000
+931,Z. Akoth,B,Weak Blimps,Dosqaly,DF,20790000
+932,J. Irawan,B,Weak Blimps,Giumle Lizeibon,DF,13790000
+933,B. Kayondo,B,Weak Blimps,Lefghau,DF,22820000
+934,P. Tumwine,B,Weak Blimps,Lefghau,DF,11470000
+935,X. Lubega,B,Weak Blimps,Lefghau,DF,18240000
+936,G. Kasamba,B,Weak Blimps,Quewenia,DF,14300000
+937,F. Fournier,B,Weak Blimps,Pierrema,DFMF,36220000
+938,J. Yeo,B,Weak Blimps,Dosqaly,FW,31480000
+939,P. Khoh,B,Weak Blimps,Mico,FW,28650000
+940,F. Shaikh,B,Weak Blimps,Dosqaly,FWMF,27450000
+941,I. Irumba,B,Weak Blimps,Dosqaly,FWMF,9680000
+942,J. Nakayama,B,Weak Blimps,Dosqaly,FWMF,36110000
+943,K. binti Ali,B,Weak Blimps,Dosqaly,FWMF,27100000
+944,M. Mubangizi,B,Weak Blimps,Greri Landmoslands,FWMF,30740000
+945,T. Winkler,B,Weak Blimps,Quewenia,FWMF,30510000
+946,C. V?tols,B,Weak Blimps,Imaar Vircoand,GK,13780000
+947,A. Koz?owski,B,Weak Blimps,Dosqaly,MF,33600000
+948,B. Nalugwa,B,Weak Blimps,Dosqaly,MF,21760000
+949,N. Maeda,B,Weak Blimps,Dosqaly,MF,32650000
+950,T. Nyanzi,B,Weak Blimps,Dosqaly,MF,17690000
+951,P. Li,B,Weak Blimps,Dosqaly,MFFW,25480000
+952,T. Kuok,B,Weak Blimps,Dosqaly,MFFW,16260000
+953,O. Ssenabulya,B,Weak Blimps,Pierrema,MFFW,35940000
+954,B. Waon,B,Wet Monarchs,Badad,DF,12510000
+955,F. Aminu,B,Wet Monarchs,Dosqaly,DF,9950000
+956,J. Wojciechowski,B,Wet Monarchs,Dosqaly,DF,24120000
+957,L. Akech,B,Wet Monarchs,Dosqaly,DF,22950000
+958,L. bin Osman,B,Wet Monarchs,Dosqaly,DF,22250000
+959,Q. Becker,B,Wet Monarchs,Dosqaly,DF,18040000
+960,U. Mousavi,B,Wet Monarchs,Dosqaly,DF,14190000
+961,X. Kyei,B,Wet Monarchs,Dosqaly,DF,19810000
+962,N. Bianco,B,Wet Monarchs,Lylimi,DF,25860000
+963,D. Anyango,B,Wet Monarchs,Redohrainbri,DF,19190000
+964,L. Lukwago,B,Wet Monarchs,Coastpa Barleslands,FW,34160000
+965,L. Chandia,B,Wet Monarchs,Dosqaly,FW,26060000
+966,M. Maimon,B,Wet Monarchs,Dosqaly,FW,28180000
+967,S. Gwenzi,B,Wet Monarchs,Pierrema,FW,22870000
+968,M. Ramírez,B,Wet Monarchs,Reugha,FW,15200000
+969,C. Domínguez,B,Wet Monarchs,Southern Viout Aman,FW,26470000
+970,L. Amule,B,Wet Monarchs,Dosqaly,FWMF,13510000
+971,A. Serrano,B,Wet Monarchs,Pierrema,FWMF,21980000
+972,G. Razak,B,Wet Monarchs,Dosqaly,GK,19280000
+973,P. Tse,B,Wet Monarchs,Biarizea,MF,10450000
+974,Y. Yanti,B,Wet Monarchs,Coastpa Barleslands,MF,27740000
+975,B. Murray,B,Wet Monarchs,Danan Seekeeling,MF,19160000
+976,B. Ndlovu,B,Wet Monarchs,Dosqaly,MF,30380000
+977,C. Rathod,B,Wet Monarchs,Dosqaly,MF,17110000
+978,J. Nakubulwa,B,Wet Monarchs,Dosqaly,MF,10360000
+979,Z. Wati,B,Wet Monarchs,Dosqaly,MF,19390000
+980,X. Tu,B,Wet Monarchs,Rarita,MF,17810000
+981,G. Mbeiza,B,Wet Monarchs,Tito Mia,MF,23030000
+982,V. Krisensen,B,Wet Monarchs,Dosqaly,MFDF,20390000
+983,U. Kristiansen,B,Wet Monarchs,Dosqaly,MFFW,24180000
+984,Y. Jokinen,B,Wet Monarchs,Dosqaly,MFFW,30640000
+985,W. Okumu,B,Wet Monarchs,Unicorporated Tiagascar,MFFW,23720000
+986,T. Hoe,B,Wet Monarchs,Xikong,MFFW,31080000
+987,S. Busch,C,Awkward Trailblazers,Galamily,DF,17250000
+988,P. Konadu,C,Awkward Trailblazers,Giumle Lizeibon,DF,18850000
+989,D. Okech,C,Awkward Trailblazers,Leoneku Guidisia,DF,19640000
+990,S. Chemutai,C,Awkward Trailblazers,Rosvi,DF,16490000
+991,Q. Busobozi,C,Awkward Trailblazers,Varijitri Isles,DF,23860000
+992,X. Ahmad,C,Awkward Trailblazers,Xikong,DF,15410000
+993,I. Nartey,C,Awkward Trailblazers,Esia,DFFW,16800000
+994,G. Chee,C,Awkward Trailblazers,Deshslands Landdenhai,FW,4310000
+995,B. Hadži?,C,Awkward Trailblazers,Esia,FW,22530000
+996,Q. Scott,C,Awkward Trailblazers,Byasier Pujan,FWMF,27710000
+997,B. Ionescu,C,Awkward Trailblazers,Esia,FWMF,5860000
+998,D. Isabirye,C,Awkward Trailblazers,Esia,FWMF,26060000
+999,H. Odoi,C,Awkward Trailblazers,Esia,FWMF,32200000
+1000,O. Pellegrini,C,Awkward Trailblazers,Esia,FWMF,27060000
+1001,J. Nyondo,C,Awkward Trailblazers,Giumle Lizeibon,FWMF,12540000
+1002,G. Chakanyuka,C,Awkward Trailblazers,Loco Phirema,FWMF,34860000
+1003,R. Mbeiza,C,Awkward Trailblazers,Slandsganiamayotteque,FWMF,24000000
+1004,G. Prasetyo,C,Awkward Trailblazers,Galamily,GK,20940000
+1005,A. Ashaba,C,Awkward Trailblazers,Byasier Pujan,MF,31220000
+1006,E. Gupta,C,Awkward Trailblazers,Esia,MF,21910000
+1007,H. Gimbo,C,Awkward Trailblazers,Esia,MF,13380000
+1008,Z. Sng,C,Awkward Trailblazers,Esia,MF,21240000
+1009,A. Ross,C,Awkward Trailblazers,Esia,MFDF,18520000
+1010,P. Ssempijja,C,Awkward Trailblazers,Esia,MFDF,11770000
+1011,E. Doyle,C,Awkward Trailblazers,Esia,MFFW,10240000
+1012,K. Ozols,C,Awkward Trailblazers,Esia,MFFW,33220000
+1013,H. Manyika,C,Awkward Trailblazers,Lylimi,MFFW,28740000
+1014,S. Nachum,C,Blue Jaguars,Byasier Pujan,DF,1790000
+1015,R. Yeko,C,Blue Jaguars,Esia,DF,18830000
+1016,S. Magezi,C,Blue Jaguars,Esia,DF,20800000
+1017,Z. Mugeni,C,Blue Jaguars,Galamily,DF,22130000
+1018,F. Ashaba,C,Blue Jaguars,Giumle Lizeibon,DF,27630000
+1019,F. Namukasa,C,Blue Jaguars,Nancipenuaroe,DF,11740000
+1020,E. Patra,C,Blue Jaguars,People's Land of Maneau,DF,25180000
+1021,Q. Ogwang,C,Blue Jaguars,Redohrainbri,DF,15780000
+1022,S. Oduro,C,Blue Jaguars,Republic of Denand Landsa,DF,18120000
+1023,M. Schwartz,C,Blue Jaguars,Slandsganiamayotteque,DF,18340000
+1024,A. Grgi?,C,Blue Jaguars,Unicorporated Tiagascar,DF,16260000
+1025,R. Dahl,C,Blue Jaguars,Byasier Pujan,DFMF,7470000
+1026,B. Jalali,C,Blue Jaguars,Rosvi,DFMF,37200000
+1027,N. Khalil,C,Blue Jaguars,Dastatesne,FW,32550000
+1028,G. Leclercq,C,Blue Jaguars,Dosqaly,FW,23990000
+1029,E. Bah,C,Blue Jaguars,Mico,FW,29330000
+1030,I. Tukundane,C,Blue Jaguars,Pierrema,FW,34980000
+1031,V. Ikeda,C,Blue Jaguars,Southern Viout Aman,FW,20710000
+1032,F. Ankrah,C,Blue Jaguars,Esia,FWDF,35720000
+1033,X. Walusimbi,C,Blue Jaguars,Lefghau,FWDF,20820000
+1034,S. Armah,C,Blue Jaguars,Mico,FWDF,22620000
+1035,Y. Marlina,C,Blue Jaguars,Isle of Lababwe,FWMF,37040000
+1036,Z. Davies,C,Blue Jaguars,Manlisgamncent,FWMF,27900000
+1037,A. Mor,C,Blue Jaguars,Esia,GK,22000000
+1038,H. Nakimera,C,Blue Jaguars,Esia,GK,11000000
+1039,Z. Kasibante,C,Blue Jaguars,Esia,MF,28640000
+1040,X. Aminah,C,Blue Jaguars,Reugha,MF,14620000
+1041,D. Hsu,C,Blue Jaguars,Esia,MFDF,26200000
+1042,Q. Roche,C,Blue Jaguars,Giumle Lizeibon,MFDF,22390000
+1043,M. Omony,C,Blue Jaguars,Giumle Lizeibon,MFFW,30660000
+1044,I. Nalubwama,C,Fiery Governors,Byasier Pujan,DF,18990000
+1045,M. Watson,C,Fiery Governors,Dosqaly,DF,19520000
+1046,B. Nanyunja,C,Fiery Governors,Esia,DF,8050000
+1047,I. Khalili,C,Fiery Governors,Esia,DF,14550000
+1048,L. Khachatryan,C,Fiery Governors,Esia,DF,19080000
+1049,N. binti Sulaiman,C,Fiery Governors,Esia,DF,14470000
+1050,R. Magaya,C,Fiery Governors,Esia,DF,30090000
+1051,S. Nassazi,C,Fiery Governors,Esia,DF,15390000
+1052,Z. Frank,C,Fiery Governors,Esia,DF,22870000
+1053,X. Mulder,C,Fiery Governors,Giumle Lizeibon,DF,19590000
+1054,L. Arai,C,Fiery Governors,Nganion,DF,17740000
+1055,Y. Jain,C,Fiery Governors,Esia,DFFW,24060000
+1056,F. Apili,C,Fiery Governors,Nancipenuaroe,DFFW,9500000
+1057,D. Morales,C,Fiery Governors,Dosqaly,FW,21630000
+1058,L. Nakirya,C,Fiery Governors,Esia,FW,27610000
+1059,I. Peeters,C,Fiery Governors,Giumle Lizeibon,FW,27340000
+1060,X. Hofer,C,Fiery Governors,New Uwi,FW,23830000
+1061,Q. Tshia,C,Fiery Governors,Esia,FWDF,28760000
+1062,F. Lemaire,C,Fiery Governors,Landli Blicporlip,FWDF,6230000
+1063,A. Ngabirano,C,Fiery Governors,Xikong,FWMF,29650000
+1064,L. Nalukenge,C,Fiery Governors,Esia,GK,11470000
+1065,Q. Ghoe,C,Fiery Governors,Esia,GK,8760000
+1066,J. Andersen,C,Fiery Governors,Central Namemo Laand,MF,30880000
+1067,A. Omara,C,Fiery Governors,Esia,MF,30190000
+1068,F. Nakimuli,C,Fiery Governors,Esia,MF,23250000
+1069,K. Sah,C,Fiery Governors,Liacra,MF,17680000
+1070,C. Abbo,C,Fiery Governors,Esia,MFDF,16850000
+1071,V. Athieno,C,Fiery Governors,Quewenia,MFDF,17260000
+1072,M. Nakaggwa,C,Fiery Governors,Byasier Pujan,MFFW,20230000
+1073,Y. Dupont,C,Fiery Governors,Esia,MFFW,19580000
+1074,B. Munemo,C,Fiery Governors,Giumle Lizeibon,MFFW,31350000
+1075,L. Kovalenko,C,Horrible Flames,Byasier Pujan,DF,15130000
+1076,Z. Okon,C,Horrible Flames,Byasier Pujan,DF,15080000
+1077,C. Rodríguez,C,Horrible Flames,Esia,DF,28880000
+1078,F. Mugide,C,Horrible Flames,Esia,DF,25590000
+1079,K. Nyakudya,C,Horrible Flames,Esia,DF,16050000
+1080,K. Ohayon,C,Horrible Flames,Esia,DF,9150000
+1081,Y. Takeuchi,C,Horrible Flames,Giumle Lizeibon,DF,16650000
+1082,E. Pour,C,Horrible Flames,Lefghau,DF,13740000
+1083,G. Nansamba,C,Horrible Flames,Manlisgamncent,DF,13880000
+1084,P. Ategeka,C,Horrible Flames,Saintswacroa,DF,25250000
+1085,L. Kav?i?,C,Horrible Flames,Western Niasland,DF,8120000
+1086,T. Nakku,C,Horrible Flames,Byasier Pujan,DFFW,13080000
+1087,C. Nabaggala,C,Horrible Flames,Esia,FW,10980000
+1088,K. Jakobsson,C,Horrible Flames,Galamily,FW,31650000
+1089,I. Nagadya,C,Horrible Flames,Imaar Vircoand,FW,38320000
+1090,M. Nyirongo,C,Horrible Flames,Lefghau,FW,33430000
+1091,V. Mudondo,C,Horrible Flames,People's Land of Maneau,FW,24560000
+1092,A. Namubiru,C,Horrible Flames,Dosqaly,FWMF,30140000
+1093,J. Adam,C,Horrible Flames,Esia,FWMF,36500000
+1094,W. Ainomugisha,C,Horrible Flames,Thaijagypt,FWMF,31670000
+1095,I. Agwang,C,Horrible Flames,Esia,GK,10490000
+1096,R. Aguilar,C,Horrible Flames,Esia,GK,12440000
+1097,M. Krli?evi?,C,Horrible Flames,Leoneku Guidisia,GK,11420000
+1098,D. Safitri,C,Horrible Flames,Esia,MF,32140000
+1099,K. Ntale,C,Horrible Flames,Esia,MF,33550000
+1100,L. Ndoro,C,Horrible Flames,Esia,MF,13990000
+1101,L. Abbasi,C,Horrible Flames,Giumle Lizeibon,MF,27920000
+1102,O. Ortega,C,Horrible Flames,Imaar Vircoand,MF,28230000
+1103,E. Mtetwa,C,Horrible Flames,Leoneku Guidisia,MF,8660000
+1104,Y. Thin,C,Horrible Flames,Northern Namemo Laand,MF,16390000
+1105,A. Dickson,C,Little Lollipops,Esia,DF,23560000
+1106,C. Denis,C,Little Lollipops,Esia,DF,24410000
+1107,H. Morgan,C,Little Lollipops,Esia,DF,19780000
+1108,E. Nabaasa,C,Little Lollipops,Giumle Lizeibon,DF,19760000
+1109,C. Msukwa,C,Little Lollipops,Pierrema,DF,42340000
+1110,H. Arthur,C,Little Lollipops,Quewenia,DF,10530000
+1111,P. Naiga,C,Little Lollipops,Xikong,DF,25000000
+1112,Z. Testa,C,Little Lollipops,Giumle Lizeibon,DFFW,22370000
+1113,K. Eyotaru,C,Little Lollipops,Dosqaly,FW,32180000
+1114,U. Nhantumbo,C,Little Lollipops,Dosqaly,FW,37860000
+1115,E. Tumuhimbise,C,Little Lollipops,Esia,FW,41030000
+1116,M. Li,C,Little Lollipops,Iverde,FWDF,27200000
+1117,C. Khalil,C,Little Lollipops,Esia,FWMF,30800000
+1118,M. Mathieu,C,Little Lollipops,Quewenia,FWMF,40620000
+1119,E. Namakoye,C,Little Lollipops,Esia,GK,26150000
+1120,R. Yiga,C,Little Lollipops,Quewenia,GK,26120000
+1121,A. Mumpande,C,Little Lollipops,Esia,MF,16800000
+1122,M. Chan,C,Little Lollipops,Esia,MF,32480000
+1123,N. Ngabirano,C,Little Lollipops,Esia,MF,19900000
+1124,M. Yanti,C,Little Lollipops,Ledian,MF,22160000
+1125,O. Obeng,C,Little Lollipops,Quewenia,MFDF,24040000
+1126,N. Nalule,C,Little Lollipops,Esia,MFFW,35930000
+1127,M. Bonnet,C,Little Lollipops,Giumle Lizeibon,MFFW,19480000
+1128,E. Maluwa,C,Marvelous Anchors,Esia,DF,19910000
+1129,J. Nakyanzi,C,Marvelous Anchors,Esia,DF,16830000
+1130,M. Odong,C,Marvelous Anchors,Esia,DF,13970000
+1131,N. Ofosu,C,Marvelous Anchors,Esia,DF,16980000
+1132,Z. bin Zakaria,C,Marvelous Anchors,Esia,DF,23980000
+1133,N. Barukh,C,Marvelous Anchors,Giumle Lizeibon,DF,21880000
+1134,G. Wahab,C,Marvelous Anchors,Dosqaly,DFMF,20390000
+1135,J. Faida,C,Marvelous Anchors,Byasier Pujan,FW,20930000
+1136,N. Nwachukwu,C,Marvelous Anchors,Esia,FW,22860000
+1137,C. O'Connor,C,Marvelous Anchors,Unicorporated Tiagascar,FW,31310000
+1138,P. Ma,C,Marvelous Anchors,Esia,FWMF,33480000
+1139,L. Owori,C,Marvelous Anchors,Landli Blicporlip,FWMF,31320000
+1140,L. Namuyanja,C,Marvelous Anchors,Byasier Pujan,GK,19250000
+1141,E. Kyomukama,C,Marvelous Anchors,Esia,GK,20930000
+1142,M. Ojo,C,Marvelous Anchors,Dosqaly,MF,18170000
+1143,G. Moulin,C,Marvelous Anchors,Esia,MF,25390000
+1144,N. Tugumisirize,C,Marvelous Anchors,Esia,MF,13670000
+1145,M. Manda,C,Marvelous Anchors,Quewenia,MF,6270000
+1146,E. Oh,C,Marvelous Anchors,Esia,MFDF,8270000
+1147,G. Poulsen,C,Marvelous Anchors,Moaithe,MFDF,22990000
+1148,Q. Alhassan,C,Marvelous Anchors,Esia,MFFW,13730000
+1149,L. Wasswa,C,Marvelous Anchors,Landli Blicporlip,MFFW,25250000
+1150,G. Acheampong,C,Marvelous Anchors,New Uwi,MFFW,26100000
+1151,D. Mortenson,C,Marvelous Anchors,Sobianitedrucy,MFFW,27860000
+1152,Q. Tushabe,C,Mean Trolls,Byasier Pujan,DF,14220000
+1153,D. Domingos,C,Mean Trolls,Esia,DF,14220000
+1154,Q. Fathi,C,Mean Trolls,Esia,DF,25070000
+1155,C. Ndiweni,C,Mean Trolls,Galamily,DF,9580000
+1156,P. Acan,C,Mean Trolls,Lefghau,DF,21310000
+1157,I. Sinani,C,Mean Trolls,Mico,DF,16540000
+1158,L. Herrera,C,Mean Trolls,Nkasland Cronestan,DF,10220000
+1159,Q. Okurut,C,Mean Trolls,People's Land of Maneau,DF,9970000
+1160,N. Nowak,C,Mean Trolls,Cuandbo,FW,30940000
+1161,B. Alali,C,Mean Trolls,Esia,FW,32560000
+1162,J. Wibowo,C,Mean Trolls,Esia,FWMF,28140000
+1163,V. Supriadi,C,Mean Trolls,Esia,FWMF,28980000
+1164,Z. Matsui,C,Mean Trolls,Giumle Lizeibon,FWMF,17260000
+1165,A. Lekuru,C,Mean Trolls,Leoneku Guidisia,FWMF,9120000
+1166,H. Nuraeni,C,Mean Trolls,Republic of Denand Landsa,FWMF,21140000
+1167,E. Mapuranga,C,Mean Trolls,Nkasland Cronestan,GK,16180000
+1168,A. Malkah,C,Mean Trolls,Esia,MF,13490000
+1169,Q. Maphosa,C,Mean Trolls,Esia,MF,24670000
+1170,U. Gan,C,Mean Trolls,Esia,MF,2320000
+1171,U. He,C,Mean Trolls,Galamily,MF,12020000
+1172,B. Zee,C,Mean Trolls,Nathuacamana,MF,21690000
+1173,I. Achom,C,Mean Trolls,Esia,MFDF,10570000
+1174,M. Kakaire,C,Mean Trolls,Sobianitedrucy,MFDF,32490000
+1175,M. Yanti,C,Mean Trolls,Ledian,MFFW,14430000
+1176,G. Odoch,C,Mean Trolls,Quewenia,MFFW,24930000
+1177,K. Molina,C,Punctual Archers,Esia,DF,21150000
+1178,N. Nanziri,C,Punctual Archers,Esia,DF,23120000
+1179,Q. Zimba,C,Punctual Archers,Esia,DF,17870000
+1180,W. Montanari,C,Punctual Archers,Esia,DF,12230000
+1181,X. Mkandawire,C,Punctual Archers,Esia,DF,16260000
+1182,Y. Alzahrani,C,Punctual Archers,Esia,DF,27310000
+1183,X. Kawooya,C,Punctual Archers,Giumle Lizeibon,DF,21180000
+1184,C. Van den Berg *,C,Punctual Archers,Redohrainbri,DFMF,29760000
+1185,K. Yousef,C,Punctual Archers,Esia,FW,9840000
+1186,P. Anderson,C,Punctual Archers,Esia,FW,20130000
+1187,E. Mtetwa,C,Punctual Archers,Leoneku Guidisia,FW,29390000
+1188,K. Jabarin,C,Punctual Archers,Manlisgamncent,FW,27210000
+1189,S. Nakabugo,C,Punctual Archers,Republic of Denand Landsa,FW,23260000
+1190,K. Ssenyondo,C,Punctual Archers,Esia,FWMF,13390000
+1191,O. Kayongo,C,Punctual Archers,Esia,FWMF,36830000
+1192,Q. Patil,C,Punctual Archers,Esia,FWMF,27030000
+1193,Z. Namatovu,C,Punctual Archers,Esia,FWMF,29070000
+1194,F. Sun,C,Punctual Archers,Riazbe Ryma,FWMF,16810000
+1195,B. Fernandez,C,Punctual Archers,Esia,GK,14830000
+1196,W. Mandizvidza,C,Punctual Archers,Esia,GK,13960000
+1197,A. Popovi?,C,Punctual Archers,Esia,MF,16100000
+1198,K. Anek,C,Punctual Archers,Esia,MF,21130000
+1199,U. Kumakech,C,Punctual Archers,Esia,MF,2950000
+1200,V. Cherop,C,Punctual Archers,Esia,MF,22060000
+1201,X. Wasswa,C,Punctual Archers,Esia,MF,22510000
+1202,U. Alizadeh,C,Punctual Archers,Lylimi,MFFW,29750000
+1203,M. Kiiza,C,Punctual Archers,Mico,MFFW,23990000
+1204,J. Nahabwe,C,Red Artichokes,Byasier Pujan,DF,14270000
+1205,K. Kibuuka,C,Red Artichokes,Desaintko,DF,21740000
+1206,I. Tarigan,C,Red Artichokes,Esia,DF,21670000
+1207,X. Sulaiman,C,Red Artichokes,Esia,DF,23610000
+1208,P. Turyatunga,C,Red Artichokes,Mico,DF,29710000
+1209,L. Namande,C,Red Artichokes,Quewenia,DF,19950000
+1210,C. Horvat,C,Red Artichokes,Southern Ristan,DF,23840000
+1211,Z. Tanaka,C,Red Artichokes,Xikong,DF,8170000
+1212,H. Boadu,C,Red Artichokes,Esia,FW,29920000
+1213,J. Mazur,C,Red Artichokes,Esia,FWMF,23580000
+1214,M. Neo,C,Red Artichokes,Esia,FWMF,34910000
+1215,R. Nakuya,C,Red Artichokes,Tito Mia,FWMF,21420000
+1216,A. Ortega,C,Red Artichokes,Zamlie Niabangthe,FWMF,26640000
+1217,K. Tsui,C,Red Artichokes,Esia,GK,30170000
+1218,G. Kaya,C,Red Artichokes,Esia,MF,14450000
+1219,K. Walugembe,C,Red Artichokes,Esia,MF,22580000
+1220,T. Ayoo,C,Red Artichokes,Esia,MF,26870000
+1221,N. Sembiring,C,Red Artichokes,Giumle Lizeibon,MF,17890000
+1222,U. Kajumba,C,Red Artichokes,Esia,MFDF,1770000
+1223,U. Sani,C,Red Artichokes,Byasier Pujan,MFFW,28180000
+1224,I. Habibi,C,Red Artichokes,Esia,MFFW,18300000
+1225,U. Azizi,C,Red Artichokes,Esia,MFFW,14100000
+1226,C. Thomas,C,Red Artichokes,Giumle Lizeibon,MFFW,27740000
+1227,U. Katushabe,C,Red Artichokes,Ili Siaco,MFFW,27750000
+1228,P. Mudimba,C,Red Artichokes,Lylimi,MFFW,24560000
+1229,Q. Nantume,C,Red Artichokes,Lylimi,MFFW,13790000
+1230,I. Nakityo,C,Serious Cyclones,Dosqaly,DF,14050000
+1231,K. Shumba,C,Serious Cyclones,Esia,DF,22010000
+1232,T. binti Osman,C,Serious Cyclones,Esia,DF,24390000
+1233,U. Selima,C,Serious Cyclones,Esia,DF,14650000
+1234,R. Sanz,C,Serious Cyclones,Greri Landmoslands,DF,31140000
+1235,X. Pavlovi?,C,Serious Cyclones,Nganion,DF,37970000
+1236,D. Nabbosa,C,Serious Cyclones,Nkasland Cronestan,DF,12340000
+1237,Q. Yadav,C,Serious Cyclones,Quewenia,DF,19360000
+1238,J. Kondowe,C,Serious Cyclones,Southern Ristan,DF,18990000
+1239,Z. Braun,C,Serious Cyclones,Esia,DFMF,30050000
+1240,F. Yan,C,Serious Cyclones,Redohrainbri,FW,36650000
+1241,B. Umaru,C,Serious Cyclones,Esia,FWDF,35550000
+1242,B. Nakiyemba,C,Serious Cyclones,Esia,FWMF,29580000
+1243,I. Campbell,C,Serious Cyclones,Esia,FWMF,27960000
+1244,V. Wolf,C,Serious Cyclones,Esia,FWMF,24970000
+1245,L. Malinga,C,Serious Cyclones,People's Land of Maneau,FWMF,38470000
+1246,Q. Sithole,C,Serious Cyclones,Slandsganiamayotteque,FWMF,20640000
+1247,I. Permana,C,Serious Cyclones,Southern Ristan,FWMF,32350000
+1248,F. Nabunya,C,Serious Cyclones,Quewenia,GK,12180000
+1249,M. Zhou,C,Serious Cyclones,Quewenia,GK,24400000
+1250,L. Adri,C,Serious Cyclones,Esia,MF,30120000
+1251,O. Lakot,C,Serious Cyclones,Mico,MF,19330000
+1252,A. Ono,C,Serious Cyclones,People's Land of Maneau,MF,21860000
+1253,I. Reilly,C,Serious Cyclones,Southern Ristan,MF,26650000
+1254,A. Yusuf,C,Serious Cyclones,Esia,MFFW,34380000
+1255,B. Kalyango,C,Serious Cyclones,Lefghau,MFFW,39550000
+1256,F. Santana,C,Silver Frogs,Dosqaly,DF,12100000
+1257,T. Dietrich,C,Silver Frogs,Dosqaly,DF,17250000
+1258,D. Mészáros,C,Silver Frogs,Esia,DF,21510000
+1259,N. Suryani,C,Silver Frogs,Lefghau,DF,13360000
+1260,F. Mawa,C,Silver Frogs,Manlisgamncent,DF,17860000
+1261,W. Okeke,C,Silver Frogs,Quewenia,DF,26660000
+1262,M. Nakkazi,C,Silver Frogs,Slandsganiamayotteque,DF,13620000
+1263,D. Wahyudi,C,Silver Frogs,Esia,DFMF,38280000
+1264,E. Lam,C,Silver Frogs,Byasier Pujan,FW,32160000
+1265,O. Lombardi,C,Silver Frogs,Frenchdo Stanser,FW,16890000
+1266,A. Nantege,C,Silver Frogs,Lefghau,FW,31660000
+1267,I. Kyakimwa,C,Silver Frogs,Lefghau,FW,32620000
+1268,F. Blanco,C,Silver Frogs,Manlisgamncent,FW,29290000
+1269,I. Khalili,C,Silver Frogs,Esia,FWDF,25640000
+1270,C. Wee,C,Silver Frogs,Esia,FWMF,31800000
+1271,G. Kwiatkowski,C,Silver Frogs,Nkasland Cronestan,FWMF,28500000
+1272,Q. Addo,C,Silver Frogs,Quewenia,FWMF,30930000
+1273,S. Achen,C,Silver Frogs,Giumle Lizeibon,GK,21350000
+1274,L. Msowoya,C,Silver Frogs,Southern Ristan,GK,9890000
+1275,G. Foong,C,Silver Frogs,Esia,MF,24040000
+1276,V. Nabukeera,C,Silver Frogs,Esia,MF,31260000
+1277,K. Lawino,C,Silver Frogs,Giumle Lizeibon,MF,22440000
+1278,J. Munduru,C,Silver Frogs,Varijitri Isles,MF,15440000
+1279,P. Takahashi,C,Silver Frogs,Dosqaly,MFDF,20780000
+1280,I. Lew,C,Silver Frogs,Esia,MFFW,25210000
+1281,Z. Uy,C,Silver Frogs,Quewenia,MFFW,18400000
+1282,G. Onencan,C,Spicy Gophers,Byasier Pujan,DF,33460000
+1283,D. Musimenta,C,Spicy Gophers,Esia,DF,20790000
+1284,D. Steiner,C,Spicy Gophers,Esia,DF,12920000
+1285,M. Dufour,C,Spicy Gophers,Esia,DF,12640000
+1286,N. Kiss,C,Spicy Gophers,Esia,DF,21100000
+1287,E. Byekwaso,C,Spicy Gophers,Nganion,DF,24310000
+1288,K. De Angelis,C,Spicy Gophers,Rosvi,DF,17420000
+1289,A. Soltani,C,Spicy Gophers,Southern Ristan,DF,21670000
+1290,A. Blanchard,C,Spicy Gophers,Esia,DFMF,30790000
+1291,A. Mwesigwa,C,Spicy Gophers,Esia,DFMF,22540000
+1292,U. Tweheyo,C,Spicy Gophers,Esia,DFMF,4770000
+1293,H. Nandawula,C,Spicy Gophers,Mico,DFMF,19030000
+1294,L. Bagheri,C,Spicy Gophers,Republic of Denand Landsa,FW,29290000
+1295,S. Lokol,C,Spicy Gophers,Republic of Denand Landsa,FW,25760000
+1296,G. Bey,C,Spicy Gophers,Xikong,FW,27360000
+1297,U. Rees,C,Spicy Gophers,Dosqaly,FWMF,24390000
+1298,X. Lunyolo,C,Spicy Gophers,Esia,FWMF,16250000
+1299,C. Mari?,C,Spicy Gophers,Giumle Lizeibon,FWMF,30210000
+1300,V. Namayanja,C,Spicy Gophers,Ledian,FWMF,22920000
+1301,I. Bitton,C,Spicy Gophers,Esia,GK,11890000
+1302,P. Galli,C,Spicy Gophers,Esia,GK,16910000
+1303,E. Nambafu,C,Spicy Gophers,Esia,MF,14500000
+1304,T. Mguni,C,Spicy Gophers,Esia,MF,24270000
+1305,F. Dutta,C,Spicy Gophers,Tabhu Striary,MF,17510000
+1306,G. Moradi,C,Spicy Gophers,Esia,MFFW,32110000
+1307,L. Kofi,C,Spicy Gophers,Esia,MFFW,19450000
+1308,V. Okongo,C,Spicy Gophers,Esia,MFFW,30990000
+1309,X. De Vries,C,Spicy Gophers,Ingre,MFFW,16250000
+1310,I. Nakato,C,Supreme Jaguars,Coastpa Barleslands,DF,25680000
+1311,B. Sabano,C,Supreme Jaguars,Esia,DF,17870000
+1312,C. Kyaligonza,C,Supreme Jaguars,Esia,DF,12140000
+1313,D. Hsu,C,Supreme Jaguars,Esia,DF,6180000
+1314,S. Kyobutungi,C,Supreme Jaguars,Esia,DF,19380000
+1315,U. Kasande,C,Supreme Jaguars,Esia,DF,23230000
+1316,X. Kurnia,C,Supreme Jaguars,Esia,DF,18430000
+1317,Y. Iwasaki,C,Supreme Jaguars,Esia,DF,23870000
+1318,Z. Chipeta,C,Supreme Jaguars,Esia,DF,14650000
+1319,Z. Nicolas,C,Supreme Jaguars,Esia,DF,14850000
+1320,I. Öztürk,C,Supreme Jaguars,Rosvi,DF,24590000
+1321,I. Ssentongo,C,Supreme Jaguars,Varijitri Isles,DF,14940000
+1322,A. Nantege,C,Supreme Jaguars,Lefghau,DFFW,20990000
+1323,A. Akoth,C,Supreme Jaguars,Unicorporated Tiagascar,DFMF,23820000
+1324,B. Liang,C,Supreme Jaguars,Byasier Pujan,FW,37570000
+1325,A. Guo,C,Supreme Jaguars,Esia,FW,5300000
+1326,T. Ramos,C,Supreme Jaguars,Esia,FW,30620000
+1327,U. Den,C,Supreme Jaguars,Greri Landmoslands,FW,16820000
+1328,D. Vanags,C,Supreme Jaguars,Ingre,FW,14260000
+1329,C. Paramar,C,Supreme Jaguars,Redohrainbri,FW,5770000
+1330,R. Christiansen,C,Supreme Jaguars,Slandsganiamayotteque,FW,29130000
+1331,T. Sarkar,C,Supreme Jaguars,Unicorporated Tiagascar,FW,20400000
+1332,D. Jansson,C,Supreme Jaguars,Biarizea,FWDF,21790000
+1333,U. Tuhaise,C,Supreme Jaguars,Esia,FWDF,24240000
+1334,M. Colombo,C,Supreme Jaguars,Djipines,FWMF,17250000
+1335,M. Ebong,C,Supreme Jaguars,Esia,FWMF,26280000
+1336,X. Seidu,C,Supreme Jaguars,Giumle Lizeibon,FWMF,24470000
+1337,L. Jung,C,Supreme Jaguars,Rarita,FWMF,25770000
+1338,F. Quansah,C,Supreme Jaguars,Southern Ristan,FWMF,32090000
+1339,Q. Nakyeyune,C,Supreme Jaguars,Esia,GK,12260000
+1340,J. Ojok,C,Supreme Jaguars,Giumle Lizeibon,GK,6670000
+1341,U. Ndagire,C,Supreme Jaguars,Mico,GK,14710000
+1342,D. Taaka,C,Supreme Jaguars,Esia,MF,29360000
+1343,G. Waswa,C,Supreme Jaguars,Esia,MF,34600000
+1344,M. Kyomugisha,C,Supreme Jaguars,Esia,MF,8060000
+1345,Q. Demir,C,Supreme Jaguars,Esia,MF,11870000
+1346,L. Bitton,C,Supreme Jaguars,Loco Phirema,MF,24630000
+1347,G. António,C,Supreme Jaguars,Nganion,MF,9430000
+1348,K. Mutero,C,Supreme Jaguars,Pierrema,MF,26870000
+1349,X. Phiri,C,Supreme Jaguars,Dosqaly,MFDF,12850000
+1350,J. Muianga,C,Supreme Jaguars,Biarizea,MFFW,27020000
+1351,L. Kaur,C,Supreme Jaguars,Biarizea,MFFW,24690000
+1352,U. Kyoshabire,C,Ultimate Dolphins,Central Democracy of Boekrainego,DF,21070000
+1353,F. Baguma,C,Ultimate Dolphins,Coastpa Barleslands,DF,6750000
+1354,B. Klemen?i?,C,Ultimate Dolphins,Dosqaly,DF,11280000
+1355,B. Mangwiro,C,Ultimate Dolphins,Dosqaly,DF,28930000
+1356,L. Mitchell,C,Ultimate Dolphins,Esia,DF,10880000
+1357,T. Kowalski,C,Ultimate Dolphins,Manlisgamncent,DF,23900000
+1358,Z. Nassolo,C,Ultimate Dolphins,Rarita,DF,15930000
+1359,M. Schwartz,C,Ultimate Dolphins,Slandsganiamayotteque,DF,9340000
+1360,G. Tamm,C,Ultimate Dolphins,Dosqaly,DFMF,13500000
+1361,V. Inoue,C,Ultimate Dolphins,Giumle Lizeibon,DFMF,21960000
+1362,D. Mirembe,C,Ultimate Dolphins,Nganion,DFMF,9250000
+1363,B. Mpofu,C,Ultimate Dolphins,Byasier Pujan,FW,30200000
+1364,W. D'amico,C,Ultimate Dolphins,Dosqaly,FW,17940000
+1365,L. Mwase,C,Ultimate Dolphins,Esia,FW,15840000
+1366,S. Y?lmaz,C,Ultimate Dolphins,Nkasland Cronestan,FW,32710000
+1367,I. bin Yusof,C,Ultimate Dolphins,Central Namemo Laand,FWMF,29910000
+1368,M. Sakai,C,Ultimate Dolphins,Dosqaly,FWMF,29110000
+1369,J. Halvorsen,C,Ultimate Dolphins,Esia,FWMF,5560000
+1370,L. Tu,C,Ultimate Dolphins,Esia,FWMF,32950000
+1371,Y. Nartey,C,Ultimate Dolphins,Esia,FWMF,34140000
+1372,H. Kelmendi,C,Ultimate Dolphins,Lefghau,FWMF,16250000
+1373,B. Harahap,C,Ultimate Dolphins,Esia,GK,24780000
+1374,S. Feldman,C,Ultimate Dolphins,Esia,GK,14240000
+1375,U. Oola,C,Ultimate Dolphins,Dosqaly,MF,31040000
+1376,G. Nisha,C,Ultimate Dolphins,Esia,MF,16000000
+1377,O. Nairuba,C,Ultimate Dolphins,Esia,MF,32950000
+1378,T. Astuti,C,Ultimate Dolphins,Esia,MF,39650000
+1379,T. Mukwaya,C,Ultimate Dolphins,Greri Landmoslands,MF,4310000
+1380,I. Nalweyiso,C,Ultimate Dolphins,Nganion,MF,24870000
+1381,O. Kyomukama,C,Ultimate Longhorns,Dosqaly,DF,15870000
+1382,F. Mutandwa,C,Ultimate Longhorns,Esia,DF,24500000
+1383,R. Magaya,C,Ultimate Longhorns,Esia,DF,24380000
+1384,W. Longwe,C,Ultimate Longhorns,Giumle Lizeibon,DF,15810000
+1385,K. Marufu,C,Ultimate Longhorns,Imaar Vircoand,DF,27530000
+1386,B. Abalo,C,Ultimate Longhorns,Lefghau,DF,10390000
+1387,F. Asare,C,Ultimate Longhorns,Reugha,DF,25850000
+1388,J. Namale,C,Ultimate Longhorns,Rosvi,DF,33480000
+1389,Y. Romano,C,Ultimate Longhorns,Slandsganiamayotteque,DF,15440000
+1390,D. Amongi,C,Ultimate Longhorns,Lylimi,DFMF,7980000
+1391,J. Anguko,C,Ultimate Longhorns,Quewenia,DFMF,29560000
+1392,U. Duval,C,Ultimate Longhorns,Byasier Pujan,FW,25150000
+1393,K. Nasution,C,Ultimate Longhorns,Greri Landmoslands,FW,33080000
+1394,Q. Khumalo,C,Ultimate Longhorns,Esia,FWDF,23650000
+1395,F. Claes,C,Ultimate Longhorns,Rosvi,FWMF,29780000
+1396,I. Nassiwa,C,Ultimate Longhorns,Esia,GK,17890000
+1397,T. Obong,C,Ultimate Longhorns,Esia,GK,11230000
+1398,I. Kyalisiima,C,Ultimate Longhorns,Esia,MF,21970000
+1399,Q. Ow,C,Ultimate Longhorns,Quewenia,MF,25170000
+1400,H. Marroquín,C,Ultimate Longhorns,Giumle Lizeibon,MFDF,28120000
+1401,K. Cheung,C,Ultimate Longhorns,Biarizea,MFFW,27990000
+1402,O. Arinaitwe,C,Ultimate Longhorns,Central Republic of Boekrainego,MFFW,25110000
+1403,C. Mugabirwe,C,Ultimate Longhorns,Esia,MFFW,33740000
+1404,F. Nakimuli,C,Ultimate Longhorns,Esia,MFFW,33020000
+1405,C. Asadi,C,Ultimate Longhorns,Lylimi,MFFW,27240000
+1406,S. Sabano,C,Weak Chargers,Danan Seekeeling,DF,4430000
+1407,A. Aceng,C,Weak Chargers,Esia,DF,15610000
+1408,C. Namugga,C,Weak Chargers,Esia,DF,20530000
+1409,H. Weber,C,Weak Chargers,Esia,DF,23690000
+1410,J. Okullo,C,Weak Chargers,Esia,DF,28370000
+1411,A. Al-Ghamdi,C,Weak Chargers,Ledian,DF,12110000
+1412,L. Oroma,C,Weak Chargers,Southern Ristan,DF,16730000
+1413,T. Mlalazi,C,Weak Chargers,Byasier Pujan,DFMF,21360000
+1414,D. Nabutono,C,Weak Chargers,Esia,DFMF,33330000
+1415,H. Asaba,C,Weak Chargers,Esia,DFMF,15290000
+1416,O. Sánchez,C,Weak Chargers,Esia,DFMF,25500000
+1417,I. Ly,C,Weak Chargers,Esia,FW,22170000
+1418,K. Stern,C,Weak Chargers,Esia,FW,8700000
+1419,Q. Virtanen,C,Weak Chargers,Nkasland Cronestan,FW,26160000
+1420,H. Nagy,C,Weak Chargers,Western Niasland,FW,23570000
+1421,Z. Möller,C,Weak Chargers,Central Republic of Boekrainego,FWDF,17490000
+1422,F. Schäfer,C,Weak Chargers,Rosvi,FWDF,34970000
+1423,P. Nyondo,C,Weak Chargers,Byasier Pujan,FWMF,18510000
+1424,U. Tkachenko,C,Weak Chargers,Byasier Pujan,FWMF,23050000
+1425,Z. Mayr,C,Weak Chargers,Lefghau,FWMF,33660000
+1426,H. Driscoll,C,Weak Chargers,Southern Ristan,FWMF,32520000
+1427,E. Kaddu,C,Weak Chargers,Esia,GK,16980000
+1428,P. Wan,C,Weak Chargers,Redohrainbri,GK,19610000
+1429,L. Mponda,C,Weak Chargers,Dosqaly,MF,24010000
+1430,S. Tenywa,C,Weak Chargers,Dosqaly,MF,26800000
+1431,G. Kaya,C,Weak Chargers,Esia,MF,12850000
+1432,K. Mugabi,C,Weak Chargers,Esia,MF,5620000
+1433,L. Oláh,C,Weak Chargers,Esia,MF,14920000
+1434,V. Owusu,C,Weak Chargers,Esia,MF,19700000
+1435,L. Rahimi,C,Weak Chargers,Galamily,MF,29080000
+1436,G. O'Brien,C,Weak Chargers,Imaar Vircoand,MF,20060000
+1437,U. Colin,C,Weak Chargers,Esia,MFDF,26440000
+1438,A. Chelimo,C,White Firebirds,Dosqaly,DF,21760000
+1439,W. Aubert,C,White Firebirds,Dosqaly,DF,23320000
+1440,T. Hermawan,C,White Firebirds,Esia,DF,22820000
+1441,U. Adjei,C,White Firebirds,Esia,DF,28580000
+1442,H. Yong,C,White Firebirds,New Uwi,DF,15520000
+1443,Y. Thungu,C,White Firebirds,Rarita,DF,26070000
+1444,K. Amoit,C,White Firebirds,Esia,DFFW,11940000
+1445,R. Zamani,C,White Firebirds,Giumle Lizeibon,DFFW,31490000
+1446,E. Hor,C,White Firebirds,Nganion,DFFW,19890000
+1447,S. Jalali,C,White Firebirds,Esia,DFMF,15910000
+1448,W. Zarei,C,White Firebirds,Slandsganiamayotteque,DFMF,15320000
+1449,H. Sat?,C,White Firebirds,Byasier Pujan,FW,29600000
+1450,X. James,C,White Firebirds,Mico,FW,35250000
+1451,Q. Oren,C,White Firebirds,Redohrainbri,FW,27730000
+1452,Z. Eshun,C,White Firebirds,Dosqaly,FWMF,27410000
+1453,J. Sharon,C,White Firebirds,Landli Blicporlip,FWMF,28600000
+1454,P. Uddin,C,White Firebirds,Xikong,FWMF,27520000
+1455,E. Tushemereirwe,C,White Firebirds,New Uwi,GK,14770000
+1456,G. Aloyo,C,White Firebirds,Nganion,GK,18190000
+1457,W. Isah,C,White Firebirds,Giumle Lizeibon,MF,36100000
+1458,C. Fuentes,C,White Firebirds,Saintu,MF,37500000
+1459,I. Diallo,C,White Firebirds,Reugha,MFDF,23550000
+1460,X. Namuyanja,C,White Firebirds,Esia,MFFW,28510000
+1461,X. Natamba,C,White Firebirds,Esia,MFFW,3540000
+1462,J. Pedro,C,White Firebirds,Nganion,MFFW,36520000
+1463,E. Musisi,C,Wicked Gentlefolk,Esia,DF,20640000
+1464,M. Addai,C,Wicked Gentlefolk,Esia,DF,23720000
+1465,X. Nyaketcho,C,Wicked Gentlefolk,Esia,DF,16430000
+1466,C. Byrne,C,Wicked Gentlefolk,Ingre,DF,15980000
+1467,L. Mensah,C,Wicked Gentlefolk,Manlisgamncent,DF,14330000
+1468,W. Chue,C,Wicked Gentlefolk,Nkasland Cronestan,DF,4950000
+1469,B. Nambuya,C,Wicked Gentlefolk,Dosqaly,DFFW,22840000
+1470,H. Jaber,C,Wicked Gentlefolk,Eastern Niasland,DFFW,9340000
+1471,G. Oduro,C,Wicked Gentlefolk,Esia,DFFW,20770000
+1472,V. Roger,C,Wicked Gentlefolk,Esia,DFFW,28990000
+1473,I. Romano,C,Wicked Gentlefolk,Iverde,DFFW,15430000
+1474,D. Ortíz,C,Wicked Gentlefolk,Lenia Gerdanho,DFFW,36690000
+1475,Z. Vilanculos,C,Wicked Gentlefolk,Esia,DFMF,22970000
+1476,A. Al-Qahtani,C,Wicked Gentlefolk,Byasier Pujan,FW,16610000
+1477,A. Azmi,C,Wicked Gentlefolk,Giumle Lizeibon,FW,28890000
+1478,N. Almeida,C,Wicked Gentlefolk,Imaar Vircoand,FWDF,24890000
+1479,C. Lim,C,Wicked Gentlefolk,Biarizea,FWMF,27450000
+1480,I. Moses,C,Wicked Gentlefolk,Esia,FWMF,27600000
+1481,P. Namono,C,Wicked Gentlefolk,Esia,FWMF,32630000
+1482,X. Lopez,C,Wicked Gentlefolk,Esia,FWMF,34500000
+1483,B. Koskinen,C,Wicked Gentlefolk,Esia,GK,16470000
+1484,F. Yaakv,C,Wicked Gentlefolk,Quewenia,GK,24620000
+1485,X. Alanazi,C,Wicked Gentlefolk,Dosqaly,MF,8940000
+1486,A. Goossens,C,Wicked Gentlefolk,Esia,MF,1310000
+1487,W. Arifin,C,Wicked Gentlefolk,Esia,MF,7070000
+1488,H. Miyazaki,C,Wicked Gentlefolk,Lylimi,MF,29660000
+1489,J. Gou,C,Wicked Gentlefolk,Southern Ristan,MF,28820000
+1490,J. Hui,C,Wicked Gentlefolk,Esia,MFFW,31320000
+1491,O. K?rkli?š,C,Wicked Gentlefolk,Esia,MFFW,24480000
+1492,S. Musoki,D,Coy Catamarans,Central Diasongo,DF,30900000
+1493,D. Brunner,D,Coy Catamarans,Greri Landmoslands,DF,30270000
+1494,I. Leibowitz,D,Coy Catamarans,Imaar Vircoand,DF,19710000
+1495,K. Y?ld?z,D,Coy Catamarans,Nkasland Cronestan,DF,36570000
+1496,C. Musubika,D,Coy Catamarans,Saintu,DF,15420000
+1497,A. Nekesa,D,Coy Catamarans,Sobianitedrucy,DF,17480000
+1498,H. Arab,D,Coy Catamarans,Sobianitedrucy,DF,22730000
+1499,L. Kyambadde,D,Coy Catamarans,Sobianitedrucy,DF,12770000
+1500,O. Rácz,D,Coy Catamarans,Sobianitedrucy,DF,16990000
+1501,S. Ningsih,D,Coy Catamarans,Sobianitedrucy,DF,15660000
+1502,S. Chu,D,Coy Catamarans,Republic of Denand Landsa,FW,28580000
+1503,G. Sserugo,D,Coy Catamarans,Sobianitedrucy,FW,22160000
+1504,C. Haruna,D,Coy Catamarans,Tucamna,FW,16290000
+1505,X. Kabugho,D,Coy Catamarans,Cabral Retrea,FWMF,13470000
+1506,Z. Shaikh,D,Coy Catamarans,Dosqaly,FWMF,27080000
+1507,G. Mar,D,Coy Catamarans,Pierrema,FWMF,25890000
+1508,B. K?l?ç,D,Coy Catamarans,Sobianitedrucy,GK,18600000
+1509,F. Jansen,D,Coy Catamarans,Sobianitedrucy,GK,20480000
+1510,K. Kanyesigye,D,Coy Catamarans,Sobianitedrucy,GK,7020000
+1511,S. Umaru,D,Coy Catamarans,Khstanchi Reabra,MF,32300000
+1512,E. Kutosi,D,Coy Catamarans,Lefghau,MF,20860000
+1513,A. Nakagawa,D,Coy Catamarans,Manlisgamncent,MF,20000000
+1514,U. Ocan,D,Coy Catamarans,Rosvi,MF,25710000
+1515,C. Go,D,Coy Catamarans,Sobianitedrucy,MF,33970000
+1516,G. Sala,D,Coy Catamarans,Sobianitedrucy,MF,21430000
+1517,H. Kisembo,D,Coy Catamarans,Sobianitedrucy,MF,16100000
+1518,Y. Ugwu,D,Coy Catamarans,Sobianitedrucy,MF,29300000
+1519,A. Zulu,D,Coy Catamarans,Sobianitedrucy,MFDF,26790000
+1520,B. Teh,D,Coy Catamarans,Sobianitedrucy,MFDF,29140000
+1521,D. Andersson,D,Coy Catamarans,Lefghau,MFFW,30930000
+1522,P. Mahmoudi,D,Coy Catamarans,Northern Namemo Laand,MFFW,12530000
+1523,X. Tambala,D,Coy Sunbirds,Dosqaly,DF,15610000
+1524,F. Rácz,D,Coy Sunbirds,Greri Landmoslands,DF,10920000
+1525,P. Narvaez,D,Coy Sunbirds,Imaar Vircoand,DF,16980000
+1526,G. Miyasaki,D,Coy Sunbirds,Ingre,DF,8960000
+1527,E. Manhica,D,Coy Sunbirds,Moaithe,DF,22320000
+1528,X. Ssenyonjo,D,Coy Sunbirds,New Uwi,DF,17240000
+1529,H. Young,D,Coy Sunbirds,Sobianitedrucy,DF,16540000
+1530,I. Janssens,D,Coy Sunbirds,Sobianitedrucy,DF,22030000
+1531,J. Otoo,D,Coy Sunbirds,Sobianitedrucy,DF,6960000
+1532,O. Ahamad,D,Coy Sunbirds,Sobianitedrucy,DF,15720000
+1533,T. Okoro,D,Coy Sunbirds,Sobianitedrucy,DF,26580000
+1534,W. Ongom,D,Coy Sunbirds,Sobianitedrucy,DF,10320000
+1535,E. Wabwire,D,Coy Sunbirds,Southern Ristan,DF,16360000
+1536,Q. Chunga,D,Coy Sunbirds,Southern Ristan,DF,11500000
+1537,S. Owor,D,Coy Sunbirds,Xikong,DF,27580000
+1538,S. Barry,D,Coy Sunbirds,Zamlie Niabangthe,DF,19640000
+1539,U. Molla,D,Coy Sunbirds,Central Diasongo,FW,21250000
+1540,N. Katusabe,D,Coy Sunbirds,Mico,FW,30850000
+1541,I. Zia,D,Coy Sunbirds,Sobianitedrucy,FW,26110000
+1542,L. Muñoz,D,Coy Sunbirds,Sobianitedrucy,FW,6700000
+1543,N. Magombo,D,Coy Sunbirds,Sobianitedrucy,FW,24880000
+1544,N. Twesigye,D,Coy Sunbirds,Sobianitedrucy,FW,30880000
+1545,B. Mpofu,D,Coy Sunbirds,Byasier Pujan,FWMF,17890000
+1546,R. Lau,D,Coy Sunbirds,Cabral Retrea,FWMF,25530000
+1547,X. Tembe,D,Coy Sunbirds,Cabral Retrea,FWMF,29470000
+1548,R. Saad,D,Coy Sunbirds,Central Diasongo,FWMF,25740000
+1549,G. Lubis,D,Coy Sunbirds,Dosqaly,FWMF,17470000
+1550,D. Jafari,D,Coy Sunbirds,Imaar Vircoand,FWMF,36250000
+1551,C. Go,D,Coy Sunbirds,Sobianitedrucy,FWMF,29560000
+1552,T. Fontaine,D,Coy Sunbirds,Sobianitedrucy,FWMF,14940000
+1553,L. Foo,D,Coy Sunbirds,Sobianitedrucy,GK,16230000
+1554,X. Dahan,D,Coy Sunbirds,Sobianitedrucy,GK,20490000
+1555,I. Masson,D,Coy Sunbirds,Central Diasongo,MF,18470000
+1556,Q. Loeng,D,Coy Sunbirds,Dosqaly,MF,12930000
+1557,Y. Apolot,D,Coy Sunbirds,Janmico,MF,12560000
+1558,M. Graham,D,Coy Sunbirds,Lefghau,MF,14040000
+1559,H. Dahan,D,Coy Sunbirds,New Uwi,MF,39390000
+1560,P. Alharbi,D,Coy Sunbirds,Quewenia,MF,21970000
+1561,Z. Buyinza,D,Coy Sunbirds,Saintu,MF,28630000
+1562,S. Moradi,D,Coy Sunbirds,Sobianitedrucy,MF,25690000
+1563,K. bin Abu Bakar,D,Coy Sunbirds,Sobianitedrucy,MFDF,31230000
+1564,B. Namazzi,D,Coy Sunbirds,Ledian,MFFW,35970000
+1565,X. Boyko,D,Fighting Clippers,Coastpa Barleslands,DF,25550000
+1566,Z. Chavula,D,Fighting Clippers,Greri Landmoslands,DF,20690000
+1567,B. Colin,D,Fighting Clippers,Loco Phirema,DF,4890000
+1568,X. Williams,D,Fighting Clippers,Moaithe,DF,23070000
+1569,H. Zare,D,Fighting Clippers,Rarita,DF,15430000
+1570,I. Gashi,D,Fighting Clippers,Rosvi,DF,25690000
+1571,M. Ayebazibwe,D,Fighting Clippers,Sobianitedrucy,DF,11590000
+1572,L. Schubert,D,Fighting Clippers,Pierrema,DFFW,24140000
+1573,H. Kirabira,D,Fighting Clippers,Newgan Ruland,FW,28410000
+1574,K. Sekh,D,Fighting Clippers,Republic of Denand Landsa,FW,32700000
+1575,A. Schumacher,D,Fighting Clippers,Sobianitedrucy,FW,18200000
+1576,F. Akwero,D,Fighting Clippers,Sobianitedrucy,FW,25910000
+1577,R. Nkosi,D,Fighting Clippers,Sobianitedrucy,FW,39160000
+1578,Z. Nakayama,D,Fighting Clippers,Sobianitedrucy,FW,31300000
+1579,J. Saidu,D,Fighting Clippers,Nganion,FWMF,28870000
+1580,K. Clark,D,Fighting Clippers,Southern Ristan,FWMF,28530000
+1581,N. Busingye,D,Fighting Clippers,Sobianitedrucy,GK,17410000
+1582,R. Owere,D,Fighting Clippers,Western Niasland,GK,14160000
+1583,I. Brown,D,Fighting Clippers,Dosqaly,MF,26650000
+1584,A. Mucunguzi,D,Fighting Clippers,Esia,MF,10000000
+1585,M. Delgado,D,Fighting Clippers,Ledian,MF,19700000
+1586,C. Muhammadu,D,Fighting Clippers,Nganion,MF,30850000
+1587,Q. Liang,D,Fighting Clippers,Nkasland Cronestan,MF,24760000
+1588,E. Poto?nik,D,Fighting Clippers,Biarizea,MFFW,19090000
+1589,Z. Banda,D,Fighting Clippers,Eastern Niasland,MFFW,31770000
+1590,W. Joao,D,Fighting Wave,Byasier Pujan,DF,24660000
+1591,N. Cudjoe,D,Fighting Wave,Cabral Retrea,DF,6110000
+1592,L. Achen,D,Fighting Wave,Lefghau,DF,18600000
+1593,Z. Krajnc,D,Fighting Wave,Lefghau,DF,15340000
+1594,L. Yulianti,D,Fighting Wave,Sobianitedrucy,DF,12860000
+1595,O. Gamal,D,Fighting Wave,Sobianitedrucy,DF,19030000
+1596,R. Bogere,D,Fighting Wave,Sobianitedrucy,DF,17730000
+1597,S. Nayiga,D,Fighting Wave,Sobianitedrucy,DF,17190000
+1598,A. Ansah,D,Fighting Wave,Varijitri Isles,DF,25520000
+1599,Y. Smit,D,Fighting Wave,Sobianitedrucy,DFMF,30780000
+1600,V. Rocha,D,Fighting Wave,Western Niasland,DFMF,16460000
+1601,L. De Wit,D,Fighting Wave,Greri Landmoslands,FW,30540000
+1602,G. González,D,Fighting Wave,Imaar Vircoand,FW,39770000
+1603,G. Owusu,D,Fighting Wave,Nganion,FW,28680000
+1604,E. Kiyingi,D,Fighting Wave,Sobianitedrucy,FWMF,34180000
+1605,J. Vásquez,D,Fighting Wave,Nkasland Cronestan,GK,17430000
+1606,A. Amongin,D,Fighting Wave,Sobianitedrucy,GK,8340000
+1607,N. Tkachuk,D,Fighting Wave,Sobianitedrucy,GK,15100000
+1608,K. Mohammadzadeh,D,Fighting Wave,Djipines,MF,26680000
+1609,O. Maulana,D,Fighting Wave,Dosqaly,MF,16510000
+1610,N. Garza,D,Fighting Wave,Greri Landmoslands,MF,8240000
+1611,A. Kalule,D,Fighting Wave,Janmico,MF,22920000
+1612,M. Opoku,D,Fighting Wave,Lefghau,MF,33150000
+1613,F. O'Reilly,D,Fighting Wave,Moaithe,MF,12420000
+1614,K. Ntege,D,Fighting Wave,Slandsganiamayotteque,MF,29270000
+1615,P. Bonnet,D,Fighting Wave,Sobianitedrucy,MF,3620000
+1616,P. Mlotshwa,D,Fighting Wave,Sobianitedrucy,MFDF,30950000
+1617,W. Katamba,D,Fighting Wave,Sobianitedrucy,MFDF,9920000
+1618,H. Kelmendi,D,Fighting Wave,Lefghau,MFFW,18760000
+1619,U. Taaka,D,Fighting Wave,Xikong,MFFW,28800000
+1620,E. Mugoya,D,Flying Bombadiers,Byasier Pujan,DF,21430000
+1621,H. Bhebhe,D,Flying Bombadiers,Byasier Pujan,DF,16430000
+1622,W. Namukose,D,Flying Bombadiers,Coastpa Barleslands,DF,9250000
+1623,G. Matsika,D,Flying Bombadiers,Deshslands Landdenhai,DF,9870000
+1624,W. Aciro,D,Flying Bombadiers,Dosqaly,DF,19820000
+1625,G. Ribeiro,D,Flying Bombadiers,Imaar Vircoand,DF,34770000
+1626,N. Mushabe,D,Flying Bombadiers,Lefghau,DF,22510000
+1627,B. Angella,D,Flying Bombadiers,Lylimi,DF,20470000
+1628,M. Wu,D,Flying Bombadiers,Ngoque Blicri,DF,16100000
+1629,E. Bošnjak,D,Flying Bombadiers,Northslands,DF,28100000
+1630,G. Neumbe,D,Flying Bombadiers,Sobianitedrucy,DF,31830000
+1631,K. Nanyondo,D,Flying Bombadiers,Sobianitedrucy,DF,27780000
+1632,K. Othman,D,Flying Bombadiers,Sobianitedrucy,DF,13400000
+1633,M. Namusisi,D,Flying Bombadiers,Sobianitedrucy,DF,8560000
+1634,R. Arineitwe,D,Flying Bombadiers,Sobianitedrucy,DF,5220000
+1635,U. Lomongin,D,Flying Bombadiers,Northern Namemo Laand,DFMF,20560000
+1636,G. Abdi,D,Flying Bombadiers,Danan Seekeeling,FW,37470000
+1637,E. Munetsi,D,Flying Bombadiers,Imaar Vircoand,FW,33540000
+1638,B. Bernardi,D,Flying Bombadiers,Sobianitedrucy,FW,7410000
+1639,O. Acayo,D,Flying Bombadiers,Sobianitedrucy,FW,13500000
+1640,O. Mor,D,Flying Bombadiers,Sobianitedrucy,FW,10680000
+1641,M. Ogbonna,D,Flying Bombadiers,Mico,FWDF,24350000
+1642,K. Amoding,D,Flying Bombadiers,Northslands,FWMF,36770000
+1643,C. Majoni,D,Flying Bombadiers,Sobianitedrucy,FWMF,35250000
+1644,N. Cheng,D,Flying Bombadiers,Sobianitedrucy,FWMF,37760000
+1645,O. Night,D,Flying Bombadiers,Sobianitedrucy,FWMF,29440000
+1646,V. Razak,D,Flying Bombadiers,Lefghau,GK,9030000
+1647,U. Mvula,D,Flying Bombadiers,Nkasland Cronestan,GK,11410000
+1648,D. Chiba,D,Flying Bombadiers,Sobianitedrucy,GK,17950000
+1649,S. Kor,D,Flying Bombadiers,Byasier Pujan,MF,21330000
+1650,Z. Angom,D,Flying Bombadiers,Cuandbo,MF,12890000
+1651,O. Bin Abdul Rahman,D,Flying Bombadiers,Imaar Vircoand,MF,30630000
+1652,Y. Lawan,D,Flying Bombadiers,Nkasland Cronestan,MF,11090000
+1653,H. Pichler,D,Flying Bombadiers,Sobianitedrucy,MF,22570000
+1654,I. Mushonga,D,Flying Bombadiers,Sobianitedrucy,MF,32690000
+1655,X. Zalwango,D,Flying Bombadiers,Sobianitedrucy,MF,24980000
+1656,X. Aliru,D,Flying Bombadiers,Xikong,MF,15660000
+1657,A. Marchenko,D,Hideous Spartans,Ingre,DF,20140000
+1658,A. Radu,D,Hideous Spartans,Janmico,DF,23940000
+1659,W. Hamad,D,Hideous Spartans,Kesternsri,DF,6840000
+1660,D. Kos,D,Hideous Spartans,Nkasland Cronestan,DF,27220000
+1661,E. Ghosh,D,Hideous Spartans,Sobianitedrucy,DF,14980000
+1662,E. Németh,D,Hideous Spartans,Sobianitedrucy,DF,10410000
+1663,H. Kabugho,D,Hideous Spartans,Sobianitedrucy,DF,23520000
+1664,Q. Krasniqi,D,Hideous Spartans,Sobianitedrucy,DF,16910000
+1665,R. Arineitwe,D,Hideous Spartans,Sobianitedrucy,DF,1820000
+1666,T. Moretti,D,Hideous Spartans,Sobianitedrucy,DF,18510000
+1667,Y. Oppong,D,Hideous Spartans,Sobianitedrucy,DF,28190000
+1668,M. Atuhaire,D,Hideous Spartans,Nancipenuaroe,DFMF,9520000
+1669,K. Nanyondo,D,Hideous Spartans,Sobianitedrucy,DFMF,35460000
+1670,H. Akot,D,Hideous Spartans,Deshslands Landdenhai,FW,16660000
+1671,Z. Njoku,D,Hideous Spartans,Imaar Vircoand,FW,22570000
+1672,L. Nanono,D,Hideous Spartans,Sobianitedrucy,FW,18610000
+1673,R. Aisu,D,Hideous Spartans,Dosqaly,FWMF,21660000
+1674,K. Taremwa,D,Hideous Spartans,Lefghau,FWMF,24170000
+1675,W. Kisitu,D,Hideous Spartans,Sobianitedrucy,FWMF,20960000
+1676,Q. Martínez,D,Hideous Spartans,Sobianitedrucy,GK,15780000
+1677,Y. Nanyondo,D,Hideous Spartans,Sobianitedrucy,GK,19030000
+1678,I. Chiu,D,Hideous Spartans,Cabral Retrea,MF,30090000
+1679,T. Ray,D,Hideous Spartans,Janmico,MF,19000000
+1680,K. Thompson,D,Hideous Spartans,Manlisgamncent,MF,24950000
+1681,A. Dekker,D,Hideous Spartans,Nancipenuaroe,MF,28600000
+1682,H. Valentini,D,Hideous Spartans,Sobianitedrucy,MF,9460000
+1683,U. Anyango,D,Hideous Spartans,Sobianitedrucy,MF,25940000
+1684,H. Tumukunde,D,Hideous Spartans,Southern Ristan,MF,31960000
+1685,Q. Juhász,D,Hideous Spartans,Janmico,MFDF,19740000
+1686,A. Nasiru,D,Hideous Spartans,Janmico,MFFW,19700000
+1687,G. Mar,D,Hideous Spartans,Pierrema,MFFW,32710000
+1688,I. Goh,D,Hideous Spartans,Sobianitedrucy,MFFW,25830000
+1689,L. Yusof,D,Marvelous Heels,Byasier Pujan,DF,13890000
+1690,D. Adu,D,Marvelous Heels,Esia,DF,24230000
+1691,B. binti Othman,D,Marvelous Heels,Imaar Vircoand,DF,27630000
+1692,N. Alum,D,Marvelous Heels,Imaar Vircoand,DF,27530000
+1693,A. Cheang,D,Marvelous Heels,Manlisgamncent,DF,12790000
+1694,X. Kho,D,Marvelous Heels,Mico,DF,24660000
+1695,J. Atala,D,Marvelous Heels,Moaithe,DF,21760000
+1696,C. Kirungi,D,Marvelous Heels,Sobianitedrucy,DF,18250000
+1697,C. Manjhi,D,Marvelous Heels,Sobianitedrucy,DF,22670000
+1698,K. Mwanje,D,Marvelous Heels,Sobianitedrucy,DF,6880000
+1699,R. Ueta,D,Marvelous Heels,Sobianitedrucy,DF,14410000
+1700,U. Morales,D,Marvelous Heels,Sobianitedrucy,DF,16430000
+1701,Y. Opio,D,Marvelous Heels,Sobianitedrucy,DF,22040000
+1702,R. Rossi,D,Marvelous Heels,Western Niasland,DFFW,20190000
+1703,C. Mukiibi,D,Marvelous Heels,Bernepamar,FW,10790000
+1704,C. Abramov,D,Marvelous Heels,Western Niasland,FW,30570000
+1705,Y. Nambi,D,Marvelous Heels,Western Niasland,FW,37780000
+1706,K. Mayanja,D,Marvelous Heels,Bernepamar,FWMF,27030000
+1707,G. Sugawara,D,Marvelous Heels,Byasier Pujan,FWMF,31140000
+1708,D. Rahmawati,D,Marvelous Heels,Eastern Sleboube,FWMF,40850000
+1709,D. Pfeiffer,D,Marvelous Heels,Imaar Vircoand,FWMF,38940000
+1710,Z. Ng'ambi,D,Marvelous Heels,Saintu,FWMF,36340000
+1711,A. Kova?evi?,D,Marvelous Heels,Sobianitedrucy,GK,13590000
+1712,H. Okafor,D,Marvelous Heels,Sobianitedrucy,GK,14150000
+1713,W. Nabuuma,D,Marvelous Heels,Byasier Pujan,MF,18280000
+1714,C. Gheorghe,D,Marvelous Heels,Central Diasongo,MF,39690000
+1715,H. Adjei,D,Marvelous Heels,Quewenia,MF,24500000
+1716,X. O'Neill,D,Marvelous Heels,Sobianitedrucy,MF,3200000
+1717,X. Wouters,D,Marvelous Heels,Sobianitedrucy,MF,26490000
+1718,J. Jørgensen,D,Marvelous Heels,Manlisgamncent,MFFW,32930000
+1719,J. Laurent,D,Marvelous Patriots,Cabral Retrea,DF,25540000
+1720,D. Amoako,D,Marvelous Patriots,Dosqaly,DF,8920000
+1721,F. Farkas,D,Marvelous Patriots,Esia,DF,12570000
+1722,D. Muwonge,D,Marvelous Patriots,Ingre,DF,7630000
+1723,X. Denis,D,Marvelous Patriots,Lefghau,DF,30520000
+1724,Z. Longole,D,Marvelous Patriots,Lefghau,DF,20630000
+1725,C. Obi,D,Marvelous Patriots,Sobianitedrucy,DF,7030000
+1726,P. Natukunda,D,Marvelous Patriots,Sobianitedrucy,DF,10230000
+1727,C. Malkah,D,Marvelous Patriots,Varijitri Isles,DF,25450000
+1728,N. Singh,D,Marvelous Patriots,Varijitri Isles,DF,14670000
+1729,V. Tugume,D,Marvelous Patriots,Sobianitedrucy,FW,36970000
+1730,X. Simi?,D,Marvelous Patriots,Sobianitedrucy,FW,8120000
+1731,L. Jean,D,Marvelous Patriots,Badad,FWMF,26890000
+1732,N. Colón,D,Marvelous Patriots,Central Diasongo,FWMF,38030000
+1733,S. Obonyo,D,Marvelous Patriots,Central Diasongo,FWMF,18630000
+1734,P. Mukalazi,D,Marvelous Patriots,Ledian,FWMF,35980000
+1735,D. Arinaitwe,D,Marvelous Patriots,Sobianitedrucy,FWMF,38890000
+1736,G. Chimwaza,D,Marvelous Patriots,Sobianitedrucy,FWMF,26160000
+1737,V. Golob,D,Marvelous Patriots,Sobianitedrucy,FWMF,38790000
+1738,Y. Acola,D,Marvelous Patriots,Rarita,GK,13360000
+1739,K. Huang,D,Marvelous Patriots,Sobianitedrucy,GK,19990000
+1740,J. Leroux,D,Marvelous Patriots,Biarizea,MF,10570000
+1741,Z. Heinonen,D,Marvelous Patriots,Dosqaly,MF,32980000
+1742,M. Turyamureba,D,Marvelous Patriots,Janmico,MF,15270000
+1743,F. Lee,D,Marvelous Patriots,Sobianitedrucy,MF,27310000
+1744,M. Chirambo,D,Marvelous Patriots,Sobianitedrucy,MF,15140000
+1745,W. Tushabomwe,D,Marvelous Patriots,Zacia Lygia,MF,22800000
+1746,C. Alum,D,Marvelous Patriots,Rosvi,MFFW,36380000
+1747,C. Adong,D,Mean Wolves,Byasier Pujan,DF,8970000
+1748,C. Moser,D,Mean Wolves,Byasier Pujan,DF,26160000
+1749,D. Henriksen,D,Mean Wolves,Byasier Pujan,DF,11010000
+1750,I. Amviko,D,Mean Wolves,Byasier Pujan,DF,26850000
+1751,U. Krause,D,Mean Wolves,Dosqaly,DF,9570000
+1752,H. Korošec,D,Mean Wolves,Imaar Vircoand,DF,35320000
+1753,D. Biribawa,D,Mean Wolves,Lefghau,DF,10680000
+1754,O. Nanyanzi,D,Mean Wolves,Lefghau,DF,9900000
+1755,Y. Gashi,D,Mean Wolves,Mico,DF,7950000
+1756,I. Mutabazi,D,Mean Wolves,Sobianitedrucy,DF,32790000
+1757,I. Mugerwa,D,Mean Wolves,Byasier Pujan,FW,21000000
+1758,V. Morel,D,Mean Wolves,Imaar Vircoand,FW,27530000
+1759,J. Saidu,D,Mean Wolves,Nganion,FW,21520000
+1760,G. Mwima,D,Mean Wolves,Sobianitedrucy,FW,28990000
+1761,O. Roth,D,Mean Wolves,Sobianitedrucy,FW,25910000
+1762,K. Philippe,D,Mean Wolves,Eastern Niasland,FWMF,22310000
+1763,F. Zeng,D,Mean Wolves,Nganion,FWMF,28500000
+1764,O. Zieli?ski,D,Mean Wolves,Sobianitedrucy,FWMF,35130000
+1765,Y. Larsen,D,Mean Wolves,Imaar Vircoand,GK,19520000
+1766,G. Oluka,D,Mean Wolves,Lefghau,GK,4510000
+1767,B. Awio,D,Mean Wolves,Sobianitedrucy,GK,550000
+1768,K. Järvinen,D,Mean Wolves,Sobianitedrucy,GK,18040000
+1769,O. Ngoma,D,Mean Wolves,Coastpa Barleslands,MF,26870000
+1770,Y. Kabiru,D,Mean Wolves,Dosqaly,MF,10240000
+1771,E. Muhereza,D,Mean Wolves,Esia,MF,33530000
+1772,K. Chisi,D,Mean Wolves,Imaar Vircoand,MF,31360000
+1773,S. Ghaffari,D,Mean Wolves,Lefghau,MF,23140000
+1774,Y. Turyatemba,D,Mean Wolves,Lefghau,MF,2110000
+1775,X. Makina,D,Mean Wolves,Redohrainbri,MF,8380000
+1776,Y. Nyirongo,D,Mean Wolves,Rosvi,MF,10580000
+1777,L. Sigauke,D,Mean Wolves,Sobianitedrucy,MF,34740000
+1778,B. Alhassan,D,Mean Wolves,Unicorporated Tiagascar,MF,8140000
+1779,Q. Zyu,D,Mean Wolves,Imaar Vircoand,MFFW,31620000
+1780,L. Chiu,D,Mighty Monkeys,Lylimi,DF,12370000
+1781,D. Shuaibu,D,Mighty Monkeys,Nkasland Cronestan,DF,10270000
+1782,W. Ly,D,Mighty Monkeys,Northslands,DF,24230000
+1783,E. De Luca,D,Mighty Monkeys,Sobianitedrucy,DF,14190000
+1784,J. Neo,D,Mighty Monkeys,Sobianitedrucy,DF,7920000
+1785,M. Angom,D,Mighty Monkeys,Sobianitedrucy,DF,18920000
+1786,Q. Atiku,D,Mighty Monkeys,Sobianitedrucy,DF,8680000
+1787,S. Lutaaya,D,Mighty Monkeys,Dosqaly,DFMF,24420000
+1788,V. Smits,D,Mighty Monkeys,Coastpa Barleslands,FW,32270000
+1789,A. Caron,D,Mighty Monkeys,Sobianitedrucy,FW,26890000
+1790,F. Mugabe,D,Mighty Monkeys,Sobianitedrucy,FW,28030000
+1791,J. Nath,D,Mighty Monkeys,Sobianitedrucy,FW,28830000
+1792,V. Heikkinen,D,Mighty Monkeys,Sobianitedrucy,FW,29520000
+1793,Y. Nalubwama,D,Mighty Monkeys,Sobianitedrucy,FW,32510000
+1794,H. Saeed,D,Mighty Monkeys,Manlisgamncent,GK,25690000
+1795,C. Hamed,D,Mighty Monkeys,Sobianitedrucy,GK,11870000
+1796,Y. Atoo,D,Mighty Monkeys,Galamily,MF,29900000
+1797,D. Kemigisa,D,Mighty Monkeys,Greri Landmoslands,MF,18250000
+1798,E. Fiore,D,Mighty Monkeys,Redohrainbri,MF,17600000
+1799,I. Kolar,D,Mighty Monkeys,Redohrainbri,MF,14870000
+1800,D. Deli?,D,Mighty Monkeys,Sobianitedrucy,MF,26620000
+1801,K. Mwanje,D,Mighty Monkeys,Sobianitedrucy,MF,27880000
+1802,M. Kabiru,D,Mighty Monkeys,Sobianitedrucy,MF,14680000
+1803,T. Akankwasa,D,Mighty Monkeys,Sobianitedrucy,MF,31700000
+1804,O. Avako,D,Mighty Monkeys,Xikong,MF,32600000
+1805,X. Kazibwe,D,Mighty Monkeys,Janmico,MFFW,34760000
+1806,B. Owor,D,Mighty Monkeys,Mico,MFFW,22390000
+1807,B. Van der Meer,D,Red Rangers,Esia,DF,13330000
+1808,J. Fukuda,D,Red Rangers,Lefghau,DF,15170000
+1809,D. Balázs,D,Red Rangers,Nkasland Cronestan,DF,16200000
+1810,A. Davies,D,Red Rangers,Rosvi,DF,19670000
+1811,D. Saleh,D,Red Rangers,Sobianitedrucy,DF,16070000
+1812,I. Franke,D,Red Rangers,Sobianitedrucy,DF,27750000
+1813,L. Fuchs,D,Red Rangers,Sobianitedrucy,DF,24700000
+1814,M. Rashid,D,Red Rangers,Sobianitedrucy,DF,25020000
+1815,O. Mudzingwa,D,Red Rangers,Sobianitedrucy,DF,10300000
+1816,D. Caruso,D,Red Rangers,Varijitri Isles,DF,10830000
+1817,W. Alghamdi,D,Red Rangers,Quewenia,DFMF,11410000
+1818,D. Soliman,D,Red Rangers,Sobianitedrucy,DFMF,32800000
+1819,W. Mertens,D,Red Rangers,Manlisgamncent,FW,32140000
+1820,G. Sserugo,D,Red Rangers,Sobianitedrucy,FW,22740000
+1821,O. Roth,D,Red Rangers,Sobianitedrucy,FW,36270000
+1822,S. Soon,D,Red Rangers,Sobianitedrucy,FW,31590000
+1823,M. D?browski,D,Red Rangers,Northslands,FWMF,35850000
+1824,I. Lehmann,D,Red Rangers,Sobianitedrucy,FWMF,34170000
+1825,D. Kateregga,D,Red Rangers,Manlisgamncent,GK,14260000
+1826,G. Daud,D,Red Rangers,Sobianitedrucy,GK,22050000
+1827,V. Ssali,D,Red Rangers,Sobianitedrucy,GK,21210000
+1828,G. Kaweesa,D,Red Rangers,Central Namemo Laand,MF,30210000
+1829,I. Vong,D,Red Rangers,Greri Landmoslands,MF,20940000
+1830,U. Kazembe,D,Red Rangers,Ledian,MF,23760000
+1831,C. Akullo,D,Red Rangers,Nancipenuaroe,MF,7590000
+1832,K. Behera,D,Red Rangers,Rosvi,MF,18160000
+1833,N. Dutta,D,Red Rangers,Sobianitedrucy,MF,9720000
+1834,J. Riyadi,D,Red Rangers,Sobianitedrucy,MFDF,2100000
+1835,T. Ferrari,D,Red Rangers,Tercapetralgrorus,MFDF,6910000
+1836,U. Nambuya,D,Red Rangers,Galamily,MFFW,34570000
+1837,J. Chew,D,Red Rangers,Sobianitedrucy,MFFW,22400000
+1838,Q. Thakur,D,Red Rangers,Sobianitedrucy,MFFW,29750000
+1839,W. Rusu,D,Remarkable Flames,Byasier Pujan,DF,24070000
+1840,F. Okon,D,Remarkable Flames,Imaar Vircoand,DF,12980000
+1841,G. De Groot,D,Remarkable Flames,Lefghau,DF,27120000
+1842,P. Sanyu,D,Remarkable Flames,Lefghau,DF,14280000
+1843,Q. Cheong,D,Remarkable Flames,Lefghau,DF,15300000
+1844,A. Ainomugisha,D,Remarkable Flames,Moaithe,DF,32570000
+1845,C. Mirkovi?,D,Remarkable Flames,People's Land of Maneau,DF,26220000
+1846,I. Wenene,D,Remarkable Flames,Slandsganiamayotteque,DF,15660000
+1847,G. Efendi,D,Remarkable Flames,Sobianitedrucy,DF,13420000
+1848,J. Bahri,D,Remarkable Flames,Sobianitedrucy,DF,15500000
+1849,Q. Sumarni,D,Remarkable Flames,Sobianitedrucy,DF,17320000
+1850,Y. Vitali,D,Remarkable Flames,Sobianitedrucy,DF,22970000
+1851,Z. Delemovi?,D,Remarkable Flames,Sobianitedrucy,DFMF,27280000
+1852,D. Adebayo,D,Remarkable Flames,Nganion,FW,28170000
+1853,R. Begum,D,Remarkable Flames,Unicorporated Tiagascar,FW,25580000
+1854,H. Sat?,D,Remarkable Flames,Byasier Pujan,FWMF,28510000
+1855,B. Asiedu,D,Remarkable Flames,Isle of Lababwe,FWMF,35950000
+1856,F. Pellegrini,D,Remarkable Flames,Nganion,FWMF,28230000
+1857,M. Mansouri,D,Remarkable Flames,Nganion,FWMF,27100000
+1858,M. Bwire,D,Remarkable Flames,Rarita,FWMF,33770000
+1859,B. Ková?ik,D,Remarkable Flames,Sobianitedrucy,FWMF,27410000
+1860,H. Tuhaise,D,Remarkable Flames,Lefghau,GK,4290000
+1861,P. Solanki,D,Remarkable Flames,Nganion,GK,17940000
+1862,G. Boadi,D,Remarkable Flames,Sobianitedrucy,GK,22780000
+1863,K. Ndiweni,D,Remarkable Flames,Dosqaly,MF,32790000
+1864,N. Von,D,Remarkable Flames,Iverde,MF,11170000
+1865,D. Schmid,D,Remarkable Flames,Nganion,MF,27620000
+1866,F. Msiska,D,Remarkable Flames,Nkasland Cronestan,MF,4040000
+1867,H. Nakate,D,Remarkable Flames,Northslands,MF,20480000
+1868,Y. Namutosi,D,Remarkable Flames,Sobianitedrucy,MF,4110000
+1869,G. Hungwe,D,Remarkable Flames,Sobianitedrucy,MFFW,29210000
+1870,J. Nanziri,D,Serious Ranchers,Byasier Pujan,DF,20920000
+1871,N. Muhammadu,D,Serious Ranchers,Byasier Pujan,DF,20440000
+1872,I. Greenberg,D,Serious Ranchers,Cabral Retrea,DF,16370000
+1873,D. Onzia,D,Serious Ranchers,Desaintko,DF,20300000
+1874,K. Shibata,D,Serious Ranchers,Imaar Vircoand,DF,11290000
+1875,L. Sayed,D,Serious Ranchers,Ledian,DF,21990000
+1876,F. Nanfuka,D,Serious Ranchers,Lefghau,DF,8500000
+1877,W. Fernando,D,Serious Ranchers,Nganion,DF,14650000
+1878,K. Supriadi,D,Serious Ranchers,Pahon,DF,32540000
+1879,J. Manu,D,Serious Ranchers,Pierrema,DF,14860000
+1880,C. Alanazi,D,Serious Ranchers,Sobianitedrucy,DF,20520000
+1881,L. Bekher,D,Serious Ranchers,Sobianitedrucy,DF,10810000
+1882,Q. Henriksen,D,Serious Ranchers,Sobianitedrucy,DF,20940000
+1883,T. Bhebhe,D,Serious Ranchers,Sobianitedrucy,DFMF,16770000
+1884,H. Hansen,D,Serious Ranchers,Unicorporated Tiagascar,DFMF,22780000
+1885,I. Mwase,D,Serious Ranchers,Imaar Vircoand,FW,40260000
+1886,G. Chemutai,D,Serious Ranchers,Loco Phirema,FW,33830000
+1887,L. Razaie,D,Serious Ranchers,Nathuacamana,FW,29850000
+1888,B. Sah,D,Serious Ranchers,Sobianitedrucy,FW,28760000
+1889,W. Lotfi,D,Serious Ranchers,Moaithe,GK,21450000
+1890,J. Turyasingura,D,Serious Ranchers,Nganion,GK,11660000
+1891,S. Akiteng,D,Serious Ranchers,Central Diasongo,MF,28920000
+1892,M. Wandera,D,Serious Ranchers,Imaar Vircoand,MF,8830000
+1893,B. Gondo,D,Serious Ranchers,Lefghau,MF,17950000
+1894,C. Arineitwe,D,Serious Ranchers,Nganion,MF,26890000
+1895,V. Siregar,D,Serious Ranchers,Nganion,MF,12690000
+1896,B. Putra,D,Serious Ranchers,Rosvi,MF,26520000
+1897,G. Frimpong,D,Serious Ranchers,Sobianitedrucy,MF,25790000
+1898,R. Danquah,D,Serious Ranchers,Sobianitedrucy,MF,28390000
+1899,Y. Torres,D,Serious Ranchers,Rarita,MFFW,26300000
+1900,B. Y?lmaz,D,Spicy Pointers,Central Namemo Laand,DF,16210000
+1901,O. Andoh,D,Spicy Pointers,Esia,DF,11350000
+1902,E. Atim,D,Spicy Pointers,Sobianitedrucy,DF,21950000
+1903,F. Yusuf,D,Spicy Pointers,Sobianitedrucy,DF,15080000
+1904,G. Muzamba,D,Spicy Pointers,Sobianitedrucy,DF,32400000
+1905,L. Vanags,D,Spicy Pointers,Sobianitedrucy,DF,31920000
+1906,M. Namiiro,D,Spicy Pointers,Sobianitedrucy,DF,14970000
+1907,O. Ahamad,D,Spicy Pointers,Sobianitedrucy,DF,14300000
+1908,V. Macuacua,D,Spicy Pointers,Western Niasland,DF,19990000
+1909,B. Mayer,D,Spicy Pointers,Rosvi,DFMF,27460000
+1910,E. Kiyingi,D,Spicy Pointers,Sobianitedrucy,DFMF,14560000
+1911,F. Odaga,D,Spicy Pointers,Sobianitedrucy,DFMF,22710000
+1912,V. Lahtinen,D,Spicy Pointers,Sobianitedrucy,DFMF,20140000
+1913,W. Nakato,D,Spicy Pointers,Sobianitedrucy,DFMF,13170000
+1914,X. Sakamoto,D,Spicy Pointers,Rocda Bemoda,FW,32770000
+1915,A. Patal,D,Spicy Pointers,Sobianitedrucy,FW,24510000
+1916,Q. Oryema,D,Spicy Pointers,Sobianitedrucy,FW,27310000
+1917,C. Grassi,D,Spicy Pointers,Sobianitedrucy,FWDF,13200000
+1918,J. Soares,D,Spicy Pointers,Eastern Niasland,FWMF,28930000
+1919,J. Mahmoudi,D,Spicy Pointers,Manlisgamncent,FWMF,31500000
+1920,E. Nabwami,D,Spicy Pointers,Tucamna,FWMF,17110000
+1921,A. White,D,Spicy Pointers,Sobianitedrucy,GK,17970000
+1922,L. Namaganda,D,Spicy Pointers,Sobianitedrucy,GK,7860000
+1923,R. Martín,D,Spicy Pointers,Sobianitedrucy,GK,3960000
+1924,A. Odaga,D,Spicy Pointers,Byasier Pujan,MF,20410000
+1925,P. Anirwoth,D,Spicy Pointers,Dosqaly,MF,17170000
+1926,X. Kanyunyuzi,D,Spicy Pointers,Manlisgamncent,MF,33250000
+1927,I. Conte,D,Spicy Pointers,Mico,MF,32380000
+1928,G. Ibraimo,D,Spicy Pointers,Quewenia,MF,11350000
+1929,E. Gou,D,Spicy Pointers,Saintu,MF,34520000
+1930,F. Meier,D,Spicy Pointers,Sobianitedrucy,MF,21990000
+1931,M. Alharbi,D,Spicy Pointers,Sobianitedrucy,MF,12070000
+1932,N. Dutta,D,Spicy Pointers,Sobianitedrucy,MF,16830000
+1933,I. Chawinga,D,Spicy Pointers,Sobianitedrucy,MFDF,26750000
+1934,E. Poto?nik,D,Strange Pioneers,Biarizea,DF,11360000
+1935,G. Omirambe,D,Strange Pioneers,Imaar Vircoand,DF,31390000
+1936,Q. Abo,D,Strange Pioneers,Imaar Vircoand,DF,17550000
+1937,C. Haas,D,Strange Pioneers,Janmico,DF,12830000
+1938,Y. Rodriguez,D,Strange Pioneers,Janmico,DF,10530000
+1939,Z. Kiirya,D,Strange Pioneers,Lefghau,DF,15060000
+1940,F. Hang,D,Strange Pioneers,Rarita,DF,19880000
+1941,U. Mayer,D,Strange Pioneers,Rosvi,DF,10790000
+1942,B. Maruyama,D,Strange Pioneers,Sobianitedrucy,DF,23910000
+1943,I. Franke,D,Strange Pioneers,Sobianitedrucy,DF,11010000
+1944,I. Paswan,D,Strange Pioneers,Sobianitedrucy,DF,15150000
+1945,P. Mlotshwa,D,Strange Pioneers,Sobianitedrucy,DF,35700000
+1946,H. Olowo,D,Strange Pioneers,Nganion,DFFW,10980000
+1947,S. Candiru,D,Strange Pioneers,Nganion,DFFW,18170000
+1948,Z. Kebirungi,D,Strange Pioneers,Central Diasongo,FW,36810000
+1949,E. Amanya,D,Strange Pioneers,Dosqaly,FW,33080000
+1950,Y. Akiror,D,Strange Pioneers,Rosvi,FW,29230000
+1951,P. Nkomo,D,Strange Pioneers,Eastern Sleboube,FWMF,16380000
+1952,R. Namande,D,Strange Pioneers,Nganion,FWMF,24100000
+1953,B. Nakandi,D,Strange Pioneers,Sobianitedrucy,FWMF,9560000
+1954,B. Quaye,D,Strange Pioneers,Sobianitedrucy,FWMF,21690000
+1955,G. Caputo,D,Strange Pioneers,Nkasland Cronestan,GK,21610000
+1956,D. Sorrentino,D,Strange Pioneers,Sobianitedrucy,GK,14950000
+1957,W. bin Mohamad,D,Strange Pioneers,Biarizea,MF,12830000
+1958,A. Dekker,D,Strange Pioneers,Nancipenuaroe,MF,14600000
+1959,W. Soltani,D,Strange Pioneers,Northern Namemo Laand,MF,43540000
+1960,H. Che,D,Strange Pioneers,Sobianitedrucy,MF,27960000
+1961,J. Hasahya,D,Strange Pioneers,Sobianitedrucy,MF,24210000
+1962,A. Anwar,D,Strange Pioneers,Dosqaly,MFFW,19460000
+1963,W. Cheang,D,Strange Pioneers,Nganion,MFFW,23230000
+1964,O. Mapfumo,D,Sugar Bengals,Biarizea,DF,37080000
+1965,I. Gumede,D,Sugar Bengals,Byasier Pujan,DF,8110000
+1966,Z. Wu,D,Sugar Bengals,Ledian,DF,21950000
+1967,R. Ishii,D,Sugar Bengals,People's Land of Maneau,DF,16690000
+1968,H. Francisco,D,Sugar Bengals,Rosvi,DF,11910000
+1969,D. Amanyire,D,Sugar Bengals,Sobianitedrucy,DF,17620000
+1970,P. Tzur,D,Sugar Bengals,Sobianitedrucy,DF,16650000
+1971,S. Kamoga,D,Sugar Bengals,Sobianitedrucy,DF,18730000
+1972,W. Ongom,D,Sugar Bengals,Sobianitedrucy,DF,21450000
+1973,R. Kato,D,Sugar Bengals,Manlisgamncent,DFFW,27710000
+1974,E. Gayakwad,D,Sugar Bengals,Imaar Vircoand,FW,28250000
+1975,F. Oyama,D,Sugar Bengals,Northern Namemo Laand,FW,38330000
+1976,B. bin Abd Rahman,D,Sugar Bengals,Sobianitedrucy,FW,29220000
+1977,B. Phillips,D,Sugar Bengals,Southern Ristan,FW,25820000
+1978,E. bin Mohamed,D,Sugar Bengals,Cabral Retrea,GK,27110000
+1979,J. Koval,D,Sugar Bengals,Saintu,GK,17600000
+1980,A. Berkowitz,D,Sugar Bengals,Sobianitedrucy,GK,13820000
+1981,C. Chand,D,Sugar Bengals,Janmico,MF,27820000
+1982,Z. Griffiths,D,Sugar Bengals,Manlisgamncent,MF,25420000
+1983,J. Dubois,D,Sugar Bengals,Mico,MF,36660000
+1984,W. Doyle,D,Sugar Bengals,Northern Namemo Laand,MF,39760000
+1985,D. Sigauke,D,Sugar Bengals,Sobianitedrucy,MF,11130000
+1986,E. Hasahya,D,Sugar Bengals,Sobianitedrucy,MF,37120000
+1987,U. Guillot,D,Sugar Bengals,Sobianitedrucy,MF,34160000
+1988,H. Tumukunde,D,Sugar Bengals,Southern Ristan,MF,35630000
+1989,J. Mubangizi,D,Wet Flames,Central Diasongo,DF,16620000
+1990,V. Kaneko,D,Wet Flames,Central Namemo Laand,DF,16170000
+1991,S. Sanchez,D,Wet Flames,Imaar Vircoand,DF,25890000
+1992,D. Namayanja,D,Wet Flames,Lefghau,DF,14660000
+1993,U. Mansour,D,Wet Flames,Lefghau,DF,5830000
+1994,M. Sinh,D,Wet Flames,Loco Phirema,DF,25600000
+1995,T. Candia,D,Wet Flames,Quewenia,DF,24520000
+1996,L. Schmid,D,Wet Flames,Sobianitedrucy,DF,22230000
+1997,S. Katooko,D,Wet Flames,Sobianitedrucy,DF,14640000
+1998,X. Nakong,D,Wet Flames,Sobianitedrucy,DF,14510000
+1999,R. Uchida,D,Wet Flames,Sobianitedrucy,DFMF,37960000
+2000,Q. Acen,D,Wet Flames,Danan Seekeeling,FW,25190000
+2001,E. Zacarias,D,Wet Flames,Sobianitedrucy,FW,33810000
+2002,F. Mugabe,D,Wet Flames,Sobianitedrucy,FW,27140000
+2003,L. Novák,D,Wet Flames,Sobianitedrucy,FW,22060000
+2004,O. Suzuki,D,Wet Flames,Sobianitedrucy,FWMF,14560000
+2005,M. Nyamahunge,D,Wet Flames,Loco Phirema,GK,11220000
+2006,A. Whang,D,Wet Flames,Rosvi,GK,21140000
+2007,V. Guillaume,D,Wet Flames,Sobianitedrucy,GK,15480000
+2008,D. Mattila,D,Wet Flames,Dosqaly,MF,18500000
+2009,B. Kansiime,D,Wet Flames,Nganion,MF,24120000
+2010,Y. Almutairi,D,Wet Flames,Nkasland Cronestan,MF,27120000
+2011,D. Roussel,D,Wet Flames,Rosvi,MF,27960000
+2012,L. Sigauke,D,Wet Flames,Sobianitedrucy,MF,24640000
+2013,M. Takács,D,Wet Flames,Sobianitedrucy,MF,26210000
+2014,U. Chávez,D,Wet Flames,Sobianitedrucy,MF,24090000
+2015,F. Ndou,D,Wet Flames,Zamlie Niabangthe,MF,12550000
+2016,J. Maeda,D,Wet Flames,Sobianitedrucy,MFFW,21100000
+2017,H. Baumgartner,D,Wet Flames,Unicorporated Tiagascar,MFFW,19200000
+2018,Y. Machava,E,Big Foxes,Imaar Vircoand,DF,19560000
+2019,Y. Twinomugisha,E,Big Foxes,Janmico,DF,15000000
+2020,F. Tamura,E,Big Foxes,Nganion,DF,33530000
+2021,H. Choo,E,Big Foxes,Nganion,DF,16520000
+2022,H. Pour,E,Big Foxes,Nganion,DF,16710000
+2023,K. Krisensen,E,Big Foxes,Nganion,DF,14290000
+2024,S. Sørensen,E,Big Foxes,Nganion,DF,24890000
+2025,L. Olupot,E,Big Foxes,Zacia Lygia,DF,22160000
+2026,J. Asiimwe,E,Big Foxes,Nganion,DFMF,14000000
+2027,C. Rai,E,Big Foxes,Nganion,FW,10870000
+2028,T. Hashim,E,Big Foxes,Nganion,FW,30440000
+2029,B. Lindberg,E,Big Foxes,Rosvi,FW,20770000
+2030,B. Nura,E,Big Foxes,Boland Laynga,FWMF,27320000
+2031,S. Mussa,E,Big Foxes,Byasier Pujan,FWMF,25490000
+2032,C. Sanna,E,Big Foxes,Nganion,FWMF,34480000
+2033,J. Elsayed,E,Big Foxes,Nganion,FWMF,24390000
+2034,M. Gómez,E,Big Foxes,Nganion,FWMF,28750000
+2035,V. Da silva,E,Big Foxes,Nganion,FWMF,23210000
+2036,Q. D'angelo,E,Big Foxes,Rosvi,FWMF,19160000
+2037,X. Arnaud,E,Big Foxes,Imaar Vircoand,GK,13150000
+2038,G. Chandiga,E,Big Foxes,Nganion,GK,17910000
+2039,I. Friedrich,E,Big Foxes,Nganion,GK,6200000
+2040,C. Mati?,E,Big Foxes,Dosqaly,MF,16390000
+2041,P. Nakayenga,E,Big Foxes,Imaar Vircoand,MF,20690000
+2042,J. Willems,E,Big Foxes,Mico,MF,15870000
+2043,E. Achan,E,Big Foxes,Nganion,MF,21840000
+2044,E. Nasirumbi,E,Big Foxes,Nganion,MF,31140000
+2045,G. Cattaneo,E,Big Foxes,Nganion,MF,3670000
+2046,O. Ciobanu,E,Big Foxes,Nganion,MF,19240000
+2047,O. Kueh,E,Big Foxes,Nganion,MF,23440000
+2048,G. Sackey,E,Big Foxes,Nganion,MFDF,19680000
+2049,K. Harada,E,Big Foxes,Nganion,MFDF,9150000
+2050,D. Sahu,E,Big Foxes,Nganion,MFFW,27250000
+2051,Z. Tomi?,E,Big Foxes,Nganion,MFFW,17680000
+2052,C. Sulaiman,E,Deferred Dolphins,Dosqaly,DF,19780000
+2053,H. Jansson,E,Deferred Dolphins,Greri Landmoslands,DF,10210000
+2054,B. Taheri,E,Deferred Dolphins,Imaar Vircoand,DF,22590000
+2055,K. Eder,E,Deferred Dolphins,Nancipenuaroe,DF,4200000
+2056,A. Barbieri,E,Deferred Dolphins,Nganion,DF,12540000
+2057,D. Siregar,E,Deferred Dolphins,Nganion,DF,12820000
+2058,K. Candia,E,Deferred Dolphins,Nganion,DF,16310000
+2059,L. Ricci,E,Deferred Dolphins,Nganion,DF,19380000
+2060,M. Paterson,E,Deferred Dolphins,Nganion,DF,15070000
+2061,O. Oketcho,E,Deferred Dolphins,Nganion,DF,4710000
+2062,V. Mugala,E,Deferred Dolphins,Nganion,DF,23770000
+2063,O. Gatti,E,Deferred Dolphins,Nganion,DFFW,10070000
+2064,D. Fischer,E,Deferred Dolphins,Nganion,FW,30250000
+2065,E. Okello,E,Deferred Dolphins,Nganion,FW,9110000
+2066,B. Neméth,E,Deferred Dolphins,Lefghau,FWMF,30660000
+2067,B. Lehtonen,E,Deferred Dolphins,Nganion,FWMF,29530000
+2068,B. Mtonga,E,Deferred Dolphins,Nganion,FWMF,34100000
+2069,R. Giordano,E,Deferred Dolphins,Nganion,FWMF,24140000
+2070,A. Harutyunyan,E,Deferred Dolphins,Western Niasland,FWMF,28090000
+2071,G. Eng,E,Deferred Dolphins,Zamlie Niabangthe,FWMF,25220000
+2072,K. Kravchenko,E,Deferred Dolphins,Greri Landmoslands,GK,11670000
+2073,E. Kantono,E,Deferred Dolphins,Nganion,GK,20780000
+2074,Q. König,E,Deferred Dolphins,Nganion,GK,14980000
+2075,B. Kaonga,E,Deferred Dolphins,Central Namemo Laand,MF,12030000
+2076,Z. Johansen,E,Deferred Dolphins,Dosqaly,MF,24290000
+2077,A. Agyapong,E,Deferred Dolphins,Imaar Vircoand,MF,5800000
+2078,G. Akoli,E,Deferred Dolphins,Nganion,MF,27140000
+2079,M. Kebirungi,E,Deferred Dolphins,Nganion,MF,15880000
+2080,W. Mahato,E,Deferred Dolphins,Nganion,MF,31040000
+2081,X. Kidega,E,Deferred Dolphins,Nganion,MF,18960000
+2082,B. Ayuba,E,Deferred Dolphins,Rarita,MF,21950000
+2083,I. Benedetti,E,Deferred Dolphins,Zamlie Niabangthe,MF,28760000
+2084,D. Magala,E,Deferred Dolphins,Republic of Denand Landsa,MFDF,17680000
+2085,F. bin Zakaria,E,Deferred Dolphins,Nganion,MFFW,25560000
+2086,C. Negri,E,Delta Colts,Biarizea,DF,29610000
+2087,G. Syu,E,Delta Colts,Janmico,DF,15320000
+2088,C. Emmanuel,E,Delta Colts,Nganion,DF,5490000
+2089,C. Roux,E,Delta Colts,Nganion,DF,11700000
+2090,D. Ngo,E,Delta Colts,Nganion,DF,15370000
+2091,H. Shuaibu,E,Delta Colts,Nganion,DF,18700000
+2092,I. Niwamanya,E,Delta Colts,Nganion,DF,13970000
+2093,K. Awuah,E,Delta Colts,Nganion,DF,16050000
+2094,O. Mohammad,E,Delta Colts,Nganion,DF,14460000
+2095,P. Hassan,E,Delta Colts,Northslands,DF,13510000
+2096,K. Kastelic,E,Delta Colts,Nganion,DFMF,12240000
+2097,N. Turyasingura,E,Delta Colts,Nganion,DFMF,9090000
+2098,V. Abu,E,Delta Colts,Nganion,DFMF,17960000
+2099,Q. Maturu,E,Delta Colts,Dastatesne,FW,26480000
+2100,D. Purwanto,E,Delta Colts,Lefghau,FW,18520000
+2101,C. Schmidt,E,Delta Colts,Nganion,FW,20750000
+2102,L. Bogere,E,Delta Colts,Nganion,FW,22260000
+2103,T. Sinaga,E,Delta Colts,Rarita,FWMF,23150000
+2104,W. Ofori,E,Delta Colts,Unicorporated Tiagascar,FWMF,26690000
+2105,C. Shevchenko,E,Delta Colts,Nganion,GK,14210000
+2106,F. Dauda,E,Delta Colts,Nganion,GK,5730000
+2107,F. Ainembabazi,E,Delta Colts,Nganion,MF,11250000
+2108,I. Savage,E,Delta Colts,Nganion,MF,20650000
+2109,J. Choi,E,Delta Colts,Nganion,MF,5390000
+2110,M. Korugyendo,E,Delta Colts,Nganion,MF,20520000
+2111,M. Naluwooza,E,Delta Colts,Nganion,MF,27670000
+2112,R. Kabuye,E,Delta Colts,Nganion,MF,19740000
+2113,V. Bellini,E,Delta Colts,Nganion,MF,9910000
+2114,I. Soko,E,Delta Colts,Greri Landmoslands,MFFW,25490000
+2115,D. Law,E,Delta Colts,Nganion,MFFW,25600000
+2116,J. Mugenyi,E,Delta Colts,Nganion,MFFW,15730000
+2117,V. Nakiyemba,E,Delta Colts,Northern Namemo Laand,MFFW,35910000
+2118,J. Ayebare,E,Festive Governors,Dosqaly,DF,17290000
+2119,L. Wilson,E,Festive Governors,Dosqaly,DF,12000000
+2120,M. Takata,E,Festive Governors,Janmico,DF,16010000
+2121,A. Nilsen,E,Festive Governors,Nganion,DF,14680000
+2122,V. Nazziwa,E,Festive Governors,Nganion,DF,21970000
+2123,Y. Ssentongo,E,Festive Governors,Nganion,DF,15800000
+2124,Z. Acidri,E,Festive Governors,Nganion,DF,14970000
+2125,U. Roussel,E,Festive Governors,Slandsganiamayotteque,DF,18990000
+2126,I. Hsieh,E,Festive Governors,Nganion,DFMF,10970000
+2127,U. Nafula,E,Festive Governors,Mico,FW,29050000
+2128,K. bin Ali,E,Festive Governors,Nganion,FW,37550000
+2129,P. Peh,E,Festive Governors,Dosqaly,FWDF,19590000
+2130,O. Aboagye,E,Festive Governors,Dosqaly,FWMF,28190000
+2131,A. Yosef,E,Festive Governors,Greri Landmoslands,FWMF,29900000
+2132,L. Ndyanabo,E,Festive Governors,Imaar Vircoand,FWMF,36590000
+2133,W. Abeja,E,Festive Governors,Esia,GK,10460000
+2134,G. Kyobutungi,E,Festive Governors,Lefghau,GK,11650000
+2135,C. Medina,E,Festive Governors,Nganion,MF,37310000
+2136,I. Babirye,E,Festive Governors,Nganion,MF,6420000
+2137,P. Tibesigwa,E,Festive Governors,Nganion,MF,26820000
+2138,X. Nankya,E,Festive Governors,Nganion,MF,27360000
+2139,Z. Gholami,E,Festive Governors,Nganion,MF,20060000
+2140,O. Mészáros,E,Festive Governors,Unicorporated Tiagascar,MF,20870000
+2141,H. Gaillard,E,Festive Governors,Byasier Pujan,MFDF,21420000
+2142,G. Ochwo,E,Festive Governors,Lefghau,MFFW,32710000
+2143,G. Katumba,E,Flying Penguins,Biarizea,DF,7820000
+2144,D. Egger,E,Flying Penguins,Janmico,DF,20930000
+2145,J. Zacarias,E,Flying Penguins,Janmico,DF,11630000
+2146,N. Nassiri,E,Flying Penguins,Janmico,DF,13580000
+2147,K. Moshe,E,Flying Penguins,Nancipenuaroe,DF,13080000
+2148,V. Caputo,E,Flying Penguins,Nganion,DF,14800000
+2149,J. Ko,E,Flying Penguins,Southern Viout Aman,DF,26560000
+2150,W. Iddrisu,E,Flying Penguins,Nganion,DFMF,22430000
+2151,O. Balog,E,Flying Penguins,Rarita,DFMF,9730000
+2152,E. Thembo,E,Flying Penguins,Nganion,FW,25430000
+2153,R. Baidoo,E,Flying Penguins,Nganion,FW,10830000
+2154,M. Nakyejwe,E,Flying Penguins,Varijitri Isles,FW,28880000
+2155,V. Pathan,E,Flying Penguins,Coastpa Barleslands,FWMF,40090000
+2156,T. Tushemereirwe,E,Flying Penguins,Nganion,FWMF,34540000
+2157,G. Nakasi,E,Flying Penguins,Western Niasland,FWMF,20890000
+2158,B. Brandt,E,Flying Penguins,Nganion,GK,23680000
+2159,V. Awio,E,Flying Penguins,Nganion,GK,17960000
+2160,H. Gomo,E,Flying Penguins,Janmico,MF,30020000
+2161,F. Eid,E,Flying Penguins,Manlisgamncent,MF,22720000
+2162,X. Marroquín,E,Flying Penguins,Nancipenuaroe,MF,17520000
+2163,I. Basemera,E,Flying Penguins,Nganion,MF,22200000
+2164,Q. Sousa,E,Flying Penguins,Reugha,MF,35050000
+2165,Q. Naturinda,E,Flying Penguins,Rosvi,MF,18420000
+2166,H. Chevalier,E,Flying Penguins,Central Namemo Laand,MFDF,12510000
+2167,G. Nalwoga,E,Flying Penguins,Nganion,MFDF,19800000
+2168,R. Khonje,E,Flying Penguins,Nganion,MFDF,22070000
+2169,D. Kau,E,Flying Penguins,Southslands,MFDF,25590000
+2170,M. Braun,E,Flying Penguins,Zacia Lygia,MFDF,37800000
+2171,T. Mendes,E,Flying Penguins,Lylimi,MFFW,20600000
+2172,A. Murata,E,Flying Penguins,Nganion,MFFW,19930000
+2173,I. Babirye,E,Flying Penguins,Nganion,MFFW,23710000
+2174,R. Kukk,E,Hideous Spiders,Greri Landmoslands,DF,10850000
+2175,G. Kiggundu,E,Hideous Spiders,Ingre,DF,22790000
+2176,Y. Zgambo,E,Hideous Spiders,Janmico,DF,12500000
+2177,L. Sayed,E,Hideous Spiders,Ledian,DF,22540000
+2178,E. Kovács,E,Hideous Spiders,Nganion,DF,19470000
+2179,G. Kalyango,E,Hideous Spiders,Nganion,DF,18020000
+2180,K. Mahmood,E,Hideous Spiders,Nganion,DF,20190000
+2181,L. Blanc,E,Hideous Spiders,Nganion,DF,15000000
+2182,N. Jørgensen,E,Hideous Spiders,Nganion,DF,19140000
+2183,K. Quarshie,E,Hideous Spiders,Nganion,FW,28330000
+2184,W. Dufour,E,Hideous Spiders,Nganion,FW,7450000
+2185,I. Mukisa,E,Hideous Spiders,Lylimi,FWMF,22960000
+2186,A. Negri,E,Hideous Spiders,Nganion,FWMF,25210000
+2187,D. Ghasemi,E,Hideous Spiders,Nganion,FWMF,14430000
+2188,G. Musoke,E,Hideous Spiders,Nganion,FWMF,31280000
+2189,V. Sserugo,E,Hideous Spiders,Nganion,FWMF,24350000
+2190,F. De Groot,E,Hideous Spiders,Nganion,GK,21790000
+2191,J. Martin,E,Hideous Spiders,Nganion,GK,9080000
+2192,I. Akulu,E,Hideous Spiders,Central Diasongo,MF,25390000
+2193,J. Sulji?,E,Hideous Spiders,Nganion,MF,6670000
+2194,L. Rusere,E,Hideous Spiders,Nganion,MF,22770000
+2195,M. Mudimba,E,Hideous Spiders,Nganion,MF,12440000
+2196,D. Ayesiga,E,Hideous Spiders,Nganion,MFFW,22470000
+2197,E. Salem,E,Hideous Spiders,Nganion,MFFW,16850000
+2198,L. Sanz,E,Hideous Spiders,Nganion,MFFW,18820000
+2199,Q. Nagadya,E,Hideous Spiders,Nganion,MFFW,24180000
+2200,J. Bernard,E,Hideous Spiders,Republic of Denand Landsa,MFFW,13420000
+2201,O. Okamoto,E,Horrible Bison,Dosqaly,DF,14300000
+2202,C. Nakitto,E,Horrible Bison,Nganion,DF,19040000
+2203,D. Hara,E,Horrible Bison,Nganion,DF,28070000
+2204,G. Leone,E,Horrible Bison,Nganion,DF,19210000
+2205,H. Lo,E,Horrible Bison,Nganion,DF,10310000
+2206,I. Tng,E,Horrible Bison,Nganion,DF,14500000
+2207,L. Adikini,E,Horrible Bison,Nganion,DF,18400000
+2208,P. Halvorsen,E,Horrible Bison,Nganion,DF,17470000
+2209,R. Orlando,E,Horrible Bison,Nganion,DF,4480000
+2210,X. Smith,E,Horrible Bison,Nganion,DF,17990000
+2211,W. Kobusingye,E,Horrible Bison,Dosqaly,DFMF,12470000
+2212,Z. Kneževi?,E,Horrible Bison,Lefghau,FW,26700000
+2213,O. Zen,E,Horrible Bison,Xikong,FW,23110000
+2214,B. Male,E,Horrible Bison,Nganion,FWMF,27960000
+2215,G. Twebaze,E,Horrible Bison,Nganion,FWMF,30470000
+2216,O. Rodrigues,E,Horrible Bison,Nganion,FWMF,32480000
+2217,T. Ong,E,Horrible Bison,Nganion,FWMF,28350000
+2218,Z. Nakiwala,E,Horrible Bison,Rarita,FWMF,24480000
+2219,G. Nalukwago,E,Horrible Bison,Southern Ristan,FWMF,26750000
+2220,I. Ajiko,E,Horrible Bison,Nganion,GK,29100000
+2221,A. Johannessen,E,Horrible Bison,Nganion,MF,14920000
+2222,D. Mulumba,E,Horrible Bison,Nganion,MF,7660000
+2223,E. Zen,E,Horrible Bison,Nganion,MF,22100000
+2224,E. Zoabi,E,Horrible Bison,Nganion,MF,35290000
+2225,J. binti Hashim,E,Horrible Bison,Nganion,MF,11860000
+2226,K. Kabonesa,E,Horrible Bison,Nganion,MF,11740000
+2227,K. Mugala,E,Horrible Bison,Nganion,MF,15330000
+2228,O. Szilágyi,E,Horrible Bison,Nganion,MF,23410000
+2229,S. Gutiérrez,E,Horrible Bison,Nganion,MFFW,19990000
+2230,U. Nyakaisiki,E,Horrible Bison,Nganion,MFFW,30920000
+2231,A. Lalam,E,Mad Bees,Greri Landmoslands,DF,10510000
+2232,D. Kalni?š,E,Mad Bees,Nganion,DF,14700000
+2233,O. Akia,E,Mad Bees,Nganion,DF,18850000
+2234,R. Koch,E,Mad Bees,Nganion,DF,13680000
+2235,V. Chimwaza,E,Mad Bees,Nganion,DF,8940000
+2236,Y. Okori,E,Mad Bees,Nganion,DF,28970000
+2237,H. Chakraborty,E,Mad Bees,South Sati Fatina,DF,15200000
+2238,C. Benhamou,E,Mad Bees,Nganion,DFMF,24210000
+2239,X. Nambooze,E,Mad Bees,Nganion,DFMF,18690000
+2240,O. Manhica,E,Mad Bees,Nganion,FW,35920000
+2241,Q. Salehi,E,Mad Bees,Nganion,FW,28090000
+2242,T. Chandiru,E,Mad Bees,Nganion,FW,27450000
+2243,Y. Fallah,E,Mad Bees,Nganion,FW,19000000
+2244,J. Taylor,E,Mad Bees,Nganion,FWMF,37320000
+2245,E. Lungu,E,Mad Bees,Nganion,GK,10090000
+2246,K. Nkhoma,E,Mad Bees,Nganion,GK,17380000
+2247,R. Martino,E,Mad Bees,Nganion,GK,25950000
+2248,V. Marino,E,Mad Bees,Badad,MF,32830000
+2249,E. Andoh,E,Mad Bees,Central Diasongo,MF,13160000
+2250,J. Akbari,E,Mad Bees,Eastern Sleboube,MF,3500000
+2251,C. Attias,E,Mad Bees,Nganion,MF,21850000
+2252,W. Ross,E,Mad Bees,Nganion,MF,6490000
+2253,Y. Nakimbugwe,E,Mad Bees,Nganion,MF,22000000
+2254,V. Fernandez,E,Mad Bees,Pahon,MF,16100000
+2255,O. Visser,E,Mad Bees,Rosvi,MF,8670000
+2256,U. Wahyudi,E,Mad Bees,Tiagascar Westlands,MF,15740000
+2257,L. Nangiro,E,Mad Bees,Eastern Niasland,MFFW,32320000
+2258,E. Hayati,E,Mad Bees,Nganion,MFFW,27070000
+2259,J. bin Hashim,E,Mad Bees,Nganion,MFFW,30550000
+2260,O. Seah,E,Mad Kingsmen,Dosqaly,DF,20330000
+2261,V. Andersson,E,Mad Kingsmen,Dosqaly,DF,13910000
+2262,C. Pavlovi?,E,Mad Kingsmen,Lefghau,DF,10890000
+2263,M. Kayesu,E,Mad Kingsmen,Lefghau,DF,20340000
+2264,A. Richard,E,Mad Kingsmen,Nganion,DF,26280000
+2265,B. Bwambale,E,Mad Kingsmen,Nganion,DF,19390000
+2266,D. Huda,E,Mad Kingsmen,Nganion,DF,29820000
+2267,G. Nakalema,E,Mad Kingsmen,Nganion,DF,24150000
+2268,N. Quinn,E,Mad Kingsmen,Nganion,DF,14770000
+2269,R. Morin,E,Mad Kingsmen,Nganion,DF,21180000
+2270,G. Yunusa,E,Mad Kingsmen,Nganion,DFFW,29190000
+2271,K. Umar,E,Mad Kingsmen,Nganion,DFFW,29290000
+2272,Y. Sen,E,Mad Kingsmen,Dosqaly,FW,29360000
+2273,M. Kneževi?,E,Mad Kingsmen,Lefghau,FW,31640000
+2274,S. Costa,E,Mad Kingsmen,Lefghau,FW,25400000
+2275,J. Atuhairwe,E,Mad Kingsmen,Morticre,FW,28960000
+2276,D. Adebayo,E,Mad Kingsmen,Nganion,FW,11010000
+2277,X. Rana,E,Mad Kingsmen,Nganion,FW,23410000
+2278,Q. Lou,E,Mad Kingsmen,Nganion,FWDF,7000000
+2279,C. Neri,E,Mad Kingsmen,Nganion,FWMF,36900000
+2280,F. Claes,E,Mad Kingsmen,Rosvi,FWMF,35470000
+2281,N. Utami,E,Mad Kingsmen,Southern Ristan,FWMF,30970000
+2282,Y. Ruggiero,E,Mad Kingsmen,Southern Ristan,GK,15930000
+2283,Y. Nagudi,E,Mad Kingsmen,Esia,MF,22940000
+2284,T. Cortez,E,Mad Kingsmen,Janmico,MF,20090000
+2285,E. Okurut,E,Mad Kingsmen,Lefghau,MF,14840000
+2286,C. Nangobi,E,Mad Kingsmen,Manlisgamncent,MF,18300000
+2287,A. Mugisha,E,Mad Kingsmen,Nganion,MFDF,16380000
+2288,D. Ocokoru,E,Mad Kingsmen,Nganion,MFFW,19010000
+2289,H. David,E,Mad Kingsmen,Redohrainbri,MFFW,11890000
+2290,F. Taruvinga,E,Orange Giants,Greri Landmoslands,DF,16720000
+2291,I. Beh,E,Orange Giants,Greri Landmoslands,DF,10570000
+2292,S. Nansamba,E,Orange Giants,Imaar Vircoand,DF,19860000
+2293,A. Hudák,E,Orange Giants,Nganion,DF,17740000
+2294,A. Tio,E,Orange Giants,Nganion,DF,11490000
+2295,C. Lunyolo,E,Orange Giants,Nganion,DF,13020000
+2296,C. Yousef,E,Orange Giants,Nganion,DF,18700000
+2297,H. Gumisiriza,E,Orange Giants,Nganion,DF,13020000
+2298,U. Businge,E,Orange Giants,Nganion,DF,5890000
+2299,I. Murakami,E,Orange Giants,Nganion,DFMF,10430000
+2300,R. Nuwagaba,E,Orange Giants,Nganion,FW,24460000
+2301,S. Layet,E,Orange Giants,Nganion,FW,13320000
+2302,T. Sommer,E,Orange Giants,Nganion,FW,17770000
+2303,X. Bekher,E,Orange Giants,Lylimi,FWMF,26960000
+2304,F. Jee,E,Orange Giants,Nganion,FWMF,25500000
+2305,G. Orlando,E,Orange Giants,Nganion,FWMF,3460000
+2306,W. Wandera,E,Orange Giants,Nkasland Cronestan,FWMF,14930000
+2307,L. Sakurai,E,Orange Giants,Nganion,GK,9820000
+2308,M. Murmu,E,Orange Giants,Rosvi,GK,9140000
+2309,A. Kuloba,E,Orange Giants,Coastpa Barleslands,MF,24610000
+2310,A. Luna,E,Orange Giants,Nganion,MF,15810000
+2311,F. Nakacwa,E,Orange Giants,Nganion,MF,15780000
+2312,M. Khatun,E,Orange Giants,Nganion,MF,16870000
+2313,U. bin Abdullah,E,Orange Giants,Nganion,MF,18980000
+2314,X. Sharma,E,Orange Giants,Nganion,MF,27540000
+2315,Y. Kasozi,E,Orange Giants,Greri Landmoslands,MFDF,10080000
+2316,P. Farina,E,Orange Giants,Nganion,MFDF,27010000
+2317,X. Sung,E,Orange Giants,Lylimi,MFFW,25790000
+2318,E. Mwesigye,E,Orange Giants,Nganion,MFFW,27730000
+2319,N. Niwagaba,E,Orange Giants,Nganion,MFFW,31550000
+2320,G. Katumba,E,Plane Janes,Biarizea,DF,11770000
+2321,C. Ibrahim,E,Plane Janes,Imaar Vircoand,DF,13610000
+2322,L. Kimuli,E,Plane Janes,Nathuacamana,DF,18090000
+2323,D. Akia,E,Plane Janes,Nganion,DF,22300000
+2324,D. Pal,E,Plane Janes,Nganion,DF,15490000
+2325,N. Andama,E,Plane Janes,Nganion,DF,5470000
+2326,U. Ahebwa,E,Plane Janes,Nganion,DF,17870000
+2327,Z. Hribar,E,Plane Janes,Nganion,DF,10780000
+2328,H. bin Ibrahim,E,Plane Janes,Imaar Vircoand,DFMF,23600000
+2329,A. Muller,E,Plane Janes,Nganion,DFMF,10730000
+2330,H. Nakafeero,E,Plane Janes,Nganion,DFMF,16510000
+2331,D. Ebrahimi,E,Plane Janes,Nganion,FW,8730000
+2332,S. Wahab,E,Plane Janes,Nganion,FW,31090000
+2333,Q. Hämäläinen,E,Plane Janes,Rarita,FW,24610000
+2334,S. Kofi,E,Plane Janes,Western Niasland,FW,24470000
+2335,J. Chou,E,Plane Janes,Nganion,FWMF,36420000
+2336,L. Suárez,E,Plane Janes,Nganion,FWMF,30550000
+2337,F. K?rkli?š,E,Plane Janes,Imaar Vircoand,GK,16060000
+2338,G. Leung,E,Plane Janes,Nganion,GK,23490000
+2339,J. Graham,E,Plane Janes,Dosqaly,MF,19910000
+2340,Y. Nakkazi,E,Plane Janes,Dosqaly,MF,14290000
+2341,K. Larsson,E,Plane Janes,Nganion,MF,21780000
+2342,L. Abdullah,E,Plane Janes,Nganion,MF,24700000
+2343,Q. Barbier,E,Plane Janes,Nganion,MF,29960000
+2344,R. Lokiru,E,Plane Janes,Nganion,MF,25110000
+2345,G. Namuganza,E,Plane Janes,Rarita,MF,29660000
+2346,T. Mendes,E,Plane Janes,Lylimi,MFFW,26150000
+2347,J. Munguambe,E,Plane Janes,Nganion,MFFW,29120000
+2348,G. Mlakar,E,Plane Janes,Republic of Denand Landsa,MFFW,25370000
+2349,V. Salim,E,Polar Kangaroos,Janmico,DF,11040000
+2350,V. Akoli,E,Polar Kangaroos,Lefghau,DF,17130000
+2351,V. Quay,E,Polar Kangaroos,Lefghau,DF,17050000
+2352,G. Kintu,E,Polar Kangaroos,Manlisgamncent,DF,21310000
+2353,L. Wambi,E,Polar Kangaroos,Nganion,DF,17720000
+2354,N. Muzenda,E,Polar Kangaroos,Nganion,DF,11260000
+2355,Q. Roy,E,Polar Kangaroos,Nganion,DF,13070000
+2356,H. Nakagolo,E,Polar Kangaroos,Pahon,DF,14860000
+2357,A. Kamusiime,E,Polar Kangaroos,People's Land of Maneau,DF,23600000
+2358,O. Nalubega,E,Polar Kangaroos,Southern Ristan,DFMF,31350000
+2359,I. Stoica,E,Polar Kangaroos,Janmico,FW,30780000
+2360,X. Mubiru,E,Polar Kangaroos,Nganion,FW,26730000
+2361,U. Iskandar,E,Polar Kangaroos,Dosqaly,FWMF,21420000
+2362,D. Groß,E,Polar Kangaroos,Greri Landmoslands,FWMF,31200000
+2363,B. Abubakar,E,Polar Kangaroos,Imaar Vircoand,FWMF,33840000
+2364,S. Nuwagira,E,Polar Kangaroos,Saintu,GK,13220000
+2365,M. Kusiima,E,Polar Kangaroos,Nancipenuaroe,MF,21000000
+2366,O. Ueno,E,Polar Kangaroos,Newgan Ruland,MF,24350000
+2367,I. Mponda,E,Polar Kangaroos,Nganion,MF,29850000
+2368,G. Namakula,E,Polar Kangaroos,Nganion,MFDF,18630000
+2369,J. Khoh,E,Polar Kangaroos,Nganion,MFDF,27280000
+2370,K. Nambozo,E,Polar Kangaroos,Dosqaly,MFFW,12660000
+2371,B. Reyes,E,Polar Kangaroos,Esian Republic,MFFW,20240000
+2372,T. Robert,E,Polar Kangaroos,Janmico,MFFW,14790000
+2373,R. Kiberu,E,Polar Kangaroos,Nganion,MFFW,27850000
+2374,G. Syu,E,Punctual Leopards,Janmico,DF,18160000
+2375,T. Lam,E,Punctual Leopards,Nancipenuaroe,DF,8420000
+2376,P. Nabbanja,E,Punctual Leopards,Newgan Ruland,DF,10070000
+2377,C. Kavuma,E,Punctual Leopards,Nganion,DF,17900000
+2378,E. Wang,E,Punctual Leopards,Nganion,DF,17210000
+2379,I. Eriksen,E,Punctual Leopards,Nganion,DF,11430000
+2380,L. Arai,E,Punctual Leopards,Nganion,DF,19010000
+2381,P. Alobo,E,Punctual Leopards,Nganion,DF,17430000
+2382,T. Lawino,E,Punctual Leopards,Nganion,DF,19270000
+2383,E. Kalungi,E,Punctual Leopards,Western Niasland,DF,7480000
+2384,L. Maleki,E,Punctual Leopards,Imaar Vircoand,FW,20110000
+2385,P. Ayd?n,E,Punctual Leopards,Nganion,FW,28190000
+2386,S. Ibraimo,E,Punctual Leopards,Nganion,FW,21500000
+2387,L. Nahwera,E,Punctual Leopards,Nganion,FWMF,26230000
+2388,I. Alghamdi,E,Punctual Leopards,Varijitri Isles,FWMF,21360000
+2389,L. Antwi,E,Punctual Leopards,Nganion,GK,6370000
+2390,Z. Fabre,E,Punctual Leopards,Nganion,GK,24720000
+2391,I. Ademovi?,E,Punctual Leopards,Former Maneau,MF,22590000
+2392,W. Amankwah,E,Punctual Leopards,Imaar Vircoand,MF,37140000
+2393,D. Abiria,E,Punctual Leopards,Nganion,MF,14630000
+2394,I. Muhammed,E,Punctual Leopards,Nganion,MF,18630000
+2395,K. Roger,E,Punctual Leopards,Nganion,MF,33690000
+2396,R. Adeke,E,Punctual Leopards,Nganion,MF,5650000
+2397,R. Rahim,E,Punctual Leopards,Ngoque Blicri,MF,12090000
+2398,C. Kalua,E,Punctual Leopards,Varijitri Isles,MF,11850000
+2399,Q. Namusobya,E,Punctual Leopards,Nganion,MFDF,15850000
+2400,L. Tusiime,E,Punctual Leopards,Janmico,MFFW,6560000
+2401,A. Kawala,E,Punctual Leopards,Nganion,MFFW,25770000
+2402,H. Ziegler,E,Punctual Leopards,Nganion,MFFW,12160000
+2403,U. Woo,E,Punctual Leopards,Nganion,MFFW,27840000
+2404,G. Tugume,E,Rabid Greyhounds,Nganion,DF,19500000
+2405,L. Olsson,E,Rabid Greyhounds,Nganion,DF,11110000
+2406,M. Nurhayati,E,Rabid Greyhounds,Nganion,DF,17190000
+2407,M. Stein,E,Rabid Greyhounds,Nganion,DF,17720000
+2408,R. Cossa,E,Rabid Greyhounds,Nganion,DF,17880000
+2409,S. Sala,E,Rabid Greyhounds,Nganion,DF,12050000
+2410,F. Van Leeuwen,E,Rabid Greyhounds,Western Niasland,DF,16000000
+2411,R. Rossi,E,Rabid Greyhounds,Western Niasland,DF,10680000
+2412,A. Fatimah,E,Rabid Greyhounds,Nganion,DFFW,16510000
+2413,Q. Vuji?,E,Rabid Greyhounds,Reugha,DFFW,10870000
+2414,N. Sadeghi,E,Rabid Greyhounds,Imaar Vircoand,DFMF,10440000
+2415,E. Blaževi?,E,Rabid Greyhounds,Imaar Vircoand,FW,22910000
+2416,Q. Nyangoma,E,Rabid Greyhounds,Imaar Vircoand,FW,23590000
+2417,P. Kayesu,E,Rabid Greyhounds,Nganion,FWMF,28020000
+2418,R. Flores,E,Rabid Greyhounds,Western Niasland,FWMF,12900000
+2419,W. Kong,E,Rabid Greyhounds,Imaar Vircoand,GK,17270000
+2420,X. Hosseinzadeh,E,Rabid Greyhounds,Nganion,GK,17880000
+2421,D. Naluyima,E,Rabid Greyhounds,Imaar Vircoand,MF,14590000
+2422,C. Nakalyango,E,Rabid Greyhounds,Lenia Gerdanho,MF,24160000
+2423,F. Buyinza,E,Rabid Greyhounds,Nganion,MF,9570000
+2424,K. Haim,E,Rabid Greyhounds,Nganion,MF,22510000
+2425,O. Guzmán,E,Rabid Greyhounds,Nganion,MF,6100000
+2426,Y. Takács,E,Rabid Greyhounds,Nganion,MF,15430000
+2427,C. De Vries,E,Rabid Greyhounds,Nganion,MFDF,22710000
+2428,D. Mwebesa,E,Rabid Greyhounds,Nganion,MFDF,23960000
+2429,I. Namata,E,Rabid Greyhounds,Nganion,MFDF,15620000
+2430,D. Akugizibwe,E,Rabid Greyhounds,Imaar Vircoand,MFFW,22010000
+2431,G. Fauzi,E,Rabid Greyhounds,Imaar Vircoand,MFFW,31290000
+2432,L. Lubega,E,Rabid Greyhounds,Nganion,MFFW,24740000
+2433,U. Oliveira,E,Rabid Greyhounds,Nganion,MFFW,21000000
+2434,Y. Turyahabwe,E,Running Bigfoots,Byasier Pujan,DF,17940000
+2435,B. Luki?,E,Running Bigfoots,Dosqaly,DF,13420000
+2436,I. Niemi,E,Running Bigfoots,Imaar Vircoand,DF,21970000
+2437,J. Abdel,E,Running Bigfoots,Lefghau,DF,8370000
+2438,C. Kasangaki,E,Running Bigfoots,Nganion,DF,21370000
+2439,C. Navarro,E,Running Bigfoots,Nganion,DF,14910000
+2440,Q. Pellegrino,E,Running Bigfoots,Nganion,DF,26230000
+2441,X. Nabukalu,E,Running Bigfoots,Nganion,DF,12010000
+2442,A. Bondarenko,E,Running Bigfoots,Biarizea,FW,27220000
+2443,O. Wong,E,Running Bigfoots,Biarizea,FW,30070000
+2444,U. Yong,E,Running Bigfoots,Byasier Pujan,FW,25140000
+2445,G. Nadunga,E,Running Bigfoots,Imaar Vircoand,FW,27500000
+2446,E. Mwesigye,E,Running Bigfoots,Nganion,FW,11140000
+2447,P. bin Ibrahim,E,Running Bigfoots,Nganion,FW,26110000
+2448,Z. Nakiwala,E,Running Bigfoots,Rarita,FW,23920000
+2449,F. Among,E,Running Bigfoots,Biarizea,FWMF,32670000
+2450,G. Agustina,E,Running Bigfoots,Imaar Vircoand,FWMF,21900000
+2451,N. Mucunguzi,E,Running Bigfoots,Biarizea,GK,17430000
+2452,U. Nishimura,E,Running Bigfoots,Galamily,GK,11590000
+2453,G. Gentile,E,Running Bigfoots,Lefghau,MF,18700000
+2454,Y. Mukisa,E,Running Bigfoots,Manlisgamncent,MF,25650000
+2455,V. Handayani,E,Running Bigfoots,Nganion,MF,22830000
+2456,I. Carpentier,E,Running Bigfoots,Rosvi,MFDF,22460000
+2457,D. Pfeiffer,E,Running Bigfoots,Imaar Vircoand,MFFW,29480000
+2458,F. Ngulube,E,Running Bigfoots,Nganion,MFFW,21560000
+2459,T. Kabonesa,E,Running Bigfoots,Nganion,MFFW,25230000
+2460,X. Muzaki,E,Sassy Knights,Imaar Vircoand,DF,10590000
+2461,G. Varma,E,Sassy Knights,Nganion,DF,19340000
+2462,H. Kowalski,E,Sassy Knights,Nganion,DF,9880000
+2463,J. Chan,E,Sassy Knights,Nganion,DF,17040000
+2464,K. Byakatonda,E,Sassy Knights,Nganion,DF,15140000
+2465,L. Wambi,E,Sassy Knights,Nganion,DF,14770000
+2466,Q. Alonso,E,Sassy Knights,Nganion,DF,23340000
+2467,T. Faure,E,Sassy Knights,Nganion,DF,12910000
+2468,A. binti Zakaria,E,Sassy Knights,Zacia Lygia,DF,17100000
+2469,E. Chebet,E,Sassy Knights,Imaar Vircoand,FW,23400000
+2470,B. Yang,E,Sassy Knights,Manlisgamncent,FW,25090000
+2471,T. Jiu,E,Sassy Knights,Nganion,FW,22920000
+2472,L. Ibrahimovi?,E,Sassy Knights,Nganion,FWMF,25060000
+2473,L. Nakalembe,E,Sassy Knights,Nganion,FWMF,32320000
+2474,G. Alali,E,Sassy Knights,Nganion,GK,16080000
+2475,I. Kisitu,E,Sassy Knights,Nganion,GK,22880000
+2476,M. Sseguya,E,Sassy Knights,Nganion,GKMF,11510000
+2477,J. Kayendeke,E,Sassy Knights,Nganion,MF,32310000
+2478,K. Deng,E,Sassy Knights,Nganion,MF,14930000
+2479,M. Muhindo,E,Sassy Knights,Rarita,MF,28640000
+2480,J. Poto?nik,E,Sassy Knights,Rosvi,MF,9790000
+2481,F. Lukyamuzi,E,Sassy Knights,Nganion,MFDF,23300000
+2482,F. Rozman,E,Sassy Knights,Imaar Vircoand,MFFW,31430000
+2483,A. Maposa,E,Sassy Knights,Nganion,MFFW,23200000
+2484,J. Pradhan,E,Sassy Knights,Nganion,MFFW,25570000
+2485,R. Tumusiime,E,Sassy Knights,Nganion,MFFW,24560000
+2486,V. Phung,E,Sassy Knights,Nganion,MFFW,29580000
+2487,Y. Arinitwe,E,Sassy Knights,Nganion,MFFW,10690000
+2488,F. Taha,E,Screaming Ramblers,Central Namemo Laand,DF,17960000
+2489,N. bin Hashim,E,Screaming Ramblers,Dosqaly,DF,19860000
+2490,K. Asadi,E,Screaming Ramblers,Lefghau,DF,8910000
+2491,B. Binder,E,Screaming Ramblers,Nganion,DF,21030000
+2492,E. Miyamoto,E,Screaming Ramblers,Nganion,DF,14330000
+2493,S. Kule,E,Screaming Ramblers,Nganion,DF,19480000
+2494,T. Haim,E,Screaming Ramblers,Nganion,DF,17930000
+2495,A. O'Connor,E,Screaming Ramblers,Nganion,DFMF,19710000
+2496,G. Magaya,E,Screaming Ramblers,Nganion,DFMF,9970000
+2497,O. Gatti,E,Screaming Ramblers,Nganion,DFMF,17610000
+2498,M. Banda,E,Screaming Ramblers,Lefghau,FW,30110000
+2499,H. Namwase,E,Screaming Ramblers,Nganion,FW,30930000
+2500,S. Nyathi,E,Screaming Ramblers,Nganion,FW,26840000
+2501,D. Mugisa,E,Screaming Ramblers,Xikong,FWMF,30040000
+2502,C. Ismail,E,Screaming Ramblers,Nganion,GK,8080000
+2503,M. Ategeka,E,Screaming Ramblers,Nganion,GK,11710000
+2504,I. Suleman,E,Screaming Ramblers,Central Badad,MF,10560000
+2505,B. Jonsson,E,Screaming Ramblers,Imaar Vircoand,MF,13500000
+2506,E. Amponsah,E,Screaming Ramblers,Nganion,MF,15720000
+2507,F. Mbale,E,Screaming Ramblers,Nganion,MF,19190000
+2508,F. Nakalema,E,Screaming Ramblers,Nganion,MF,14350000
+2509,F. Ohana,E,Screaming Ramblers,Nganion,MF,1920000
+2510,I. Okiror,E,Screaming Ramblers,Nganion,MF,18050000
+2511,P. Banze,E,Screaming Ramblers,Nganion,MF,11780000
+2512,Q. Muwanguzi,E,Screaming Ramblers,Nganion,MF,14950000
+2513,Z. Andersen,E,Screaming Ramblers,Greri Landmoslands,MFDF,12160000
+2514,S. Wimmer,E,Screaming Ramblers,Nganion,MFDF,28250000
+2515,N. Namataka,E,Screaming Ramblers,Janmico,MFFW,22970000
+2516,N. Kumar,E,Screaming Ramblers,Nganion,MFFW,33270000
+2517,U. Kizito,E,Screaming Ramblers,Nganion,MFFW,12320000
+2518,C. Machingura,E,Serious Magicians,Nganion,DF,29270000
+2519,D. Jena,E,Serious Magicians,Nganion,DF,13840000
+2520,G. Riva,E,Serious Magicians,Nganion,DF,10170000
+2521,L. Khonje,E,Serious Magicians,Nganion,DF,11470000
+2522,P. Okoth,E,Serious Magicians,Nganion,DF,25540000
+2523,V. Ang,E,Serious Magicians,Nganion,DF,15460000
+2524,X. Ayugi,E,Serious Magicians,Nganion,DF,9120000
+2525,P. Paterson,E,Serious Magicians,Nganion,DFMF,18050000
+2526,Z. Amito,E,Serious Magicians,Nganion,FW,24820000
+2527,E. Mudzingwa,E,Serious Magicians,Rarita,FW,16240000
+2528,D. De Jong,E,Serious Magicians,Nganion,FWMF,18260000
+2529,F. Nakalema,E,Serious Magicians,Nganion,FWMF,24110000
+2530,F. Salifu,E,Serious Magicians,Nganion,FWMF,25230000
+2531,V. Shinde,E,Serious Magicians,Nganion,FWMF,17140000
+2532,W. Ofori,E,Serious Magicians,Unicorporated Tiagascar,FWMF,16850000
+2533,C. Musana,E,Serious Magicians,Nganion,GK,14350000
+2534,O. Herrmann,E,Serious Magicians,Nganion,GK,8110000
+2535,C. Luká?,E,Serious Magicians,Nganion,MF,33820000
+2536,F. Sow,E,Serious Magicians,Nganion,MF,17950000
+2537,H. Mancini,E,Serious Magicians,Nganion,MF,26280000
+2538,R. Chandia,E,Serious Magicians,Nganion,MF,13820000
+2539,T. Vidmar,E,Serious Magicians,Nganion,MF,20050000
+2540,V. Ojara,E,Serious Magicians,Nganion,MF,15390000
+2541,Y. Vong,E,Serious Magicians,Nganion,MF,10970000
+2542,B. Kansiime,E,Serious Magicians,Nganion,MFFW,32360000
+2543,J. Maneno,E,Serious Magicians,Nganion,MFFW,24060000
+2544,S. Juri?,E,Serious Magicians,Nganion,MFFW,22500000
+2545,D. Horn,E,Swift Bison,Dosqaly,DF,9080000
+2546,H. Jovanovi?,E,Swift Bison,Dosqaly,DF,12820000
+2547,C. Najafi,E,Swift Bison,Greri Landmoslands,DF,23580000
+2548,C. Nalwadda,E,Swift Bison,Greri Landmoslands,DF,4130000
+2549,E. Bukar,E,Swift Bison,Lefghau,DF,16800000
+2550,D. Lian,E,Swift Bison,Nganion,DF,12650000
+2551,E. Balog,E,Swift Bison,Nganion,DF,17940000
+2552,Q. Namazzi,E,Swift Bison,Nganion,DF,18620000
+2553,S. Baig,E,Swift Bison,Nganion,DF,24270000
+2554,R. Ueta,E,Swift Bison,Sobianitedrucy,DF,23640000
+2555,N. bin Sulaiman,E,Swift Bison,Dosqaly,FW,23090000
+2556,I. Kiiza,E,Swift Bison,Janmico,FW,22170000
+2557,B. Quaye,E,Swift Bison,Sobianitedrucy,FW,28510000
+2558,E. Obbo,E,Swift Bison,Landli Blicporlip,FWMF,21230000
+2559,S. Nakasi,E,Swift Bison,Nganion,FWMF,35720000
+2560,O. Nabunya,E,Swift Bison,Byasier Pujan,GK,14670000
+2561,G. Taruvinga,E,Swift Bison,Nganion,GK,18270000
+2562,U. Rohman,E,Swift Bison,Dosqaly,MF,18720000
+2563,W. Ghosh,E,Swift Bison,Eastern Sleboube,MF,34660000
+2564,B. Reyes,E,Swift Bison,Esian Republic,MF,13650000
+2565,T. Ray,E,Swift Bison,Janmico,MF,14590000
+2566,B. Tong,E,Swift Bison,Nganion,MF,16190000
+2567,L. Kagoya,E,Swift Bison,Nganion,MF,3530000
+2568,U. Peri?,E,Swift Bison,Nganion,MF,17680000
+2569,I. Longok,E,Swift Bison,Rosvi,MF,14720000
+2570,X. binti Ramli,E,Swift Bison,Slandsganiamayotteque,MF,20200000
+2571,C. Popescu,E,Swift Bison,Mico,MFDF,16550000
+2572,P. Nakimera,E,Swift Bison,Nganion,MFDF,14980000
+2573,B. Kwek,E,Swift Bison,Greri Landmoslands,MFFW,19350000
+2574,J. Elsayed,E,Swift Bison,Nganion,MFFW,26880000
+2575,B. Turinawe,E,Ultimate Penguins,Lefghau,DF,15230000
+2576,H. Nieminen,E,Ultimate Penguins,Lefghau,DF,29020000
+2577,G. Mishra,E,Ultimate Penguins,Nganion,DF,17920000
+2578,L. Alqahtani,E,Ultimate Penguins,Nganion,DF,17770000
+2579,R. Aloyo,E,Ultimate Penguins,Nganion,DF,11430000
+2580,S. Phillips,E,Ultimate Penguins,Nganion,DF,22190000
+2581,Z. Salisu,E,Ultimate Penguins,Nganion,DF,11840000
+2582,O. Farkas,E,Ultimate Penguins,Pierrema,DF,23940000
+2583,Q. Acen,E,Ultimate Penguins,Danan Seekeeling,FW,25040000
+2584,Z. Hansson,E,Ultimate Penguins,Newgan Ruland,FW,14190000
+2585,P. Kralj,E,Ultimate Penguins,Nganion,FW,13510000
+2586,G. Matei,E,Ultimate Penguins,Nganion,FWMF,16880000
+2587,M. Nanzala,E,Ultimate Penguins,Nganion,FWMF,23460000
+2588,P. Mutonyi,E,Ultimate Penguins,Nganion,FWMF,19440000
+2589,S. Fontana,E,Ultimate Penguins,Nganion,FWMF,24620000
+2590,T. Amer,E,Ultimate Penguins,Nganion,FWMF,27350000
+2591,U. Jansons,E,Ultimate Penguins,Nganion,FWMF,24900000
+2592,"K. Jao,",E,Ultimate Penguins,Nganion,GK,8500000
+2593,Y. Draru,E,Ultimate Penguins,Rarita,GK,11390000
+2594,E. Ashknaziy,E,Ultimate Penguins,Central Diasongo,MF,26600000
+2595,I. Mwale,E,Ultimate Penguins,Greri Landmoslands,MF,21080000
+2596,C. Sung,E,Ultimate Penguins,Imaar Vircoand,MF,23850000
+2597,L. Kimbugwe,E,Ultimate Penguins,Newgan Ruland,MF,11640000
+2598,I. Tukahirwa,E,Ultimate Penguins,Dosqaly,MFFW,24600000
+2599,R. Adamu,E,Ultimate Penguins,Nganion,MFFW,27530000
+2600,C. Kakayi,RFL,Black Coyotes,Dosqaly,DF,1510000
+2601,V. It?,RFL,Black Coyotes,Mico,DF,1310000
+2602,C. Baluka,RFL,Black Coyotes,Rarita,DF,7760000
+2603,C. Tukamushaba,RFL,Black Coyotes,Rarita,DF,970000
+2604,K. Nalwanga,RFL,Black Coyotes,Rarita,DF,5110000
+2605,K. Shibata,RFL,Black Coyotes,Rarita,DF,1060000
+2606,Q. bin Ismail,RFL,Black Coyotes,Rarita,DF,920000
+2607,T. Larsson,RFL,Black Coyotes,Rarita,DF,1140000
+2608,T. Nouri,RFL,Black Coyotes,Rarita,DF,1960000
+2609,T. Okoro,RFL,Black Coyotes,Rarita,DF,730000
+2610,S. Rizzo,RFL,Black Coyotes,Sobianitedrucy,DF,1340000
+2611,G. Muleya,RFL,Black Coyotes,Manlisgamncent,FW,2400000
+2612,B. Madondo,RFL,Black Coyotes,Rarita,FW,1940000
+2613,I. Tabu,RFL,Black Coyotes,Rarita,FW,1170000
+2614,K. Kazlo?,RFL,Black Coyotes,Rarita,FW,2370000
+2615,T. Tal,RFL,Black Coyotes,Rarita,FW,6220000
+2616,W. Martinez,RFL,Black Coyotes,Rarita,FW,2060000
+2617,"V. Meijer, Meyer",RFL,Black Coyotes,Southern Ristan,FW,1680000
+2618,D. Makumbi,RFL,Black Coyotes,Rarita,FWMF,470000
+2619,J. Suryani,RFL,Black Coyotes,Redohrainbri,FWMF,5740000
+2620,O. Noor,RFL,Black Coyotes,Cabral Retrea,GK,3730000
+2621,A. Khainza,RFL,Black Coyotes,Sobianitedrucy,GK,1490000
+2622,D. Mattila,RFL,Black Coyotes,Rarita,MF,6670000
+2623,F. Chin,RFL,Black Coyotes,Rarita,MF,1340000
+2624,O. Wanjala,RFL,Black Coyotes,Rarita,MF,1750000
+2625,R. Jiménez,RFL,Black Coyotes,Rarita,MF,4580000
+2626,P. Villa,RFL,Black Coyotes,Rarita,MFFW,7820000
+2627,M. Arifin,RFL,Black Coyotes,Unicorporated Tiagascar,MFFW,1600000
+2628,K. Mawanda,RFL,Black Coyotes,Varijitri Isles,MFFW,1690000
+2629,A. Hasibuan,RFL,Educated Avengers,Rarita,DF,680000
+2630,L. Tambala,RFL,Educated Avengers,Rarita,DF,750000
+2631,R. Namutebi,RFL,Educated Avengers,Rarita,DF,6380000
+2632,S. Hashemi,RFL,Educated Avengers,Rarita,DF,1230000
+2633,T. Audu,RFL,Educated Avengers,Rarita,DF,1360000
+2634,V. Mansoor,RFL,Educated Avengers,Rarita,DF,730000
+2635,U. Quaye,RFL,Educated Avengers,Southslands,DF,210000
+2636,G. Kou,RFL,Educated Avengers,Rarita,DFMF,1560000
+2637,I. Y?ld?r?m,RFL,Educated Avengers,Galamily,FW,1790000
+2638,E. Afolabi,RFL,Educated Avengers,Rarita,FW,3190000
+2639,W. Barbieri,RFL,Educated Avengers,Rarita,FW,1620000
+2640,X. Thomas,RFL,Educated Avengers,Rarita,FW,1680000
+2641,B. Adongo,RFL,Educated Avengers,Rarita,FWMF,2310000
+2642,N. Chaw,RFL,Educated Avengers,Rarita,FWMF,1960000
+2643,Y. Tsua,RFL,Educated Avengers,Highhlaands,GK,3130000
+2644,F. Ithungu,RFL,Educated Avengers,Rarita,GK,1530000
+2645,S. Marchetti,RFL,Educated Avengers,Rarita,GK,1720000
+2646,B. Katooko,RFL,Educated Avengers,Rarita,MF,5660000
+2647,C. Kabagambe,RFL,Educated Avengers,Rarita,MF,1430000
+2648,J. López,RFL,Educated Avengers,Rarita,MF,750000
+2649,K. Ramos,RFL,Educated Avengers,Rarita,MF,980000
+2650,S. Razaee,RFL,Educated Avengers,Rarita,MF,1480000
+2651,T. Ansari,RFL,Educated Avengers,Rarita,MF,5350000
+2652,X. Masaba,RFL,Educated Avengers,Rarita,MF,1150000
+2653,Y. Nkhata,RFL,Educated Avengers,Southslands,MF,1830000
+2654,L. Petrenko,RFL,Mad Wolverines,Frenchdo Stanser,DF,3000000
+2655,G. Rousseau,RFL,Mad Wolverines,People's Land of Maneau,DF,3790000
+2656,H. Nkiwane,RFL,Mad Wolverines,People's Land of Maneau,DF,5530000
+2657,K. Polák,RFL,Mad Wolverines,People's Land of Maneau,DF,4750000
+2658,L. Chhang,RFL,Mad Wolverines,People's Land of Maneau,DF,4890000
+2659,X. Namuli,RFL,Mad Wolverines,People's Land of Maneau,DF,3990000
+2660,O. Rosario,RFL,Mad Wolverines,Republic of Denand Landsa,DF,2560000
+2661,N. Nafuna,RFL,Mad Wolverines,Rosvi,DF,3790000
+2662,O. Demirovi?,RFL,Mad Wolverines,Southslands,DF,4180000
+2663,O. Ankrah,RFL,Mad Wolverines,Coastpa Barleslands,FW,8210000
+2664,M. Hasani,RFL,Mad Wolverines,People's Land of Maneau,FW,7110000
+2665,N. Hang,RFL,Mad Wolverines,Djipines,FWMF,6550000
+2666,H. Nuwahereza,RFL,Mad Wolverines,Nkasland Cronestan,FWMF,1900000
+2667,R. Bbosa,RFL,Mad Wolverines,People's Land of Maneau,FWMF,5300000
+2668,Q. Ayerango,RFL,Mad Wolverines,Southslands,FWMF,5310000
+2669,L. Werner,RFL,Mad Wolverines,People's Land of Maneau,GK,6750000
+2670,X. Tumushabe,RFL,Mad Wolverines,Rarita,GK,3390000
+2671,G. Muhairwe,RFL,Mad Wolverines,Lowwlaands,MF,1930000
+2672,Y. Clark,RFL,Mad Wolverines,Manlisgamncent,MF,5110000
+2673,J. Chao,RFL,Mad Wolverines,People's Land of Maneau,MF,3500000
+2674,P. Hoi,RFL,Mad Wolverines,People's Land of Maneau,MF,2660000
+2675,U. Angella,RFL,Mad Wolverines,People's Land of Maneau,MF,6170000
+2676,U. Gomani,RFL,Mad Wolverines,People's Land of Maneau,MF,2990000
+2677,Z. Nakagawa,RFL,Mad Wolverines,People's Land of Maneau,MF,6520000
+2678,C. Kalua,RFL,Mad Wolverines,Varijitri Isles,MF,5770000
+2679,A. Katusiime,RFL,Mad Wolverines,Greri Landmoslands,MFFW,8690000
+2680,M. Namukwaya,RFL,Mad Wolverines,Ngoque Blicri,MFFW,7430000
+2681,Y. Mohammadzadeh,RFL,Mad Wolverines,Ngoque Blicri,MFFW,6880000
+2682,B. Rohman,RFL,Mad Wolverines,People's Land of Maneau,MFFW,7510000
+2683,T. Wanyenze,RFL,Mad Wolverines,People's Land of Maneau,MFFW,5790000
+2684,H. Sinaga,RFL,Marvelous Coyotes,Bernepamar,DF,720000
+2685,C. Carvalho,RFL,Marvelous Coyotes,Byasier Pujan,DF,2480000
+2686,J. De Luca,RFL,Marvelous Coyotes,Dosqaly,DF,670000
+2687,A. Gautier,RFL,Marvelous Coyotes,Greri Landmoslands,DF,5950000
+2688,X. Haji,RFL,Marvelous Coyotes,Greri Landmoslands,DF,1160000
+2689,E. Naik,RFL,Marvelous Coyotes,Nganion,DF,1080000
+2690,J. Wulandari,RFL,Marvelous Coyotes,Nganion,DF,1410000
+2691,M. As,RFL,Marvelous Coyotes,People's Land of Maneau,DF,1310000
+2692,O. Atim,RFL,Marvelous Coyotes,People's Land of Maneau,DF,950000
+2693,F. Kazembe,RFL,Marvelous Coyotes,Lefghau,FW,2710000
+2694,C. Kyarikunda,RFL,Marvelous Coyotes,People's Land of Maneau,FW,2650000
+2695,T. Aguti,RFL,Marvelous Coyotes,People's Land of Maneau,FW,1920000
+2696,J. Nakano,RFL,Marvelous Coyotes,Pierrema,FW,2280000
+2697,G. Vidal,RFL,Marvelous Coyotes,Imaar Vircoand,FWMF,2010000
+2698,K. Mukwaya,RFL,Marvelous Coyotes,Nganion,FWMF,7130000
+2699,J. Singini,RFL,Marvelous Coyotes,People's Land of Maneau,FWMF,2410000
+2700,T. Kamugisha,RFL,Marvelous Coyotes,Lefghau,GK,1580000
+2701,C. Baba,RFL,Marvelous Coyotes,People's Land of Maneau,GK,4390000
+2702,M. Bahri,RFL,Marvelous Coyotes,Slandsganiamayotteque,GK,1620000
+2703,A. Kuhn,RFL,Marvelous Coyotes,Esia,MF,2010000
+2704,S. Rostami,RFL,Marvelous Coyotes,Lefghau,MF,730000
+2705,T. Nakirijja,RFL,Marvelous Coyotes,Nganion,MF,1800000
+2706,A. Lefevre,RFL,Marvelous Coyotes,Southern Ristan,MF,1890000
+2707,B. Sugawara,RFL,Marvelous Coyotes,Greri Landmoslands,MFFW,1910000
+2708,K. Pawar,RFL,Red Anchormen,Eastern Niasland,DF,4730000
+2709,B. Opoka,RFL,Red Anchormen,Ngoque Blicri,DF,3480000
+2710,A. Mtambo,RFL,Red Anchormen,Rarita,DF,6520000
+2711,H. Lo,RFL,Red Anchormen,Rarita,DF,3260000
+2712,I. Takeuchi,RFL,Red Anchormen,Rarita,DF,840000
+2713,T. Monteiro,RFL,Red Anchormen,Rarita,DF,4120000
+2714,X. Tourgeman,RFL,Red Anchormen,Rarita,DF,2590000
+2715,Z. Quek Kwik,RFL,Red Anchormen,Esia,DFMF,5390000
+2716,L. Kidega,RFL,Red Anchormen,Highhlaands,DFMF,5440000
+2717,V. Sultan,RFL,Red Anchormen,Rarita,DFMF,5080000
+2718,H. Makumbi,RFL,Red Anchormen,Rarita,FW,7430000
+2719,A. Omar,RFL,Red Anchormen,Rarita,GK,7320000
+2720,F. Akumu,RFL,Red Anchormen,Rarita,GK,5600000
+2721,O. Kraus,RFL,Red Anchormen,Nkasland Cronestan,MF,4780000
+2722,C. Saad,RFL,Red Anchormen,People's Land of Maneau,MF,4400000
+2723,B. Mhamid,RFL,Red Anchormen,Rarita,MF,7350000
+2724,Q. Ajiko,RFL,Red Anchormen,Rarita,MF,7820000
+2725,I. Raut,RFL,Red Anchormen,Rarita,MFDF,5070000
+2726,J. Maier,RFL,Red Anchormen,Rarita,MFDF,4120000
+2727,L. Ningsih,RFL,Red Anchormen,Djipines,MFFW,6050000
+2728,Q. Fernandes,RFL,Red Anchormen,Nganion,MFFW,8270000
+2729,H. Vos,RFL,Red Anchormen,Rarita,MFFW,4940000
+2730,Z. Cumbe,RFL,Red Anchormen,Rarita,MFFW,7250000
+2731,H. Mirembe,RFL,Wild Hornets,Rarita,MFFW,7030000
+2732,C. Wahyuni,RFL,Serious Buffaloes,Rarita,DF,1960000
+2733,F. Pagano,RFL,Serious Buffaloes,Rarita,DF,4080000
+2734,J. Tumuhimbise,RFL,Serious Buffaloes,Rarita,DF,3830000
+2735,K. Musah,RFL,Serious Buffaloes,Rarita,DF,5180000
+2736,K. Mwanje,RFL,Serious Buffaloes,Rarita,DF,6870000
+2737,R. Tsao,RFL,Serious Buffaloes,Rarita,DF,6530000
+2738,S. Szabó,RFL,Serious Buffaloes,Rarita,DF,4910000
+2739,Z. Rajabi,RFL,Serious Buffaloes,Rarita,DF,5860000
+2740,B. Mutasa,RFL,Serious Buffaloes,Rarita,FW,2060000
+2741,G. Cou,RFL,Serious Buffaloes,Rarita,FW,7950000
+2742,I. Shoshan,RFL,Serious Buffaloes,Rarita,FW,7850000
+2743,Z. Moreira,RFL,Serious Buffaloes,Rarita,FW,6030000
+2744,L. Dlamini,RFL,Serious Buffaloes,Rarita,FWMF,3710000
+2745,B. Ampofo,RFL,Serious Buffaloes,Rarita,GK,3840000
+2746,N. Irawan,RFL,Serious Buffaloes,Rarita,GK,2430000
+2747,V. Persson,RFL,Serious Buffaloes,Kani,MF,8660000
+2748,B. Khatib,RFL,Serious Buffaloes,Rarita,MF,4570000
+2749,D. Kimuli,RFL,Serious Buffaloes,Rarita,MF,7580000
+2750,J. Namirembe,RFL,Serious Buffaloes,Rarita,MF,8330000
+2751,J. Nurhayati,RFL,Serious Buffaloes,Rarita,MF,6510000
+2752,Q. Morrison,RFL,Serious Buffaloes,Rarita,MF,8770000
+2753,W. Dehghani,RFL,Serious Buffaloes,Rarita,MF,360000
+2754,M. Pedersen,RFL,Serious Buffaloes,Rarita,MFDF,4680000
+2755,Z. Kakai,RFL,Serious Buffaloes,Rarita,MFDF,6910000
+2756,D. Lehner,RFL,Serious Buffaloes,Rarita,MFFW,6730000
+2757,G. binti Salleh,RFL,Serious Buffaloes,Rarita,MFFW,7570000
+2758,L. Mandala,RFL,Serious Buffaloes,Rarita,MFFW,7220000
+2759,P. Rabiu,RFL,Serious Buffaloes,Rarita,MFFW,7280000
+2760,E. Vasav,RFL,Strong Oaks,Moaithe,DF,5890000
+2761,D. Naula,RFL,Strong Oaks,Rarita,DF,6560000
+2762,E. Ow,RFL,Strong Oaks,Rarita,DF,4780000
+2763,F. Acayo,RFL,Strong Oaks,Rarita,DF,7060000
+2764,H. Azizi,RFL,Strong Oaks,Rarita,DF,5870000
+2765,L. binti Hassan,RFL,Strong Oaks,Rarita,DF,5290000
+2766,N. Tamura,RFL,Strong Oaks,Rarita,DF,8240000
+2767,N. Terzi?,RFL,Strong Oaks,Rarita,DF,5000000
+2768,P. Murmu,RFL,Strong Oaks,Rarita,DF,5570000
+2769,R. Mensah,RFL,Strong Oaks,Rarita,DF,5300000
+2770,W. Mbaziira,RFL,Strong Oaks,Rarita,DF,4000000
+2771,X. Takagi,RFL,Strong Oaks,Rarita,DF,4810000
+2772,Y. Mugerwa,RFL,Strong Oaks,Rarita,DF,2090000
+2773,A. Kyarikunda,RFL,Strong Oaks,Rarita,FW,8870000
+2774,A. Nanjala,RFL,Strong Oaks,Rarita,FW,8320000
+2775,I. Saha,RFL,Strong Oaks,Rarita,FW,8380000
+2776,L. Tarigan,RFL,Strong Oaks,Rarita,FW,6400000
+2777,N. Yamashita,RFL,Strong Oaks,Rarita,FW,8270000
+2778,U. Shoko,RFL,Strong Oaks,Rarita,FW,7560000
+2779,Z. Zziwa,RFL,Strong Oaks,Rarita,FW,9120000
+2780,B. Nakandi,RFL,Strong Oaks,Rarita,FWMF,6520000
+2781,F. Andreassen,RFL,Strong Oaks,Rarita,FWMF,5610000
+2782,G. Leitner,RFL,Strong Oaks,Rarita,GK,1660000
+2783,U. Nyeko,RFL,Strong Oaks,Rarita,GK,2370000
+2784,Z. Nyamahunge,RFL,Strong Oaks,Rarita,GK,7740000
+2785,D. Baah,RFL,Strong Oaks,Rarita,MF,3610000
+2786,F. Muhangi,RFL,Strong Oaks,Rarita,MF,5830000
+2787,G. Jankowski,RFL,Strong Oaks,Rarita,MF,9020000
+2788,H. Valentini,RFL,Strong Oaks,Rarita,MF,7050000
+2789,L. Leibowitz,RFL,Strong Oaks,Rarita,MF,8600000
+2790,S. Barman,RFL,Strong Oaks,Rarita,MF,8680000
+2791,X. Leroy,RFL,Strong Oaks,Rarita,MF,5630000
+2792,Y. Cheu,RFL,Strong Oaks,Rarita,MF,6190000
+2793,E. Rahayu,RFL,Strong Oaks,Rarita,MFFW,4530000
+2794,R. Monti,RFL,Strong Oaks,Rarita,MFFW,6550000
+2795,C. Busingye,RFL,Wild Hornets,Greri Landmoslands,DF,5590000
+2796,D. Bergmann,RFL,Wild Hornets,People's Land of Maneau,DF,580000
+2797,E. Bahrami,RFL,Wild Hornets,Rarita,DF,1250000
+2798,E. Meiyr,RFL,Wild Hornets,Rarita,DF,620000
+2799,F. Mahachi,RFL,Wild Hornets,Rarita,DF,1640000
+2800,H. Oliveira,RFL,Wild Hornets,Rarita,DF,2720000
+2801,M. Okori,RFL,Wild Hornets,Rarita,DF,5820000
+2802,R. Taketa,RFL,Wild Hornets,Rarita,DF,980000
+2803,U. Arthur,RFL,Wild Hornets,Rarita,DF,7080000
+2804,W. Guo,RFL,Wild Hornets,Rarita,DF,1040000
+2805,W. Yeoh,RFL,Wild Hornets,Rarita,DF,560000
+2806,D. Nasser,RFL,Wild Hornets,Nganion,FW,2210000
+2807,A. Baguma,RFL,Wild Hornets,Rarita,FW,5310000
+2808,B. Quaye,RFL,Wild Hornets,Rarita,FW,1790000
+2809,F. Ajio,RFL,Wild Hornets,Rarita,FW,1990000
+2810,K. Al-Zahrani,RFL,Wild Hornets,Rarita,FW,6240000
+2811,Z. Kneževi?,RFL,Wild Hornets,Rarita,FW,4040000
+2812,A. Tindimwebwa,RFL,Wild Hornets,Rarita,FWMF,2170000
+2813,E. Miyazaki,RFL,Wild Hornets,Greri Landmoslands,GK,1240000
+2814,M. Asiimwe,RFL,Wild Hornets,Rarita,GK,4490000
+2815,O. Contreras,RFL,Wild Hornets,Greri Landmoslands,MF,1690000
+2816,S. Nyarko,RFL,Wild Hornets,Greri Landmoslands,MF,1470000
+2817,F. Gan,RFL,Wild Hornets,Rarita,MF,4380000
+2818,C. Mitrovi?,RFL,Wild Hornets,Southern Ristan,MFDF,1660000
+2819,G. Mandaza,RFL,Wild Hornets,Greri Landmoslands,MFFW,1650000
+2820,H. Amade,RFL,Wild Hornets,Rarita,MFFW,1710000
+2821,H. Mirembe,RFL,Wild Hornets,Rarita,MFFW,6280000

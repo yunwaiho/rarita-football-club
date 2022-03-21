@@ -1,0 +1,3 @@
+"0","best.lambda <- cv.glm.model2$lambda.min"
+"0",""
+"0","defense.glm = predict(cv.glm.model2, type =""coefficients"", s=best.lambda)"
