@@ -13,30 +13,32 @@ library(glmnet)
 ```{r}
 
 shooting = read.csv("../data/uefa-data/model/uefa-shooting.csv") %>% 
-    select(-c(X, Player, DF, FW, GK, MF)) %>% 
-    filter(mv < 1.0e+08)
+    select(-c(X, Player, DF, FW, GK, MF))
 shooting$Stan.G.SoT <- ifelse(is.na(shooting$Stan.G.SoT), 0, shooting$Stan.G.SoT)
 
+shooting$mv[shooting$mv > 1e+8] <- max(shooting$mv[shooting$mv < 1e+8])
 
 defense = read.csv("../data/uefa-data/model/uefa-defense.csv") %>% 
-    select(-c(X, Player, DF, FW, GK, MF)) %>% 
-    filter(mv < 1.0e+08)
+    select(-c(X, Player, DF, FW, GK, MF))
 defense$Vs.D.Tkl. <- ifelse(is.na(defense$Vs.D.Tkl.), 0, defense$Vs.D.Tkl.)
 defense$Pres.. <- ifelse(is.na(defense$Pres..), 0, defense$Pres..)
 
+defense$mv[defense$mv > 1e+8] <- max(defense$mv[defense$mv < 1e+8])
+
 
 goalkeeping = read.csv("../data/uefa-data/model/uefa-goalkeeping.csv") %>% 
-    select(-c(X, Player, DF, FW, GK, MF, Play.MP, Play.Starts)) %>% 
-    filter(mv < 4.0e+07)
+    select(-c(X, Player, DF, FW, GK, MF, Play.MP, Play.Starts)) %>%
+    filter(mv < 4e+7)
 goalkeeping$Pena.Save. <- ifelse(is.na(goalkeeping$Pena.Save.), 0, goalkeeping$Pena.Save.)
 
 passing = read.csv("../data/uefa-data/model/uefa-passing.csv") %>% 
-    select(-c(X, Player, DF, FW, GK, MF)) %>% 
-    filter(mv < 1.0e+08)
+    select(-c(X, Player, DF, FW, GK, MF))
 passing$Tota.Cmp. <- ifelse(is.na(passing$Tota.Cmp.), 0, passing$Tota.Cmp.)
 passing$Shor.Cmp. <- ifelse(is.na(passing$Shor.Cmp.), 0, passing$Shor.Cmp.)
 passing$Medi.Cmp. <- ifelse(is.na(passing$Medi.Cmp.), 0, passing$Medi.Cmp.)
 passing$Long.Cmp. <- ifelse(is.na(passing$Long.Cmp.), 0, passing$Long.Cmp.)
+
+passing$mv[passing$mv > 1e+8] <- max(passing$mv[passing$mv < 1e+8])
 ```
 
 ```{r}
@@ -58,10 +60,10 @@ defense <- defense[!apply(defense, 1, function(x){sum(is.na(x))>=2}), ]
 goalkeeping <- goalkeeping[!apply(goalkeeping, 1, function(x){sum(is.na(x))>=2}), ]
 passing <- passing[!apply(passing, 1, function(x){sum(is.na(x))>=2}), ]
 
-# check_na(shooting)
-# check_na(defense)
-# check_na(goalkeeping)
-# check_na(passing)
+check_na(shooting)
+check_na(defense)
+check_na(goalkeeping)
+check_na(passing)
 # check_na(shooting, margin=2)
 # check_na(defense, margin=2)
 # check_na(goalkeeping, margin=2)
@@ -110,7 +112,8 @@ boxplot(passing$mv)
 # Create model
 
 ```{r}
-dataset = shooting
+dataset = shooting %>% 
+    mutate_at(-c(1, 3), function(x) {c(scale(x))})
 
 x.mv <- model.matrix(mv ~ . + I(Age^2), data = dataset)[, -1]
 y.mv <- as.matrix(dataset$mv)
@@ -131,12 +134,13 @@ shooting.disp <- summary(glm.model.disp)$dispersion
 ```
 
 ```{r}
-dataset = defense
+dataset = defense %>% 
+    mutate_at(-c(1, 3), function(x) {c(scale(x))})
 
 x.mv <- model.matrix(mv ~ . + I(Age^2), data = dataset)[, -1]
 y.mv <- as.matrix(dataset$mv)
 grid = 10^seq(10,-2, length =100)
-glm.model2 <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
+glm.model <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
 
 cv.glm.model <- cv.glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"))
 best.lambda <- cv.glm.model$lambda.min
@@ -152,14 +156,15 @@ defense.disp <- summary(glm.model.disp)$dispersion
 ```
 
 ```{r}
-dataset = goalkeeping
+dataset = goalkeeping %>% 
+    mutate_at(-c(1, 3), function(x) {c(scale(x))})
 
 glm.model1 <- glm(mv ~ . + I(Age^2), data = dataset, Gamma(link="log")); summary(glm.model1)
 
 x.mv <- model.matrix(mv ~ . + I(Age^2), data = dataset)[, -1]
 y.mv <- as.matrix(dataset$mv)
 grid = 10^seq(10,-2, length =100)
-glm.model2 <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
+glm.model <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
 
 cv.glm.model <- cv.glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"))
 best.lambda <- cv.glm.model$lambda.min
@@ -175,14 +180,15 @@ goalkeeping.disp <- summary(glm.model.disp)$dispersion
 ```
 
 ```{r}
-dataset = passing
+dataset = passing %>% 
+    mutate_at(-c(1, 3), function(x) {c(scale(x))})
 
 glm.model1 <- glm(mv ~ . + I(Age^2), data = dataset, Gamma(link="log")); summary(glm.model1)
 
 x.mv <- model.matrix(mv ~ . + I(Age^2), data = dataset)[, -1]
 y.mv <- as.matrix(dataset$mv)
 grid = 10^seq(10,-2, length =100)
-glm.model2 <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
+glm.model <- glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"), lambda = grid)
 
 cv.glm.model <- cv.glmnet(x.mv, y.mv, alpha=1, family=Gamma(link = "log"))
 best.lambda <- cv.glm.model$lambda.min
@@ -197,10 +203,6 @@ glm.model.disp <- glm(passing.formula, data = dataset, Gamma(link="log"))
 passing.disp <- summary(glm.model.disp)$dispersion
 ```
 
-```{r}
-cv.glm.model2
-```
-
 
 ```{r}
 shooting.glm
@@ -210,61 +212,61 @@ passing.glm
 ```
 
 ```{r}
-shooting.covariates <- model.matrix(mv ~ . + I(Age^2), data = shooting)
-passing.covariates <- model.matrix(mv ~ . + I(Age^2), data = passing)
-defense.covariates <- model.matrix(mv ~ . + I(Age^2), data = defense)
-goalkeeping.covariates <- model.matrix(mv ~ . + I(Age^2), data = goalkeeping)
+shooting.covariates <- model.matrix(mv ~ . + I(Age^2), data = shooting %>% mutate_at(-c(1, 3), function(x) {c(scale(x))}))
+passing.covariates <- model.matrix(mv ~ . + I(Age^2), data = passing %>% mutate_at(-c(1, 3), function(x) {c(scale(x))}))
+defense.covariates <- model.matrix(mv ~ . + I(Age^2), data = defense %>% mutate_at(-c(1, 3), function(x) {c(scale(x))}))
+goalkeeping.covariates <- model.matrix(mv ~ . + I(Age^2), data = goalkeeping %>% mutate_at(-c(1, 3), function(x) {c(scale(x))}))
 ```
 
 ```{r}
-plot(shooting$mv, as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = shooting) %*% shooting.glm)))
+plot(shooting$mv, as.numeric(exp(shooting.covariates %*% shooting.glm)))
 abline(0, 1)
-plot(passing$mv, as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = passing) %*% passing.glm)))
+plot(passing$mv, as.numeric(exp(passing.covariates %*% passing.glm)))
 abline(0, 1)
-plot(defense$mv, as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = defense) %*% defense.glm)))
+plot(defense$mv, as.numeric(exp(defense.covariates %*% defense.glm)))
 abline(0, 1)
-plot(goalkeeping$mv, as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = goalkeeping) %*% goalkeeping.glm)))
+plot(goalkeeping$mv, as.numeric(exp(goalkeeping.covariates %*% goalkeeping.glm)))
 abline(0, 1)
 ```
 
 ```{r}
-hist(shooting$mv - as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = shooting) %*% shooting.glm)), breaks = 100)
-hist(passing$mv - as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = passing) %*% passing.glm)), breaks = 100)
-hist(defense$mv - as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = defense) %*% defense.glm)), breaks = 100)
-hist(goalkeeping$mv - as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = goalkeeping) %*% goalkeeping.glm)), breaks = 100)
+hist(shooting$mv - as.numeric(exp(shooting.covariates %*% shooting.glm)), breaks = 100)
+hist(passing$mv - as.numeric(exp(passing.covariates %*% passing.glm)), breaks = 100)
+hist(defense$mv - as.numeric(exp(defense.covariates %*% defense.glm)), breaks = 100)
+hist(goalkeeping$mv - as.numeric(exp(goalkeeping.covariates %*% goalkeeping.glm)), breaks = 100)
 ```
 
 ```{r}
-plot(log(shooting$mv) - as.numeric(model.matrix(mv ~ . + I(Age^2), data = shooting) %*% shooting.glm), 
-     as.numeric(model.matrix(mv ~ . + I(Age^2), data = shooting) %*% shooting.glm))
-plot(log(passing$mv) - as.numeric(model.matrix(mv ~ . + I(Age^2), data = passing) %*% passing.glm), 
-     as.numeric(model.matrix(mv ~ . + I(Age^2), data = passing) %*% passing.glm))
-plot(log(defense$mv) - as.numeric(model.matrix(mv ~ . + I(Age^2), data = defense) %*% defense.glm), 
-     as.numeric(model.matrix(mv ~ . + I(Age^2), data = defense) %*% defense.glm))
-plot(log(goalkeeping$mv) - as.numeric(model.matrix(mv ~ . + I(Age^2), data = goalkeeping) %*% goalkeeping.glm), 
-     as.numeric(model.matrix(mv ~ . + I(Age^2), data = goalkeeping) %*% goalkeeping.glm))
+plot(log(shooting$mv) - as.numeric(shooting.covariates %*% shooting.glm), 
+     as.numeric(shooting.covariates %*% shooting.glm))
+plot(log(passing$mv) - as.numeric(passing.covariates %*% passing.glm), 
+     as.numeric(passing.covariates %*% passing.glm))
+plot(log(defense$mv) - as.numeric(defense.covariates %*% defense.glm), 
+     as.numeric(defense.covariates %*% defense.glm))
+plot(log(goalkeeping$mv) - as.numeric(goalkeeping.covariates %*% goalkeeping.glm), 
+     as.numeric(goalkeeping.covariates %*% goalkeeping.glm))
 ```
 
 ```{r}
-mean((shooting$mv - as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = shooting) %*% shooting.glm)))^2)
-mean((passing$mv - as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = passing) %*% passing.glm)))^2)
-mean((defense$mv - as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = defense) %*% defense.glm)))^2)
-mean((goalkeeping$mv - as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = goalkeeping) %*% goalkeeping.glm)))^2)
+mean((shooting$mv - as.numeric(exp(shooting.covariates %*% shooting.glm)))^2)
+mean((passing$mv - as.numeric(exp(passing.covariates %*% passing.glm)))^2)
+mean((defense$mv - as.numeric(exp(defense.covariates %*% defense.glm)))^2)
+mean((goalkeeping$mv - as.numeric(exp(goalkeeping.covariates %*% goalkeeping.glm)))^2)
 ```
 
 ```{r}
-write.csv(as.data.frame(as.matrix(shooting.glm)), "market_value model/shooting-glm.csv")
-write.csv(as.data.frame(as.matrix(defense.glm)), "market_value model/defense-glm.csv")
-write.csv(as.data.frame(as.matrix(goalkeeping.glm)), "market_value model/goalkeeping-glm.csv")
-write.csv(as.data.frame(as.matrix(passing.glm)), "market_value model/passing-glm.csv")
+write.csv(as.data.frame(as.matrix(shooting.glm)), "market_value model/glm-shooting.csv")
+write.csv(as.data.frame(as.matrix(defense.glm)), "market_value model/glm-defense.csv")
+write.csv(as.data.frame(as.matrix(goalkeeping.glm)), "market_value model/glm-goalkeeping.csv")
+write.csv(as.data.frame(as.matrix(passing.glm)), "market_value model/glm-passing.csv")
 ```
 
 # Predictions
 
 ```{r}
 r.shooting = read.csv("../data/processed-data/l_shooting_clean.csv") %>% 
-    select(-c(X, DF, FW, GK, MF)) %>% 
-    filter(Year == 2021, `X90s` >0)
+    filter(Year == 2021, `X90s` >0) %>% 
+    select(-c(X, DF, FW, GK, MF, League, Year))
 r.shooting$Standard.G.SoT <- ifelse(is.na(r.shooting$Standard.G.SoT), 0, r.shooting$Standard.G.SoT)
 
 r.shooting$Gls <- ifelse(r.shooting$Gls < 0, 0, r.shooting$Gls)
@@ -284,11 +286,18 @@ r.shooting$Expected.npxG <- ifelse(r.shooting$Expected.npxG < 0, 0, r.shooting$E
 r.shooting$Expected.npxG.Sh <- ifelse(r.shooting$Expected.npxG.Sh < 0, 0, r.shooting$Expected.npxG.Sh)
 
 r.shooting$Standard.SoT. <- ifelse(r.shooting$Standard.SoT. > 1, 1, r.shooting$Standard.SoT.)
+
+r.shooting$Standard.Sh[r.shooting$Standard.Sh > 10] <- max(r.shooting$Standard.Sh[r.shooting$Standard.Sh < 10])
+r.shooting$Standard.Sh.90[r.shooting$Standard.Sh.90 > 20] <- max(r.shooting$Standard.Sh.90[r.shooting$Standard.Sh.90 < 20])
+r.shooting$Standard.SoT.90[r.shooting$Standard.SoT.90 > 4] <- max(r.shooting$Standard.SoT.90[r.shooting$Standard.SoT.90 < 4])
+r.shooting$Performance.PKatt[r.shooting$Performance.PKatt > 0.6] <- max(r.shooting$Performance.PKatt[r.shooting$Performance.PKatt < 0.6])
+
+r.shooting[is.na(r.shooting)] = 0
 ```
 ```{r}
 r.defense = read.csv("../data/processed-data/l_defense_clean.csv") %>% 
-    select(-c(X, DF, FW, GK, MF)) %>% 
-    filter(Year == 2021, `X90s` >0)
+    filter(Year == 2021, `X90s` >0) %>% 
+    select(-c(X, DF, FW, GK, MF, League, Year)) 
 r.defense$Vs.Dribbles.Tkl. <- ifelse(is.na(r.defense$Vs.Dribbles.Tkl.), 0, r.defense$Vs.Dribbles.Tkl.)
 r.defense$Pressures.. <- ifelse(is.na(r.defense$Pressures..), 0, r.defense$Pressures..)
 
@@ -296,11 +305,15 @@ r.defense[r.defense<0] <- 0
 
 r.defense$Vs.Dribbles.Tkl. <- ifelse(r.defense$Vs.Dribbles.Tkl. > 1, 1, r.defense$Vs.Dribbles.Tkl.)
 r.defense$Pressures.. <- ifelse(r.defense$Pressures.. > 1, 1, r.defense$Pressures..)
+
+r.defense[is.na(r.defense)] = 0
+
 ```
 ```{r}
 r.goalkeeping = read.csv("../data/processed-data/l_goalkeeping_clean.csv") %>% 
-    select(-c(X, DF, FW, GK, MF, Playing.Time.MP, Playing.Time.Starts)) %>% 
-    filter(Year == 2021, Playing.Time.90s >0)
+    filter(Year == 2021, Playing.Time.90s >0) %>% 
+    select(-c(X, DF, FW, GK, MF, Playing.Time.MP, Playing.Time.Starts, League, Year))
+
 r.goalkeeping$Penalty.Kicks.Save. <- ifelse(is.na(r.goalkeeping$Penalty.Kicks.Save.), 0, r.goalkeeping$Penalty.Kicks.Save.)
 r.goalkeeping$Performance.Save. <- ifelse(is.na(r.goalkeeping$Performance.Save.), 0, r.goalkeeping$Performance.Save.)
 r.goalkeeping$Performance.CS. <- ifelse(is.na(r.goalkeeping$Performance.CS.), 0, r.goalkeeping$Performance.CS.)
@@ -310,11 +323,15 @@ r.goalkeeping[r.goalkeeping<0] <- 0
 r.goalkeeping$Performance.Save. <- ifelse(r.goalkeeping$Performance.Save. > 1, 1, r.goalkeeping$Performance.Save.)
 r.goalkeeping$Performance.CS. <- ifelse(r.goalkeeping$Performance.CS. > 1, 1, r.goalkeeping$Performance.CS.)
 r.goalkeeping$Penalty.Kicks.Save. <- ifelse(r.goalkeeping$Penalty.Kicks.Save. > 1, 1, r.goalkeeping$Penalty.Kicks.Save.)
+
+r.goalkeeping[is.na(r.goalkeeping)] = 0
+
 ```
 ```{r}
-r.passing = read.csv("../data/processed-data/l_passing_clean.csv") %>% 
-    select(-c(X, DF, FW, GK, MF)) %>% 
-    filter(Year == 2021, `X90s` >0)
+r.passing = read.csv("../data/processed-data/l_passing_clean_90.csv") %>% 
+    filter(Year == 2021, `X90s` >0) %>%
+    select(-c(X, DF, FW, GK, MF, League, Year))
+
 r.passing$Total.Cmp. <- ifelse(is.na(r.passing$Total.Cmp.), 0, r.passing$Total.Cmp.)
 r.passing$Short.Cmp. <- ifelse(is.na(r.passing$Short.Cmp.), 0, r.passing$Short.Cmp.)
 r.passing$Medium.Cmp. <- ifelse(is.na(r.passing$Medium.Cmp.), 0, r.passing$Medium.Cmp.)
@@ -326,6 +343,10 @@ r.passing$Total.Cmp. <- ifelse(r.passing$Total.Cmp. > 1, 1, r.passing$Total.Cmp.
 r.passing$Short.Cmp. <- ifelse(r.passing$Short.Cmp. > 1, 1, r.passing$Short.Cmp.)
 r.passing$Medium.Cmp. <- ifelse(r.passing$Medium.Cmp. > 1, 1, r.passing$Medium.Cmp.)
 r.passing$Long.Cmp. <- ifelse(r.passing$Long.Cmp. > 1, 1, r.passing$Long.Cmp.)
+
+r.passing <- r.passing %>% mutate_at(-c(1, 2, 3, 4, 5), function(x) {ifelse(x>quantile(x, 0.99), quantile(x, 0.99), x)})
+
+r.passing[is.na(r.passing)] = 0
 ```
 
 ```{r}
@@ -375,6 +396,10 @@ summary(passing)
 ```
 
 ```{r}
+boxplot(r.passing %>% select(-c(Player, Nation, Squad, Born)))
+```
+
+```{r}
 # # colnames(shooting)
 # colnames(r.shooting)
 # 
@@ -403,10 +428,10 @@ summary(passing)
 #     print(paste(colnames(goalkeeping.covariates)[i], colnames(r.goalkeeping.covariates)[i]))
 # }
 
-r.shooting.covariates <- model.matrix( ~ . + I(Age^2) - Player - Nation - Squad - Born - League - Year, data = r.shooting)
-r.passing.covariates <- model.matrix( ~ . + I(Age^2) - Player - Nation - Squad - Born - League - Year, data = r.passing)
-r.defense.covariates <- model.matrix( ~ . + I(Age^2) - Player - Nation - Squad - Born - League - Year, data = r.defense)
-r.goalkeeping.covariates <- model.matrix( ~ . + I(Age^2) - Player - Nation - Squad - Born - League - Year, data = r.goalkeeping)
+r.shooting.covariates <- model.matrix( ~ . + I(Age^2) - Player - Nation - Squad - Born, data = r.shooting %>% mutate_at(-c(1, 2, 3, 4), function(x) {c(scale(x))}))
+r.passing.covariates <- model.matrix( ~ . + I(Age^2) - Player - Nation - Squad - Born, data = r.passing %>% mutate_at(-c(1, 2, 3, 4), function(x) {c(scale(x))}))
+r.defense.covariates <- model.matrix( ~ . + I(Age^2) - Player - Nation - Squad - Born, data = r.defense %>% mutate_at(-c(1, 2, 3, 4), function(x) {c(scale(x))}))
+r.goalkeeping.covariates <- model.matrix( ~ . + I(Age^2) - Player - Nation - Squad - Born, data = r.goalkeeping %>% mutate_at(-c(1, 2, 3, 4), function(x) {c(scale(x))}))
 ```
 
 
@@ -424,10 +449,15 @@ boxplot(as.numeric(exp(r.goalkeeping.covariates %*% goalkeeping.glm)))
 
 
 ```{r}
-r.shooting[, "mv0"] = as.numeric(exp(r.shooting.covariates %*% shooting.glm))
-r.passing[, "mv0"] = as.numeric(exp(r.passing.covariates %*% passing.glm))
-r.defense[, "mv0"] = as.numeric(exp(r.defense.covariates %*% defense.glm))
-r.goalkeeping[, "mv0"] = as.numeric(exp(r.goalkeeping.covariates %*% goalkeeping.glm))
+shooting.mv <- as.numeric(exp(r.shooting.covariates %*% shooting.glm))
+passing.mv <- as.numeric(exp(r.passing.covariates %*% passing.glm))
+defense.mv <- as.numeric(exp(r.defense.covariates %*% defense.glm))
+goalkeeping.mv <- as.numeric(exp(r.goalkeeping.covariates %*% goalkeeping.glm))
+
+r.shooting[, "mv0"] <- ifelse(round(shooting.mv, -5) == 0, min(shooting$mv), round(shooting.mv, -5)) 
+r.passing[, "mv0"] <- ifelse(round(passing.mv, -5) == 0, min(passing$mv), round(passing.mv, -5)) 
+r.defense[, "mv0"] <- ifelse(round(defense.mv, -5) == 0, min(defense$mv), round(defense.mv, -5)) 
+r.goalkeeping[, "mv0"] <- ifelse(round(goalkeeping.mv, -5) == 0, min(goalkeeping$mv), round(goalkeeping.mv, -5))
 
 for (i in 1:9) {
     colname <- paste("mv", i, sep = "")
@@ -447,16 +477,28 @@ for (i in 1:9) {
     temp.r.defense.covariates[, "I(Age^2)"] <- temp.r.defense.covariates[, "Age"]^2
     temp.r.goalkeeping.covariates[, "I(Age^2)"] <- temp.r.goalkeeping.covariates[, "Age"]^2
     
-    r.shooting[, colname] = as.numeric(exp(temp.r.shooting.covariates %*% shooting.glm))
-    r.passing[, colname] = as.numeric(exp(temp.r.passing.covariates %*% passing.glm))
-    r.defense[, colname] = as.numeric(exp(temp.r.defense.covariates %*% defense.glm))
-    r.goalkeeping[, colname] = as.numeric(exp(temp.r.goalkeeping.covariates %*% goalkeeping.glm))
+    shooting.mv <- as.numeric(exp(temp.r.shooting.covariates %*% shooting.glm))
+    passing.mv <- as.numeric(exp(temp.r.passing.covariates %*% passing.glm))
+    defense.mv <- as.numeric(exp(temp.r.defense.covariates %*% defense.glm))
+    goalkeeping.mv <- as.numeric(exp(temp.r.goalkeeping.covariates %*% goalkeeping.glm))
+    
+    r.shooting[, colname] <- ifelse(round(shooting.mv, -5) == 0, min(shooting$mv), round(shooting.mv, -5))
+    r.passing[, colname] <- ifelse(round(passing.mv, -5) == 0, min(passing$mv), round(passing.mv, -5))
+    r.defense[, colname] <- ifelse(round(defense.mv, -5) == 0, min(defense$mv), round(defense.mv, -5))
+    r.goalkeeping[, colname] <- ifelse(round(goalkeeping.mv, -5) == 0, min(goalkeeping$mv), round(goalkeeping.mv, -5))
 }
 
-write.csv(r.shooting, "player-selection-shooting.csv")
-write.csv(r.passing, "player-selection-passing.csv")
-write.csv(r.defense, "player-selection-defense.csv")
-write.csv(r.goalkeeping, "player-selection-goalkeeping.csv")
+write.csv(r.shooting, "market_value model/player-selection-shooting.csv")
+write.csv(r.passing, "market_value model/player-selection-passing.csv")
+write.csv(r.defense, "market_value model/player-selection-defense.csv")
+write.csv(r.goalkeeping, "market_value model/player-selection-goalkeeping.csv")
+```
+
+```{r}
+boxplot(r.shooting %>% filter(Age < 19) %>% select(mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9))
+boxplot(r.passing %>% filter(Age < 19) %>% select(mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9))
+boxplot(r.defense %>% filter(Age < 19) %>% select(mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9))
+boxplot(r.goalkeeping %>% filter(Age < 19) %>% select(mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9))
 ```
 
 ```{r}
@@ -467,63 +509,95 @@ r.passing.sim <- r.passing %>% select(Player, Nation, Squad, mv0, mv1, mv2, mv3,
 r.defense.sim <- r.defense %>% select(Player, Nation, Squad, mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9)
 r.goalkeeping.sim <- r.goalkeeping %>% select(Player, Nation, Squad, mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9)
 
-nsims <- 100
+r.shooting.sim[, "trial"] = rep(0, nrow(r.shooting))
+r.passing.sim[, "trial"] = rep(0, nrow(r.passing))
+r.defense.sim[, "trial"] = rep(0, nrow(r.defense))
+r.goalkeeping.sim[, "trial"] = rep(0, nrow(r.goalkeeping))
 
-for (i in 2:nsims) {
-    temp.shooting <- r.shooting %>% select(Player, Nation, Squad)
-    temp.passing <- r.passing %>% select(Player, Nation, Squad)
-    temp.defense <- r.defense %>% select(Player, Nation, Squad)
-    temp.goalkeeping <- r.goalkeeping %>% select(Player, Nation, Squad)
-    
-    for (t in 0:9) {
-        colname <- paste("mv", t, sep = "")
-        
-        temp.r.shooting.covariates <- r.shooting.covariates
-        temp.r.passing.covariates <- r.passing.covariates
-        temp.r.defense.covariates <- r.defense.covariates
-        temp.r.goalkeeping.covariates <- r.goalkeeping.covariates
-        
-        temp.r.shooting.covariates[, "Age"] <- temp.r.shooting.covariates[, "Age"] + t
-        temp.r.passing.covariates[, "Age"] <- temp.r.passing.covariates[, "Age"] + t
-        temp.r.defense.covariates[, "Age"] <- temp.r.defense.covariates[, "Age"] + t
-        temp.r.goalkeeping.covariates[, "Age"] <- temp.r.goalkeeping.covariates[, "Age"] + t
-        
-        temp.r.shooting.covariates[, "I(Age^2)"] <- temp.r.shooting.covariates[, "Age"]^2
-        temp.r.passing.covariates[, "I(Age^2)"] <- temp.r.passing.covariates[, "Age"]^2
-        temp.r.defense.covariates[, "I(Age^2)"] <- temp.r.defense.covariates[, "Age"]^2
-        temp.r.goalkeeping.covariates[, "I(Age^2)"] <- temp.r.goalkeeping.covariates[, "Age"]^2
-        
-        shooting.eta = as.numeric(temp.r.shooting.covariates %*% shooting.glm)
-        passing.eta = as.numeric(temp.r.passing.covariates %*% passing.glm)
-        defense.eta = as.numeric(temp.r.defense.covariates %*% defense.glm)
-        goalkeeping.eta = as.numeric(temp.r.goalkeeping.covariates %*% goalkeeping.glm)
-        
-        shooting.alpha <- 1/shooting.disp
-        passing.alpha <- 1/passing.disp
-        defense.alpha <- 1/defense.disp
-        goalkeeping.alpha <- 1/goalkeeping.disp
-        
-        shooting.beta <- shooting.disp / exp(shooting.eta)
-        passing.beta <- passing.disp / exp(passing.eta)
-        defense.beta <- defense.disp / exp(defense.eta)
-        goalkeeping.beta <- goalkeeping.disp / exp(goalkeeping.eta)
-        
-        temp.shooting[, colname] <- rgamma(nrow(temp.shooting), shape = shooting.alpha, rate = shooting.beta)
-        temp.passing[, colname] <- rgamma(nrow(temp.passing), shape = passing.alpha, rate = passing.beta)
-        temp.defense[, colname] <- rgamma(nrow(temp.defense), shape = defense.alpha, rate = defense.beta)
-        temp.goalkeeping[, colname] <- rgamma(nrow(temp.goalkeeping), shape = goalkeeping.alpha, rate = goalkeeping.beta)
-    }
-    
-    r.shooting.sim <- rbind(r.shooting.sim, temp.shooting)
-    r.passing.sim <- rbind(r.passing.sim, temp.passing)
-    r.defense.sim <- rbind(r.defense.sim, temp.defense)
-    r.goalkeeping.sim <- rbind(r.goalkeeping.sim, temp.goalkeeping)
+nsims <- 2000
+
+temp.shooting <- r.shooting %>% select(Player, Nation, Squad)
+temp.passing <- r.passing %>% select(Player, Nation, Squad)
+temp.defense <- r.defense %>% select(Player, Nation, Squad)
+temp.goalkeeping <- r.goalkeeping %>% select(Player, Nation, Squad)
+
+for (i in 1:(nsims-2)) {
+    temp.shooting <- rbind(temp.shooting, r.shooting %>% select(Player, Nation, Squad))
+    temp.passing <- rbind(temp.passing, r.passing %>% select(Player, Nation, Squad))
+    temp.defense <- rbind(temp.defense, r.defense %>% select(Player, Nation, Squad))
+    temp.goalkeeping <- rbind(temp.goalkeeping, r.goalkeeping %>% select(Player, Nation, Squad))
 }
+
+
+for (t in 0:9) {
+    colname <- paste("mv", t, sep = "")
+    
+    temp.r.shooting.covariates <- r.shooting.covariates
+    temp.r.passing.covariates <- r.passing.covariates
+    temp.r.defense.covariates <- r.defense.covariates
+    temp.r.goalkeeping.covariates <- r.goalkeeping.covariates
+    
+    temp.r.shooting.covariates[, "Age"] <- temp.r.shooting.covariates[, "Age"] + t
+    temp.r.passing.covariates[, "Age"] <- temp.r.passing.covariates[, "Age"] + t
+    temp.r.defense.covariates[, "Age"] <- temp.r.defense.covariates[, "Age"] + t
+    temp.r.goalkeeping.covariates[, "Age"] <- temp.r.goalkeeping.covariates[, "Age"] + t
+    
+    temp.r.shooting.covariates[, "I(Age^2)"] <- temp.r.shooting.covariates[, "Age"]^2
+    temp.r.passing.covariates[, "I(Age^2)"] <- temp.r.passing.covariates[, "Age"]^2
+    temp.r.defense.covariates[, "I(Age^2)"] <- temp.r.defense.covariates[, "Age"]^2
+    temp.r.goalkeeping.covariates[, "I(Age^2)"] <- temp.r.goalkeeping.covariates[, "Age"]^2
+    
+    shooting.eta = as.numeric(temp.r.shooting.covariates %*% shooting.glm)
+    passing.eta = as.numeric(temp.r.passing.covariates %*% passing.glm)
+    defense.eta = as.numeric(temp.r.defense.covariates %*% defense.glm)
+    goalkeeping.eta = as.numeric(temp.r.goalkeeping.covariates %*% goalkeeping.glm)
+    
+    shooting.alpha <- 1/shooting.disp
+    passing.alpha <- 1/passing.disp
+    defense.alpha <- 1/defense.disp
+    goalkeeping.alpha <- 1/goalkeeping.disp
+    
+    shooting.beta <- shooting.alpha / exp(shooting.eta)
+    passing.beta <- passing.alpha / exp(passing.eta)
+    defense.beta <- defense.alpha / exp(defense.eta)
+    goalkeeping.beta <- goalkeeping.alpha / exp(goalkeeping.eta)
+    
+    shooting.mv <- rgamma((nsims-1)*nrow(r.shooting), shape = shooting.alpha, rate = shooting.beta)
+    passing.mv <- rgamma((nsims-1)*nrow(r.passing), shape = passing.alpha, rate = passing.beta)
+    defense.mv <- rgamma((nsims-1)*nrow(r.defense), shape = defense.alpha, rate = defense.beta)
+    goalkeeping.mv <- rgamma((nsims-1)*nrow(r.goalkeeping), shape = goalkeeping.alpha, rate = goalkeeping.beta)
+    
+    temp.shooting[, colname] <- ifelse(round(shooting.mv, -5) == 0, min(shooting$mv), round(shooting.mv, -5))
+    temp.passing[, colname] <- ifelse(round(passing.mv, -5) == 0, min(passing$mv), round(passing.mv, -5))
+    temp.defense[, colname] <- ifelse(round(defense.mv, -5) == 0, min(defense$mv), round(defense.mv, -5))
+    temp.goalkeeping[, colname] <- ifelse(round(goalkeeping.mv, -5) == 0, min(goalkeeping$mv), round(goalkeeping.mv, -5))
+}
+
+temp.shooting[, "trial"] = sort(rep(1:(nsims-1), nrow(r.shooting)))
+temp.passing[, "trial"] = sort(rep(1:(nsims-1), nrow(r.passing)))
+temp.defense[, "trial"] = sort(rep(1:(nsims-1), nrow(r.defense)))
+temp.goalkeeping[, "trial"] = sort(rep(1:(nsims-1), nrow(r.goalkeeping)))
+
+r.shooting.sim <- rbind(r.shooting.sim, temp.shooting)
+r.passing.sim <- rbind(r.passing.sim, temp.passing)
+r.defense.sim <- rbind(r.defense.sim, temp.defense)
+r.goalkeeping.sim <- rbind(r.goalkeeping.sim, temp.goalkeeping)
 ```
 
 ```{r}
-write.csv(r.shooting.sim, "mv-simulation-shooting.csv")
-write.csv(r.passing.sim, "mv-simulation-passing.csv")
-write.csv(r.defense.sim, "mv-simulation-defense.csv")
-write.csv(r.goalkeeping.sim, "mv-simulation-goalkeeping.csv")
+boxplot(round(r.shooting.sim %>% select(mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9), -5))
+boxplot(round(r.passing.sim %>% select(mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9), -5))
+boxplot(round(r.defense.sim %>% select(mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9), -5))
+boxplot(round(r.goalkeeping.sim %>% select(mv0, mv1, mv2, mv3, mv4, mv5, mv6, mv7, mv8, mv9), -5))
+```
+
+```{r}
+write.csv(r.shooting.sim, "market_value model/large/mv-simulation-shooting.csv")
+write.csv(r.passing.sim, "market_value model/large/mv-simulation-passing.csv")
+write.csv(r.defense.sim, "market_value model/large/mv-simulation-defense.csv")
+write.csv(r.goalkeeping.sim, "market_value model/large/mv-simulation-goalkeeping.csv")
+```
+
+```{r}
+
 ```
