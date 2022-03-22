@@ -1,9 +1,9 @@
-player = read.csv('rarita-football-club/code-market-value/player.csv',stringsAsFactors=F)
+player = read.csv('./rarita-football-club/data/player-data/player_salary.csv',stringsAsFactors=F)
 
 # change positions to factors
 player[, c(9,6,7,8)] = lapply(player[, c(6,7,8,9)], factor)
 # project salary growth rate rather than salary
-player$Salary = player$Salary/player$Salary.2020
+# player$Salary = player$Salary/player$Salary.2020
 
 str(player)
 summary(player)
@@ -21,7 +21,12 @@ glm1 <- glm(Salary ~Age-Player -Squad, data = player, family = Gamma(link="log")
 # they all predicted unreasonable values (such as infinity)
 summary(glm1)
 
-results = data.frame(player$Player, player$Squad, player$Salary*player$Salary.2020) 
+##############
+
+salaryGrowth = read.csv('./rarita-football-club/data/player-data/salary_growth.csv',stringsAsFactors=F)
+
+salaryGrowth
+results = data.frame(player$Player, player$Squad, player$Salary) 
 results
 names(results) = c('Player', 'Squad', 'Salary.2021')
 
@@ -48,14 +53,17 @@ names(results) = c('Player', 'Squad', 'Salary.2021')
 
 
 for (i in 1:10) {
-  newSalary = player$Salary
-  newSalary =newSalary*results[,2+i]
+  player$Age = player$Age + 1
   
+  age = player$Age + 1 - 16
+  salaryGrowth[1, 2]
+  
+  newSalary = player$Salary * salaryGrowth[age, 2]
   results = cbind(results, newSalary)
   names(results)[names(results) == 'newSalary'] = paste('Salary',as.character(2021+i))
   results
 }
-
+results
 # rounding to 2dp
 results[, -c(1,2)] = lapply(results[, -c(1,2)], round, 2)
 write.csv(results, "playersalary.csv", quote = F)
