@@ -514,7 +514,7 @@ r.passing.sim[, "trial"] = rep(0, nrow(r.passing))
 r.defense.sim[, "trial"] = rep(0, nrow(r.defense))
 r.goalkeeping.sim[, "trial"] = rep(0, nrow(r.goalkeeping))
 
-nsims <- 2000
+nsims <- 1000
 
 temp.shooting <- r.shooting %>% select(Player, Nation, Squad)
 temp.passing <- r.passing %>% select(Player, Nation, Squad)

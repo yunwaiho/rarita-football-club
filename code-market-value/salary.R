@@ -1,32 +1,32 @@
-player = read.csv('./rarita-football-club/data/player-data/player_salary.csv',stringsAsFactors=F)
-
+player = read.csv('../data/processed-data/salary_2021.csv',stringsAsFactors=F)
+player$Age <- as.numeric(player$Age)
 # change positions to factors
-player[, c(9,6,7,8)] = lapply(player[, c(6,7,8,9)], factor)
+# player[, c(9,6,7,8)] = lapply(player[, c(6,7,8,9)], factor)
 # project salary growth rate rather than salary
 # player$Salary = player$Salary/player$Salary.2020
-
+player <- na.omit(player)
 str(player)
 summary(player)
+# 
+# glm1 <- glm(Salary ~Age-Player -Squad, data = player, family = Gamma(link="log"))
+# #plot(fitted.values(glm1), residuals(glm1, type = "deviance") )
+# #plot(fitted.values(glm1), glm1$y)
+# #abline(0,1)
+# 
+# # From the results, it seems like age doesn't really affect growth rate,
+# # so we are going to assume constant growth rate for salary 
+# # (this also will include a constant assumption of inflation rate)
+# 
+# # We have also tried fitting actual salary, log(salary), sqrt(salary) but 
+# # they all predicted unreasonable values (such as infinity)
+# summary(glm1)
+# 
+# ##############
 
-glm1 <- glm(Salary ~Age-Player -Squad, data = player, family = Gamma(link="log"))
-#plot(fitted.values(glm1), residuals(glm1, type = "deviance") )
-#plot(fitted.values(glm1), glm1$y)
-#abline(0,1)
-
-# From the results, it seems like age doesn't really affect growth rate,
-# so we are going to assume constant growth rate for salary 
-# (this also will include a constant assumption of inflation rate)
-
-# We have also tried fitting actual salary, log(salary), sqrt(salary) but 
-# they all predicted unreasonable values (such as infinity)
-summary(glm1)
-
-##############
-
-salaryGrowth = read.csv('./rarita-football-club/data/player-data/salary_growth.csv',stringsAsFactors=F)
+salaryGrowth = read.csv('../data/player-data/salary_growth.csv',stringsAsFactors=F)
 
 salaryGrowth
-results = data.frame(player$Player, player$Squad, player$Salary) 
+results = data.frame(player$Player, player$Squad, player$Annualized.Salary) 
 results
 names(results) = c('Player', 'Squad', 'Salary.2021')
 
@@ -58,13 +58,13 @@ for (i in 1:10) {
   age = player$Age + 1 - 16
   salaryGrowth[1, 2]
   
-  newSalary = player$Salary * salaryGrowth[age, 2]
+  newSalary = player$Annualized.Salary * salaryGrowth[age, 2]
   results = cbind(results, newSalary)
   names(results)[names(results) == 'newSalary'] = paste('Salary',as.character(2021+i))
   results
 }
 results
 # rounding to 2dp
-results[, -c(1,2)] = lapply(results[, -c(1,2)], round, 2)
+results[, -c(1,2)] = lapply(results[, -c(1,2)], round, -4)
 write.csv(results, "playersalary.csv", quote = F)
 

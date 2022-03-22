@@ -1,0 +1,21 @@
+high - no minimum budget, yes other expenses and rev
+
+mid - minimum budget of 1900000000, starting year 6, yes other expenses and rev
+
+low - minimum budget of 700000000 throughout time, no other expenses and rev
+
+rho = 0.019, spot rate for 10 year
+ret = 0.0014, spot rate for 1 year
+
+    ftcp.add_constraint(selection_value[trial] == sunset_value[trial]
+        + team_value[0, trial] * 1
+        + team_value[1, trial] * 1
+        + team_value[2, trial] * 2
+        + team_value[3, trial] * 2
+        + team_value[4, trial] * 3
+        + team_value[5, trial] * 3
+        + team_value[6, trial] * 3
+        + team_value[7, trial] * 4
+        + team_value[8, trial] * 4
+        + team_value[9, trial] * 6
+        )
