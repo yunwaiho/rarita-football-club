@@ -1,0 +1,489 @@
+,Player,Nation,Age,FW,MF,DF,GK,Raritan
+0,a.acheng,Southern Ristan,25,0,0,1,0,0
+1,a.alghamdi,Ledian,34,0,0,1,0,0
+2,a.ansah,Varijitri Isles,22,0,0,1,0,0
+3,a.azmi,Giumle Lizeibon,23,1,0,0,0,0
+4,a.dickson,Esia,27,0,0,1,0,0
+5,a.gautier,Greri Landmoslands,23,0,0,1,0,0
+6,a.kamusiime,People's Land of Maneau,30,0,0,1,0,0
+7,a.khainza,Sobianitedrucy,21,0,0,0,1,0
+8,a.kiss,Mico,25,0,1,0,0,0
+9,a.kuhn,Esia,30,0,1,0,0,0
+10,a.lefevre,Southern Ristan,29,0,1,0,0,0
+11,a.lekuru,Leoneku Guidisia,23,1,0,1,0,0
+12,a.lombardi,Ngoque Blicri,28,0,1,0,0,0
+13,a.mwesige,Eastern Niasland,23,1,1,0,0,0
+14,a.nangobi,Ngoque Blicri,29,0,0,1,0,0
+15,a.ngabirano,Xikong,27,1,0,0,0,0
+16,a.nsereko,Byasier Pujan,21,0,1,0,0,0
+17,a.ono,People's Land of Maneau,17,0,1,0,0,0
+18,a.pinto,Leoneku Guidisia,27,0,0,1,0,0
+19,b.amin,Southern Ristan,18,0,1,0,0,0
+20,b.goldberg,Xikong,29,1,1,0,0,0
+21,b.harahap,Esia,34,0,0,0,1,0
+22,b.klemeni,Dosqaly,24,0,0,1,0,0
+23,b.luki,Dosqaly,22,0,0,1,0,0
+24,b.male,Nganion,23,1,0,0,0,0
+25,b.mangwiro,Dosqaly,24,0,0,1,0,0
+26,b.namazzi,Ledian,33,0,1,0,0,0
+27,b.opoka,Ngoque Blicri,29,0,0,1,0,0
+28,b.owor,Mico,20,1,1,0,0,0
+29,b.phillips,Southern Ristan,27,1,0,0,0,0
+30,b.sah,Sobianitedrucy,30,1,0,0,0,0
+31,b.schneider,Bernepamar,25,0,1,0,0,0
+32,b.sugawara,Greri Landmoslands,26,1,1,0,0,0
+33,b.taremwa,Ledian,25,1,0,1,0,0
+34,b.yang,Manlisgamncent,29,0,1,0,0,0
+35,c.alanazi,Sobianitedrucy,32,0,0,1,0,0
+36,c.begum,Eastern Sleboube,31,0,0,1,0,0
+37,c.busingye,Greri Landmoslands,27,0,0,1,0,0
+38,c.carvalho,Byasier Pujan,25,0,0,1,0,0
+39,c.imalingat,New Uwi,23,0,0,1,0,0
+40,c.ji,Greri Landmoslands,26,0,1,0,0,0
+41,c.kalua,Varijitri Isles,26,0,1,0,0,0
+42,c.lawal,Ledian,28,0,1,0,0,0
+43,c.magombo,Djipines,23,0,0,1,0,0
+44,c.malkah,Varijitri Isles,21,0,0,1,0,0
+45,c.mawejje,Djipines,23,1,1,0,0,0
+46,c.meunier,Xikong,32,0,1,1,0,0
+47,c.mitrovi,Southern Ristan,25,0,1,0,0,0
+48,c.muhammadu,Nganion,24,0,1,0,0,0
+49,c.musana,Nganion,23,0,0,0,1,0
+50,c.muyama,People's Land of Maneau,25,0,0,1,0,0
+51,c.nangobi,Manlisgamncent,35,0,1,0,0,0
+52,c.nyesiga,Manlisgamncent,26,0,1,0,0,0
+53,c.popescu,Mico,31,0,0,1,0,0
+54,c.saad,People's Land of Maneau,25,0,1,0,0,0
+55,c.salihu,Eastern Niasland,25,0,0,1,0,0
+56,c.seidu,Eastern Niasland,27,0,1,1,0,0
+57,c.soto,Manlisgamncent,22,1,1,0,0,0
+58,d.adu,Esia,26,0,0,1,0,0
+59,d.balazs,Nkasland Cronestan,25,0,0,1,0,0
+60,d.chiwara,Manlisgamncent,25,0,0,1,0,0
+61,d.gross,Greri Landmoslands,21,1,0,0,0,0
+62,d.iskandar,Byasier Pujan,30,0,0,1,0,0
+63,d.kikuchi,Nkasland Cronestan,21,0,1,0,0,0
+64,d.lal,Bernepamar,25,1,0,0,0,0
+65,d.magoba,Greri Landmoslands,37,0,0,1,0,0
+66,d.masereka,Ngoque Blicri,26,0,1,0,0,0
+67,d.mumbere,Ledian,29,1,0,0,0,0
+68,d.nasser,Nganion,25,1,0,1,0,0
+69,d.obeng,Ngoque Blicri,24,1,0,0,0,0
+70,d.okidi,Leoneku Guidisia,33,0,1,0,0,0
+71,d.rahmawati,Eastern Sleboube,25,1,1,0,0,0
+72,d.shahar,Nkasland Cronestan,24,0,0,1,0,0
+73,d.shuaibu,Nkasland Cronestan,28,0,0,1,0,0
+74,d.sigauke,Sobianitedrucy,23,0,1,0,0,0
+75,d.svensson,Esia,27,0,0,1,0,0
+76,d.young,Leoneku Guidisia,23,0,0,1,0,0
+77,e.alowo,Greri Landmoslands,24,1,1,0,0,0
+78,e.amony,Varijitri Isles,25,0,0,1,0,0
+79,e.binabdulrahman,Bernepamar,26,0,0,0,1,0
+80,e.hamalainen,Nkasland Cronestan,31,0,0,1,0,0
+81,e.jew,Manlisgamncent,26,0,0,0,1,0
+82,e.lam,Byasier Pujan,28,1,0,0,0,0
+83,e.miyazaki,Greri Landmoslands,32,0,0,0,1,0
+84,e.mohammad,Ledian,24,0,1,0,0,0
+85,e.morelli,Galamily,27,1,0,0,0,0
+86,e.mtetwa,Leoneku Guidisia,26,1,0,0,0,0
+87,e.nabaasa,Giumle Lizeibon,28,0,0,1,0,0
+88,e.naik,Nganion,20,0,0,1,0,0
+89,e.nakayiza,Mico,24,0,0,1,0,0
+90,e.nakirijja,New Uwi,21,0,1,0,0,0
+91,e.peng,Galamily,27,0,0,1,0,0
+92,e.tushemereirwe,New Uwi,30,0,0,0,1,0
+93,e.twinamatsiko,Bernepamar,24,1,0,0,0,0
+94,e.zacarias,Sobianitedrucy,27,1,0,0,0,0
+95,f.ahin,Leoneku Guidisia,30,1,1,0,0,0
+96,f.alupo,Djipines,28,1,1,0,0,0
+97,f.blanco,Manlisgamncent,22,1,0,1,0,0
+98,f.cheah,Manlisgamncent,28,1,0,0,0,0
+99,f.cho,Southern Ristan,26,0,0,1,0,0
+100,f.diaz,Southern Ristan,30,1,0,0,0,0
+101,f.kawala,Manlisgamncent,19,0,0,1,0,0
+102,f.kou,Eastern Sleboube,19,0,1,0,0,0
+103,f.krause,Varijitri Isles,24,0,1,0,0,0
+104,f.kyamanywa,Byasier Pujan,19,0,0,1,0,0
+105,f.lee,Sobianitedrucy,23,0,1,0,0,0
+106,f.nassolo,Djipines,19,0,0,1,0,0
+107,f.pop,Galamily,25,0,1,0,0,0
+108,f.saidi,Galamily,30,0,0,1,0,0
+109,f.tayebwa,Ledian,31,1,0,0,0,0
+110,g.acheampong,New Uwi,23,1,0,0,0,0
+111,g.adilovi,Bernepamar,18,0,0,1,0,0
+112,g.chimwaza,Sobianitedrucy,20,1,0,0,0,0
+113,g.dijkstra,People's Land of Maneau,19,1,0,0,0,0
+114,g.kintu,Manlisgamncent,29,0,0,1,0,0
+115,g.lambert,New Uwi,26,0,0,1,0,0
+116,g.muleya,Manlisgamncent,27,1,0,0,0,0
+117,g.nisha,Esia,25,0,0,1,0,0
+118,g.odoch,Quewenia,22,1,1,0,0,0
+119,g.owusu,Nganion,28,1,0,0,0,0
+120,g.were,Quewenia,28,1,0,0,0,0
+121,h.adjei,Quewenia,28,0,1,0,0,0
+122,h.adokorach,Varijitri Isles,25,0,1,0,0,0
+123,h.alobo,Esia,21,1,1,0,0,0
+124,h.arthur,Quewenia,24,0,0,1,0,0
+125,h.brun,Djipines,27,0,0,0,1,0
+126,h.cardoso,Dosqaly,31,0,1,0,0,0
+127,h.caruso,New Uwi,30,0,1,0,0,0
+128,h.ferraro,Mico,26,0,1,0,0,0
+129,h.gaillard,Byasier Pujan,23,0,1,0,0,0
+130,h.jaber,Eastern Niasland,20,1,0,0,0,0
+131,h.komujuni,Xikong,34,0,0,1,0,0
+132,h.kurnia,Quewenia,31,1,1,0,0,0
+133,h.leong,Southern Ristan,23,0,1,0,0,0
+134,h.marroquin,Giumle Lizeibon,31,1,1,0,0,0
+135,h.mbabazi,Manlisgamncent,23,1,1,0,0,0
+136,h.mvula,Ledian,35,0,0,1,0,0
+137,h.namara,Djipines,25,0,0,1,0,0
+138,h.nyombi,Southern Ristan,25,0,0,1,0,0
+139,h.reiter,Ngoque Blicri,25,1,0,0,0,0
+140,h.robert,Dosqaly,22,1,0,0,0,0
+141,h.sinaga,Bernepamar,24,0,1,1,0,0
+142,h.tan,Leoneku Guidisia,25,0,1,0,0,0
+143,h.twongirwe,People's Land of Maneau,30,0,1,0,0,0
+144,h.yong,New Uwi,28,0,0,1,0,0
+145,i.adoch,Greri Landmoslands,25,0,1,0,0,0
+146,i.aidoo,Nganion,29,0,1,0,0,0
+147,i.amolo,Xikong,34,1,0,0,0,0
+148,i.asante,Greri Landmoslands,27,1,1,0,0,0
+149,i.binhassan,Eastern Niasland,24,1,1,0,0,0
+150,i.bintiomar,Djipines,20,0,1,1,0,0
+151,i.gumede,Byasier Pujan,28,0,0,1,0,0
+152,i.iddrisu,People's Land of Maneau,22,0,1,0,0,0
+153,i.kayange,Galamily,22,0,1,0,0,0
+154,i.koomson,Djipines,23,1,1,0,0,0
+155,i.kyohairwe,Nkasland Cronestan,28,1,0,0,0,0
+156,i.makavan,Sobianitedrucy,29,0,1,0,0,0
+157,i.marie,Sobianitedrucy,28,0,1,0,0,0
+158,i.mponda,Nganion,29,0,1,0,0,0
+159,i.mwale,Greri Landmoslands,28,0,1,0,0,0
+160,i.peeters,Giumle Lizeibon,28,1,0,0,0,0
+161,i.permana,Southern Ristan,27,0,0,1,0,0
+162,i.reilly,Southern Ristan,32,0,1,0,0,0
+163,i.sari,Manlisgamncent,26,1,0,0,0,0
+164,i.yldrm,Galamily,28,1,0,0,0,0
+165,i.zyu,Galamily,27,1,0,0,0,0
+166,j.akello,Bernepamar,31,1,0,0,0,0
+167,j.alamri,Eastern Sleboube,27,0,0,1,0,0
+168,j.amsalem,Leoneku Guidisia,30,1,0,0,0,0
+169,j.anguko,Quewenia,29,1,0,1,0,0
+170,j.bintiibrahim,Galamily,31,1,0,0,0,0
+171,j.brouwer,Ngoque Blicri,27,0,1,0,0,0
+172,j.chou,Nganion,28,1,0,0,0,0
+173,j.dubois,Mico,28,0,1,0,0,0
+174,j.halvorsen,Esia,17,1,1,0,0,0
+175,j.hasahya,Sobianitedrucy,23,0,1,0,0,0
+176,j.jorgensen,Manlisgamncent,25,1,1,0,0,0
+177,j.khoh,Nganion,26,0,0,1,0,0
+178,j.kondowe,Southern Ristan,29,0,0,1,0,0
+179,j.mizrahi,Bernepamar,21,0,0,1,0,0
+180,j.muratovi,Byasier Pujan,38,0,0,0,1,0
+181,j.otto,Bernepamar,32,1,1,0,0,0
+182,j.pedro,Nganion,22,1,0,0,0,0
+183,j.purba,Eastern Niasland,28,1,0,0,0,0
+184,j.rukundo,Dosqaly,27,0,1,0,0,0
+185,j.singini,People's Land of Maneau,20,1,1,0,0,0
+186,j.soares,Eastern Niasland,37,1,0,0,0,0
+187,j.vasquez,Nkasland Cronestan,30,0,0,0,1,0
+188,j.wulandari,Nganion,26,0,0,1,0,0
+189,k.abalo,Quewenia,28,0,1,0,0,0
+190,k.abu,Eastern Niasland,30,0,1,0,0,0
+191,k.appiah,Leoneku Guidisia,32,0,0,1,0,0
+192,k.atto,Varijitri Isles,26,0,1,0,0,0
+193,k.clark,Southern Ristan,33,0,1,0,0,0
+194,k.deboer,Varijitri Isles,25,0,1,0,0,0
+195,k.eyotaru,Dosqaly,23,0,1,0,0,0
+196,k.jakobsson,Galamily,25,1,0,0,0,0
+197,k.koppel,Varijitri Isles,24,1,1,0,0,0
+198,k.lawino,Giumle Lizeibon,23,0,1,0,0,0
+199,k.mashiri,Leoneku Guidisia,26,0,0,1,0,0
+200,k.mawanda,Varijitri Isles,26,0,1,0,0,0
+201,k.mayanja,Bernepamar,27,1,1,0,0,0
+202,k.mirkovi,People's Land of Maneau,27,0,0,1,0,0
+203,k.mohammadzadeh,Djipines,30,1,1,0,0,0
+204,k.moretti,Djipines,30,0,1,0,0,0
+205,k.mukwaya,Nganion,20,1,0,0,0,0
+206,k.nakibuule,Eastern Sleboube,34,0,0,0,1,0
+207,k.nambozo,Dosqaly,25,1,0,0,0,0
+208,k.namuwaya,People's Land of Maneau,25,1,1,0,0,0
+209,k.nasution,Greri Landmoslands,25,1,0,0,0,0
+210,k.oloya,Quewenia,29,0,0,1,0,0
+211,k.pawar,Eastern Niasland,28,0,0,1,0,0
+212,k.ray,Ngoque Blicri,19,0,0,1,0,0
+213,k.salihovi,Bernepamar,24,1,0,1,0,0
+214,k.shumba,Esia,32,0,0,1,0,0
+215,k.twinomujuni,Nkasland Cronestan,22,0,0,1,0,0
+216,k.vitali,Leoneku Guidisia,32,0,0,1,0,0
+217,l.abbasi,Giumle Lizeibon,33,0,1,0,0,0
+218,l.auma,Leoneku Guidisia,26,0,0,1,0,0
+219,l.ayugi,Bernepamar,28,0,0,1,0,0
+220,l.berg,New Uwi,25,0,1,0,0,0
+221,l.dewit,Greri Landmoslands,35,1,0,0,0,0
+222,l.friedrich,Nkasland Cronestan,25,1,0,1,0,0
+223,l.james,Varijitri Isles,23,0,0,1,0,0
+224,l.kule,Quewenia,27,0,0,1,0,0
+225,l.lau,Eastern Niasland,33,1,0,1,0,0
+226,l.malinga,People's Land of Maneau,20,1,0,0,0,0
+227,l.mhango,Byasier Pujan,29,1,0,1,0,0
+228,l.mitchell,Esia,25,0,1,1,0,0
+229,l.nangiro,Eastern Niasland,25,0,1,0,0,0
+230,l.ningsih,Djipines,22,1,0,0,0,0
+231,l.nyarko,Varijitri Isles,20,0,1,0,0,0
+232,l.oroma,Southern Ristan,30,0,0,1,0,0
+233,l.prasad,Eastern Sleboube,24,1,1,0,0,0
+234,l.rahimi,Galamily,30,0,1,0,0,0
+235,l.tembo,Mico,21,1,0,0,0,0
+236,l.tu,Esia,25,1,0,1,0,0
+237,l.uchida,Galamily,21,0,1,0,0,0
+238,l.wilson,Dosqaly,25,0,0,1,0,0
+239,l.yulianti,Sobianitedrucy,33,0,0,1,0,0
+240,m.apolot,Manlisgamncent,28,0,0,1,0,0
+241,m.as,People's Land of Maneau,26,0,0,1,0,0
+242,m.ayebazibwe,Sobianitedrucy,27,0,0,1,0,0
+243,m.delgado,Ledian,26,0,1,0,0,0
+244,m.filipovi,Ledian,18,1,0,0,0,0
+245,m.happy,Varijitri Isles,24,0,0,1,0,0
+246,m.hussein,Bernepamar,30,0,1,0,0,0
+247,m.janssens,Ledian,32,0,0,0,1,0
+248,m.krlievi,Leoneku Guidisia,31,0,0,0,1,0
+249,m.mathieu,Quewenia,23,1,0,0,0,0
+250,m.matsumoto,Dosqaly,29,0,1,0,0,0
+251,m.nabukwasi,Quewenia,29,0,1,1,0,0
+252,m.ngamita,Xikong,31,0,0,0,1,0
+253,m.ogbonna,Mico,21,1,1,0,0,0
+254,m.olofsson,Leoneku Guidisia,26,0,0,1,0,0
+255,m.omony,Giumle Lizeibon,21,1,0,0,0,0
+256,m.sakai,Dosqaly,24,1,1,0,0,0
+257,m.tang,Djipines,27,0,0,1,0,0
+258,m.tseu,Manlisgamncent,24,0,0,1,0,0
+259,m.tumuramye,Ngoque Blicri,26,0,0,1,0,0
+260,m.vaknin,Ngoque Blicri,28,0,0,1,0,0
+261,m.yanti,Ledian,23,0,1,0,0,0
+262,n.barukh,Giumle Lizeibon,24,0,0,1,0,0
+263,n.dekker,Djipines,23,0,0,1,0,0
+264,n.kabagambe,Bernepamar,31,0,1,0,0,0
+265,n.kamusiime,Dosqaly,27,0,0,1,0,0
+266,n.katusabe,Mico,27,1,0,0,0,0
+267,n.nabulime,Leoneku Guidisia,22,1,0,0,0,0
+268,n.ono,People's Land of Maneau,23,1,0,0,0,0
+269,n.rebane,Varijitri Isles,35,1,0,0,0,0
+270,n.schumacher,Eastern Sleboube,30,0,0,1,0,0
+271,n.singh,Varijitri Isles,26,0,1,1,0,0
+272,n.utami,Southern Ristan,30,0,1,0,0,0
+273,o.aboagye,Dosqaly,29,1,1,0,0,0
+274,o.acheng,Galamily,18,1,0,0,0,0
+275,o.atim,People's Land of Maneau,30,0,0,1,0,0
+276,o.avako,Xikong,31,0,1,0,0,0
+277,o.contreras,Greri Landmoslands,34,0,1,0,0,0
+278,o.kobugabe,New Uwi,30,0,1,1,0,0
+279,o.kraus,Nkasland Cronestan,30,0,1,0,0,0
+280,o.lakot,Mico,29,0,1,0,0,0
+281,o.lamunu,Eastern Niasland,30,0,1,0,0,0
+282,o.macamo,Xikong,25,0,1,0,0,0
+283,o.maulana,Dosqaly,25,0,1,1,0,0
+284,o.nairuba,Esia,31,1,1,0,0,0
+285,o.nalubega,Southern Ristan,27,0,1,0,0,0
+286,o.nampeera,People's Land of Maneau,22,0,1,0,0,0
+287,o.obeng,Quewenia,24,0,1,0,0,0
+288,o.oh,Byasier Pujan,30,0,0,1,0,0
+289,o.patra,Ledian,23,0,0,1,0,0
+290,o.salonen,Southern Ristan,31,0,0,1,0,0
+291,o.sepp,Eastern Niasland,29,0,1,0,0,0
+292,o.yaakv,Xikong,21,0,1,0,0,0
+293,o.zen,Xikong,21,1,0,0,0,0
+294,p.bauri,Ngoque Blicri,24,0,1,1,0,0
+295,p.isa,Eastern Sleboube,24,0,1,0,0,0
+296,p.khoh,Mico,23,1,0,0,0,0
+297,p.khosravi,Ledian,30,1,0,0,0,0
+298,p.kud,Galamily,31,0,0,1,0,0
+299,p.mlotshwa,Sobianitedrucy,23,1,0,0,0,0
+300,p.mukalazi,Ledian,24,1,0,0,0,0
+301,p.mutyaba,New Uwi,33,1,0,0,0,0
+302,p.peh,Dosqaly,23,1,1,0,0,0
+303,p.purnomo,Galamily,26,1,1,0,0,0
+304,p.sullivan,Eastern Sleboube,33,0,0,1,0,0
+305,p.tibesigwa,Nganion,18,0,1,0,0,0
+306,p.uddin,Xikong,29,0,1,0,0,0
+307,q.achom,Manlisgamncent,31,0,0,1,0,0
+308,q.aini,Ngoque Blicri,23,0,0,1,0,0
+309,q.ariko,Djipines,31,1,1,0,0,0
+310,q.coppola,Dosqaly,25,0,0,1,0,0
+311,q.gunther,Esia,24,1,0,0,0,0
+312,q.higenyi,Varijitri Isles,23,0,1,0,0,0
+313,q.hor,Byasier Pujan,29,0,0,1,0,0
+314,q.ili,Mico,25,1,1,0,0,0
+315,q.isabirye,Eastern Niasland,25,0,1,0,0,0
+316,q.kaddu,Greri Landmoslands,28,0,1,0,0,0
+317,q.kemigisa,Eastern Sleboube,23,1,0,0,0,0
+318,q.liang,Nkasland Cronestan,26,1,1,0,0,0
+319,q.nakityo,Quewenia,29,0,1,0,0,0
+320,q.namazzi,Nganion,25,0,0,1,0,0
+321,q.ow,Quewenia,23,0,1,0,0,0
+322,q.roche,Giumle Lizeibon,25,0,1,0,0,0
+323,q.sarfo,Xikong,26,0,0,1,0,0
+324,q.yadav,Quewenia,25,0,0,1,0,0
+325,q.zee,Eastern Niasland,26,0,1,1,0,0
+326,r.akidi,Ngoque Blicri,23,1,0,0,0,0
+327,r.auer,Southern Ristan,35,0,0,1,0,0
+328,r.bogere,Sobianitedrucy,36,0,0,1,0,0
+329,r.kato,Manlisgamncent,31,1,0,0,0,0
+330,r.kirya,Giumle Lizeibon,26,0,1,0,0,0
+331,r.nakiru,New Uwi,31,0,1,0,0,0
+332,r.nkosi,Sobianitedrucy,29,1,0,0,0,0
+333,r.nyapendi,Eastern Sleboube,24,0,1,1,0,0
+334,r.sanz,Greri Landmoslands,27,0,0,1,0,0
+335,r.ssembatya,Nganion,28,1,0,0,0,0
+336,r.velasquez,Bernepamar,23,1,0,0,0,0
+337,r.yakubu,New Uwi,30,0,0,1,0,0
+338,r.yiga,Quewenia,32,0,0,0,1,0
+339,r.zamani,Giumle Lizeibon,23,1,1,0,0,0
+340,s.amulen,Byasier Pujan,22,1,0,0,0,0
+341,s.ayuba,Nkasland Cronestan,22,0,0,1,0,0
+342,s.doherty,Eastern Niasland,26,0,0,1,0,0
+343,s.greco,Nkasland Cronestan,22,0,1,0,0,0
+344,s.kamoga,Sobianitedrucy,21,0,0,1,0,0
+345,s.mlakar,Dosqaly,34,1,0,0,0,0
+346,s.namugere,Nganion,31,0,0,1,0,0
+347,s.nyarko,Greri Landmoslands,23,0,1,0,0,0
+348,s.yamamoto,Xikong,35,0,1,0,0,0
+349,s.ylmaz,Nkasland Cronestan,32,1,0,0,0,0
+350,s.zandamela,Mico,34,0,0,0,1,0
+351,t.aguti,People's Land of Maneau,26,1,1,0,0,0
+352,t.alowo,Djipines,31,0,0,1,0,0
+353,t.alzahrani,Bernepamar,22,0,1,0,0,0
+354,t.astuti,Esia,25,1,1,0,0,0
+355,t.candia,Quewenia,28,0,0,1,0,0
+356,t.cheung,Djipines,23,1,1,0,0,0
+357,t.ichikawa,People's Land of Maneau,23,1,0,0,0,0
+358,t.jakobsson,Eastern Sleboube,28,0,1,0,0,0
+359,t.mbedzi,Xikong,31,0,0,1,0,0
+360,t.nakirijja,Nganion,24,0,1,0,0,0
+361,t.neves,Sobianitedrucy,29,0,0,1,0,0
+362,t.santos,Ngoque Blicri,25,0,0,1,0,0
+363,t.takada,Leoneku Guidisia,27,0,1,0,0,0
+364,u.adjei,Esia,29,0,0,1,0,0
+365,u.ajiambo,Galamily,27,0,1,0,0,0
+366,u.ionescu,Giumle Lizeibon,35,0,0,1,0,0
+367,u.jonsson,Leoneku Guidisia,29,0,1,0,0,0
+368,u.lai,Bernepamar,29,0,1,0,0,0
+369,u.lefebvre,New Uwi,26,0,1,0,0,0
+370,u.manhique,Eastern Niasland,22,1,0,0,0,0
+371,u.mariani,Xikong,27,0,1,1,0,0
+372,u.musa,Esia,28,1,0,1,0,0
+373,u.nafula,Mico,29,1,1,0,0,0
+374,u.nambuya,Galamily,26,0,1,0,0,0
+375,u.namugerwa,Eastern Sleboube,28,1,0,1,0,0
+376,u.nishimura,Galamily,31,0,0,0,1,0
+377,u.oola,Dosqaly,26,1,1,0,0,0
+378,u.rahmawati,New Uwi,33,0,1,0,0,0
+379,u.taaka,Xikong,20,1,0,0,0,0
+380,u.wright,People's Land of Maneau,27,0,0,1,0,0
+381,u.yong,Byasier Pujan,30,1,0,0,0,0
+382,v.andersson,Dosqaly,27,0,0,1,0,0
+383,v.bila,Byasier Pujan,24,0,0,1,0,0
+384,v.binali,Sobianitedrucy,26,0,0,1,0,0
+385,v.chun,Southern Ristan,28,0,1,0,0,0
+386,v.golob,Sobianitedrucy,26,1,0,0,0,0
+387,v.guillaume,Sobianitedrucy,34,0,0,0,1,0
+388,v.inoue,Giumle Lizeibon,28,0,0,1,0,0
+389,v.it,Mico,31,0,0,1,0,0
+390,v.jankowski,Giumle Lizeibon,31,1,0,0,0,0
+391,v.kyomuhangi,Eastern Sleboube,32,1,0,0,0,0
+392,v.lao,Xikong,26,0,0,1,0,0
+393,v.namayanja,Ledian,26,1,0,0,0,0
+394,v.nanyonjo,Varijitri Isles,24,0,0,0,1,0
+395,v.nazziwa,Nganion,31,0,0,1,0,0
+396,v.nkala,Eastern Niasland,30,1,0,0,0,0
+397,v.nyakudya,Quewenia,27,1,1,0,0,0
+398,v.opiyo,Bernepamar,23,1,0,0,0,0
+399,v.purwanto,Eastern Sleboube,37,0,0,1,0,0
+400,v.thompson,People's Land of Maneau,21,0,0,1,0,0
+401,v.waswa,Byasier Pujan,30,0,1,0,0,0
+402,v.yang,Nkasland Cronestan,17,1,1,0,0,0
+403,w.bwanali,Eastern Sleboube,26,1,1,0,0,0
+404,w.dickson,New Uwi,32,0,1,1,0,0
+405,w.ghosh,Eastern Sleboube,30,1,1,0,0,0
+406,w.hagen,Ledian,25,0,0,1,0,0
+407,w.hon,Djipines,24,0,1,0,0,0
+408,w.isah,Giumle Lizeibon,26,0,1,0,0,0
+409,w.joao,Byasier Pujan,21,0,1,1,0,0
+410,w.karlsson,Southern Ristan,31,0,0,1,0,0
+411,w.khoury,Galamily,28,0,0,1,0,0
+412,w.longwe,Giumle Lizeibon,28,0,0,1,0,0
+413,w.murakami,Varijitri Isles,21,0,1,0,0,0
+414,w.nabuuma,Byasier Pujan,29,0,1,0,0,0
+415,w.nakyejwe,Eastern Sleboube,25,0,0,1,0,0
+416,w.okeke,Quewenia,25,0,0,1,0,0
+417,w.radu,Eastern Sleboube,21,0,0,0,1,0
+418,w.takata,New Uwi,20,1,0,0,0,0
+419,w.tumwesige,Eastern Sleboube,21,0,0,1,0,0
+420,w.twinamatsiko,Mico,28,0,0,1,0,0
+421,x.abramov,Byasier Pujan,18,0,1,0,0,0
+422,x.ahmad,Xikong,26,0,0,1,0,0
+423,x.akao,Ledian,33,0,1,0,0,0
+424,x.arab,Xikong,33,0,1,0,0,0
+425,x.boateng,Southern Ristan,26,0,1,1,0,0
+426,x.clement,Giumle Lizeibon,26,0,0,0,1,0
+427,x.durand,Greri Landmoslands,23,0,1,0,0,0
+428,x.foo,Eastern Niasland,28,0,0,1,0,0
+429,x.hofer,New Uwi,33,1,0,0,0,0
+430,x.james,Mico,26,1,0,0,0,0
+431,x.kawooya,Giumle Lizeibon,33,0,0,1,0,0
+432,x.kho,Mico,23,0,0,1,0,0
+433,x.krawczyk,Bernepamar,24,0,0,1,0,0
+434,x.munkuli,Mico,28,0,0,1,0,0
+435,x.nakanwagi,Southern Ristan,27,0,1,0,0,0
+436,x.nakibuuka,Southern Ristan,33,0,0,1,0,0
+437,x.neri,People's Land of Maneau,26,0,0,0,1,0
+438,x.nyombi,Nkasland Cronestan,31,1,1,0,0,0
+439,x.salihu,Ngoque Blicri,25,1,0,0,0,0
+440,x.seidu,Giumle Lizeibon,26,1,0,0,0,0
+441,x.wouters,Sobianitedrucy,23,0,1,0,0,0
+442,y.akampurira,Djipines,20,0,1,0,0,0
+443,y.almutairi,Nkasland Cronestan,25,0,1,0,0,0
+444,y.atoo,Galamily,25,1,1,0,0,0
+445,y.bauer,Leoneku Guidisia,21,1,0,0,0,0
+446,y.beh,Nkasland Cronestan,24,1,1,0,0,0
+447,y.diallo,Ngoque Blicri,19,0,1,0,0,0
+448,y.eyotaru,Mico,24,0,0,1,0,0
+449,y.gashi,Mico,29,0,0,1,0,0
+450,y.manjate,Byasier Pujan,26,1,0,0,0,0
+451,y.meyer,Nkasland Cronestan,32,0,0,1,0,0
+452,y.nabuduwa,Eastern Niasland,27,0,0,0,1,0
+453,y.nagudi,Esia,31,0,1,0,0,0
+454,y.nartey,Esia,25,1,0,0,0,0
+455,y.opio,Sobianitedrucy,30,0,0,1,0,0
+456,y.ruggiero,Southern Ristan,28,0,0,0,1,0
+457,y.salihovi,Bernepamar,29,0,0,1,0,0
+458,y.sen,Dosqaly,33,1,0,0,0,0
+459,y.smit,Sobianitedrucy,26,1,0,0,0,0
+460,y.takeuchi,Giumle Lizeibon,29,0,0,1,0,0
+461,y.vitali,Sobianitedrucy,27,0,0,1,0,0
+462,z.abidin,Ngoque Blicri,35,0,0,0,1,0
+463,z.ado,Manlisgamncent,31,0,0,1,0,0
+464,z.apili,Ledian,32,1,1,0,0,0
+465,z.banda,Eastern Niasland,21,1,1,0,0,0
+466,z.bintizakaria,People's Land of Maneau,27,1,0,0,0,0
+467,z.braun,Esia,27,0,1,1,0,0
+468,z.cher,Ngoque Blicri,26,0,1,0,0,0
+469,z.colombo,Leoneku Guidisia,32,0,0,1,0,0
+470,z.davies,Manlisgamncent,29,1,1,0,0,0
+471,z.delemovi,Sobianitedrucy,25,0,1,0,0,0
+472,z.gholami,Nganion,32,0,1,0,0,0
+473,z.griffiths,Manlisgamncent,28,0,1,0,0,0
+474,z.hribar,Nganion,24,0,0,1,0,0
+475,z.iqbal,Galamily,28,0,0,1,0,0
+476,z.janssen,Bernepamar,29,0,1,0,0,0
+477,z.khan,Ngoque Blicri,24,0,0,1,0,0
+478,z.matsui,Giumle Lizeibon,26,1,1,0,0,0
+479,z.mugeni,Galamily,28,0,0,1,0,0
+480,z.musenero,Greri Landmoslands,29,0,1,0,0,0
+481,z.nalunga,Byasier Pujan,21,0,0,1,0,0
+482,z.namiiro,Byasier Pujan,29,1,0,1,0,0
+483,z.singini,Ngoque Blicri,29,0,0,1,0,0
+484,z.testa,Giumle Lizeibon,24,1,1,0,0,0
+485,z.tuhirirwe,New Uwi,24,1,0,1,0,0
+486,z.uy,Quewenia,29,1,1,0,0,0
+487,z.wu,Ledian,25,0,0,1,0,0
