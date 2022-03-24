@@ -209,6 +209,11 @@ shooting.glm
 defense.glm
 goalkeeping.glm
 passing.glm
+
+shooting.disp
+defense.disp
+goalkeeping.disp
+passing.disp
 ```
 
 ```{r}

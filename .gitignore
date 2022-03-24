@@ -132,3 +132,5 @@ dmypy.json
 *.html
 data/optim-data/large/*
 code-market-value/market_value model/large/*
+
+.Rproj.user

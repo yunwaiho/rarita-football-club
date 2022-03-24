@@ -1,7 +1,7 @@
 "","s1"
-"(Intercept)",17.3772767607162
+"(Intercept)",17.3475371687809
 "Age",0
-"X90s",0.57885201034297
+"X90s",0.567702957769872
 "Tack.Tkl",0
 "Tack.TklW",0
 "Tack.Def.3rd",0
@@ -12,11 +12,11 @@
 "Vs.D.Tkl.",0
 "Vs.D.Past",0
 "Pres.Press",0
-"Pres.Succ",0.0544005961768772
+"Pres.Succ",0.0378966479385993
 "Pres..",0
-"Pres.Def.3rd",-0.123014480081688
+"Pres.Def.3rd",-0.105329179762283
 "Pres.Mid.3rd",0
-"Pres.Att.3rd",0.0415548686993942
+"Pres.Att.3rd",0.0404527106355335
 "Bloc.Blocks",0
 "Bloc.Sh",0
 "Bloc.ShSv",0
@@ -25,4 +25,4 @@
 "Tkl.Int",0
 "Clr",0
 "Err",0
-"I(Age^2)",-0.00140552409203724
+"I(Age^2)",-0.00135467375548034
