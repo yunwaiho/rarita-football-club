@@ -1,4 +1,0 @@
-"0","write.csv(r.shooting, ""player-selection-shooting.csv"")"
-"0","write.csv(r.passing, ""player-selection-passing.csv"")"
-"0","write.csv(r.defense, ""player-selection-defense.csv"")"
-"0","write.csv(r.goalkeeping, ""player-selection-goalkeeping.csv"")"
