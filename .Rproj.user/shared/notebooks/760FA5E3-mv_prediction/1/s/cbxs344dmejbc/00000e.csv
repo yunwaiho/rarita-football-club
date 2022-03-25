@@ -1,1 +1,0 @@
-"0","hist(defense$mv - as.numeric(exp(model.matrix(mv ~ . + I(Age^2), data = defense) %*% defense.glm)), breaks = 100)"

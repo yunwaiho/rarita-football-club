@@ -1,4 +1,0 @@
-"0","shooting.covariates <- model.matrix(mv ~ . + I(Age^2), data = shooting)"
-"0","passing.covariates <- model.matrix(mv ~ . + I(Age^2), data = passing)"
-"0","defense.covariates <- model.matrix(mv ~ . + I(Age^2), data = defense)"
-"0","goalkeeping.covariates <- model.matrix(mv ~ . + I(Age^2), data = goalkeeping)"
